@@ -33,11 +33,11 @@ if __name__ == "__main__":
             enval: str = tvalue["label"].get("en")
             en_row: Optional[Dict] = search_csvfile(csvfile, "en", enval)
 
-            if not en_row:
-                log.error("No value found for %s", enval)
-                continue
-
-            output[tkey] = {"label": en_row["key"]}
+            if en_row:
+                output[tkey] = {"label": en_row["key"]}
+            else:
+                log.warning("No value found for %s", enval)
+                output[tkey] = {"label": ""}
 
         if 'fields' in tvalue:
             output[tkey]["fields"] = {}
@@ -45,11 +45,11 @@ if __name__ == "__main__":
                 field_enval = fieldval["label"].get("en")
                 field_row = search_csvfile(csvfile, "en", field_enval)
 
-                if not field_row:
-                    log.error("No value found for %s: %s, %s", tkey, field_enval, fieldval)
-                    continue
-
-                output[tkey]["fields"][fieldkey] = {"label": field_row["key"]}
+                if field_row:
+                    output[tkey]["fields"][fieldkey] = {"label": field_row["key"]}
+                else:
+                    log.warning("No value found for %s: %s, %s", tkey, field_enval, fieldval)
+                    output[tkey]["fields"][fieldkey] = {"label": ""}
 
     sorted_output = dict(sorted(output.items()))
 
