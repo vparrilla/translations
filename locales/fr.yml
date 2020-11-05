@@ -217,7 +217,7 @@ fr:
     accession_number: Numéro d'acquisition
     added_entry_name: Nom additionnel
     additional_author: Auteur supplémentaire
-    additional_bibliographical_information: Référence bibliographique additionnelle
+    additional_bibliographic_information: Référence bibliographique additionnelle
     additional_biographical_information: Référence biographique additionnelle
     additional_choir_voice: Voix de choeur additionnelles
     additional_institution: Nom supplémentaire de la collectivité
@@ -245,19 +245,19 @@ fr:
     associated_name: Nom associé
     associated_place: Endroit associé
     attribution_qualifier: Qualificatif d'attribution
+    authentication_code: Code d'authentification
     authentication_code1: Code d'authentification
-    authentication_code2: Code d'authentification
     author: Auteur
     author_editor: Auteur / directeur
     authorities: Liste d'autorités
     authority_agency: Agence d'authorité
-    authority_reference1: Référence d'authorité
+    authority_reference: Référence d'authorité
     authority_reference2: Référence d'authorité
     autography: Autographie
     b_major: Si majeur
     b_minor: Si mineur
+    baptismal_name: Nom baptismale
     baptismal_name1: Nom baptismale
-    baptismal_name2: Nom baptismale
     basic_functions: Fonctions de base
     basso_continuo: Basso continuo
     bf_major: Si♭ majeur
@@ -272,7 +272,7 @@ fr:
     bound_with: Relié en
     brass_instruments: Cuivres
     brief: Bref
-    brother_of: frère de
+    brother_of: Frère de
     byname: Surnom
     c_major: Do majeur
     c_minor: Do mineur
@@ -286,6 +286,7 @@ fr:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: No. de catalogue thématique/Opus
     catalog_works: Catalogue des oeuvres
     cataloging_agency: Agence de catalogation
     cataloging_collection_convoluta: 'Catalogation de recueils et volumes composés '
@@ -295,8 +296,6 @@ fr:
     cataloging_level: Niveau de catalogation
     cataloging_musical_sources: Catalogation des sources musicales
     cataloging_source: Source du catalogage
-    catalogue_opus_number: No. de catalogue thématique/Opus
-    cataloguing_agency: Source du catalogage
     category: Type
     censor: Censeur
     cf_major: Do♭ majeur
@@ -330,7 +329,7 @@ fr:
     contents_note: Note sur le contenu
     contributer: Collaborateur
     contributor: Collaborateur
-    control_fields1: Champs de contrôle
+    control_fields: Champs de contrôle
     control_fields2: Champs de contrôle
     control_number_identifier: Identité du numéro de contrôle
     copy_examined: Copie consultée pour le catalogage
@@ -453,8 +452,8 @@ fr:
     gs_minor: Sol♯ mineur
     heading: Nom de personne
     heading_composer_name: Compositeur
+    heading_personal_name: Compositeur/Auteur
     heading_personal_name1: Compositeur/Auteur
-    heading_personal_name2: Compositeur/Auteur
     heading_personal_name3: Nom
     help_transposing_instruments: Aide pour les instruments transpositeurs
     history_institution: Historique de l'institution
@@ -472,7 +471,7 @@ fr:
     index_terms: Termes
     information_found: Référence pour l'information
     initial: Initiale
-    initial_entry: Première entrée
+    initial_entry: Première notice
     initials: Initiale
     insertions: Insertions
     inserts: Insertions
@@ -480,13 +479,13 @@ fr:
     institutions: Institution
     instrumentalist: Instrumentiste
     internal_note: Note non publique
+    internal_notes: Note interne
     internal_notes1: Note interne
-    internal_notes2: Note interne
     introduction: Introduction
     isbn: ISBN
     ismn: ISMN
     issn: ISSN
-    item_in_collection: Contenu dans la collection
+    item_in_collection: Contenu de la collection
     item_part_of: Fait partie de
     items_in_source: Contenu de la collection
     japanese: Japonais
@@ -495,11 +494,12 @@ fr:
     key_signature: Armure
     keyboards: Instruments à clavier
     keys: Tonalités
-    language_code1: Code de langue
+    language_code: Code de langue
     language_code2: Code de langue
     language_codes: Codes de langue
     language_libretto: Langue du livret
     language_note: Note sur la langue
+    language_of_cataloging: Langue de catalogage
     language_of_cataloguing: Langue de catalogage
     language_original_text: Langue du texte original
     language_text: Langue du texte chanté
@@ -534,7 +534,7 @@ fr:
     location_printer: Lieu d'impression
     longitude: Longitude
     lyricist: Parolier
-    main_entry_fields: Entrées principales
+    main_entry_fields: Champs principales
     marriage_name: Nom de mariage
     married_name: Nom de mariage
     married_to: Marié/e avec
@@ -545,7 +545,7 @@ fr:
     material_not_examined: Matériaux non examinés
     media_type: Moyen physique
     mensural_clefs: Clés anciennes
-    method_acquisition: Méthode d'acquisition
+    method_of_acquisition: Méthode d'acquisition
     misattributed: Erroné
     miscellaneous: Divers
     mode_10t: 'Mode: 10t – Hypoéolien'
@@ -585,7 +585,7 @@ fr:
     name_family: Nom de famille
     name_printer: Imprimeur, imprimerie
     name_variant: Variantes du nom
-    name_variants1: Variantes du nom
+    name_variants: Variantes du nom
     name_variants2: Variantes du nom
     named_dramatic_roles: Personnages nommés
     nationality: Code du pays
@@ -595,7 +595,7 @@ fr:
     note: Note
     note_external_resource: Remarque sur la ressource externe
     note_fields: Champs de note
-    note_on_performance1: Remarque sur les interprètes
+    note_on_performance: Remarque sur les interprètes
     note_on_performance2: Remarque sur les interprètes
     now_in: Maintenant à
     number: Nombre
@@ -622,8 +622,8 @@ fr:
     origin: Origine
     original_cataloging_agency: Organisme du catalogage original
     original_cataloguing_agency: Organisme du catalogage original
+    other: Autre function
     other1: Autres
-    other2: Autre function
     other_form: Autres formes
     other_form_of_name: Autre forme de nom
     other_function: Autre fonction
@@ -653,22 +653,22 @@ fr:
     personal_name: Nom de la personne
     personal_names: Noms de personne
     photoreproductive_process: Reproduction photo (blueprint)
-    physical_description1: Description matérielle
+    physical_description: Description matérielle
     physical_description2: Matériel
     physical_description_fields: Champs pour la description matérielle
     place: Lieu
     place_active: Lieu d'activité
     place_activity: Lieu d'activité
-    place_birth1: Lieu de naissance
+    place_birth: Lieu de naissance
     place_birth2: Lieu de naissance
+    place_death: Lieu de décès
     place_death1: Lieu de décès
-    place_death2: Lieu de décès
-    place_origin1: Lieu d'origine
+    place_origin: Lieu d'origine
     place_origin2: Lieu d'origine
     place_publication: Endroit
     places: Lieux
+    plate_number: Numéro de plaque
     plate_number1: Numéro de plaque
-    plate_number2: Numéro de plaque
     plucked_instruments: Instruments à cordes pincées
     postal_code: Code postal
     postal_place: Endroit postal
@@ -697,7 +697,7 @@ fr:
     region_active: Région d'activité
     region_of_activity: Région d'activité
     related_institution: Institution liée
-    related_personal_name: ''
+    related_personal_name: Nom de personne lié
     related_place: Lieu lié
     related_resources: Liens
     related_titles: Titres liés
@@ -710,15 +710,15 @@ fr:
     reproduction: Reproduction
     research_institute: Institution de recherche
     retrospective_conversion: Conversion retrospective
-    rism_id_number1: No. RISM
+    rism_id_number: No. RISM
     rism_id_number2: No. RISM
     role: Personnage
-    scoring_in_movement: Distribution du mouvement
-    scoring_summary: Distribution
+    scoring_in_movement: Instrumentation du mouvement
+    scoring_summary: Instrumentation
     scribe: Copiste / scribe
     secondary_literature: Références
     series: Série
-    series_added_entry: Entrées de collection
+    series_added_entry: Champs de collection
     series_statement: Mentions de collection
     set: Groupe de matériaux
     shelfmark: Cote
@@ -756,7 +756,7 @@ fr:
     subject_heading: Sujet
     subject_headings: Sujet
     subordinate_unit: Collectivité subordonnée
-    succeeding_entry: Entrée suivante
+    succeeding_entry: Notice suivante
     summary: Résumé
     supplementary_material: Matériel supplémentaire
     technical_errors: Problème technique
@@ -792,8 +792,8 @@ fr:
     type_relationship: Relation
     typescript: Tapuscrit
     typography: Typographie
+    unknown: Inconnu
     unknown1: inconnu
-    unknown2: Inconnu
     unparsed_fingerprint: Empreinte non analysée
     variant_ms_title: Variante du titre diplomatique
     variant_source_title: Variante du titre diplomatique
@@ -803,7 +803,7 @@ fr:
     volume_year_page: Volume, année, page
     watermark_description: Filigrane
     woodwinds: Bois
-    work1: Oeuvre
+    work: Oeuvre
     work2: Oeuvre
     work_number: Numéro de l'œuvre
     year: Année

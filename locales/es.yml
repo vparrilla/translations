@@ -216,7 +216,7 @@ es:
     accession_number: Número de accesión
     added_entry_name: ''
     additional_author: Autor adicional
-    additional_bibliographical_information: Información bibliográfica adicional
+    additional_bibliographic_information: Información bibliográfica adicional
     additional_biographical_information: Información biográfica adicional
     additional_choir_voice: Voz en coro adicional
     additional_institution: Institución adicional
@@ -244,19 +244,19 @@ es:
     associated_name: Nombre asociado
     associated_place: Lugar asociado
     attribution_qualifier: Calificador de atribución
+    authentication_code: Código de autenticación
     authentication_code1: Código de autenticación
-    authentication_code2: Código de autenticación
     author: Autor
     author_editor: Autor/editor
     authorities: Autoridades
     authority_agency: Agencia de autoridad
-    authority_reference1: Referencia de autoridad
+    authority_reference: Referencia de autoridad
     authority_reference2: Referencia de autoridad
     autography: Autografía
     b_major: Si Mayor
     b_minor: Si menor
+    baptismal_name: Nombre bautismal
     baptismal_name1: Nombre bautismal
-    baptismal_name2: Nombre bautismal
     basic_functions: Funciones básicas
     basso_continuo: Bajo continuo
     bf_major: Si bemol Mayor
@@ -271,7 +271,7 @@ es:
     bound_with: Encuadernado con
     brass_instruments: Vientos-metal
     brief: ''
-    brother_of: hermano de
+    brother_of: Hermano de
     byname: Apodo
     c_major: Do Mayor
     c_minor: Do menor
@@ -285,6 +285,7 @@ es:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: ''
     catalog_works: Catálogo de obras
     cataloging_agency: Agencia catalogadora
     cataloging_collection_convoluta: Catalogación de colecciones y volúmenes compuestos
@@ -294,8 +295,6 @@ es:
     cataloging_level: Nivel de catalogación
     cataloging_musical_sources: Catalogación de fuentes musicales
     cataloging_source: Fuente de la catalogación
-    catalogue_opus_number: ''
-    cataloguing_agency: Agencia de catalogación
     category: Categoría
     censor: Censor
     cf_major: Do bemol Mayor
@@ -329,7 +328,7 @@ es:
     contents_note: Nota sobre el contenido
     contributer: Colaborador
     contributor: Colaborador
-    control_fields1: Campos de control
+    control_fields: Campos de control
     control_fields2: Campos de control
     control_number_identifier: Identificador del número de control
     copy_examined: Copia examinada para la catalogación
@@ -452,8 +451,8 @@ es:
     gs_minor: Sol sostenido menor
     heading: Encabezado
     heading_composer_name: Compositor
+    heading_personal_name: Nombre personal
     heading_personal_name1: Nombre personal principal
-    heading_personal_name2: Nombre personal
     heading_personal_name3: Nombre personal
     help_transposing_instruments: Ayuda para instrumentos transpositores
     history_institution: Historia de la institución
@@ -479,8 +478,8 @@ es:
     institutions: Instituciones
     instrumentalist: Instrumentista
     internal_note: Nota interna
+    internal_notes: Notas internas
     internal_notes1: Notas internas
-    internal_notes2: Notas internas
     introduction: Introducción
     isbn: ISBN
     ismn: ISMN
@@ -494,11 +493,12 @@ es:
     key_signature: Armadura de clave
     keyboards: ''
     keys: Tonalidades
-    language_code1: Código de idioma
+    language_code: Código de idioma
     language_code2: Código de idioma
     language_codes: Código de idioma
     language_libretto: Idioma del libreto
     language_note: Nota de idioma
+    language_of_cataloging: Idioma de catalogación
     language_of_cataloguing: Idioma de catalogación
     language_original_text: Idioma del texto original
     language_text: Idioma del texto
@@ -544,7 +544,7 @@ es:
     material_not_examined: Material no examinado
     media_type: Tipo de medio físico
     mensural_clefs: Claves mensurales
-    method_acquisition: Método de adquisición
+    method_of_acquisition: Método de adquisición
     misattributed: Mal atribuida
     miscellaneous: Varios
     mode_10t: 'Modo: 10º tono (Hipoeólico)'
@@ -584,7 +584,7 @@ es:
     name_family: Apellido
     name_printer: Nombre del impresor
     name_variant: Variantes del nombre
-    name_variants1: Variantes del nombre
+    name_variants: Variantes del nombre
     name_variants2: Variantes del nombre
     named_dramatic_roles: Nombres de personajes
     nationality: Nacionalidad
@@ -594,7 +594,7 @@ es:
     note: Nota
     note_external_resource: Nota sobre el recurso externo
     note_fields: Campos de notas
-    note_on_performance1: Nota sobre ocasión de interpretación
+    note_on_performance: Nota sobre ocasión de interpretación
     note_on_performance2: Nota sobre ocasión de interpretación
     now_in: Actualmente en
     number: Número
@@ -618,8 +618,8 @@ es:
     origin: Origen
     original_cataloging_agency: Agencia de catalogación original
     original_cataloguing_agency: Agencia de catalogación original
+    other: Otra función
     other1: Otra función
-    other2: Otra función
     other_form: Ortografía alternativa
     other_form_of_name: Otra forma del nombre
     other_function: Otra función
@@ -649,22 +649,22 @@ es:
     personal_name: Nombre de pila
     personal_names: Nombres personales
     photoreproductive_process: Proceso fotoreproductivo
-    physical_description1: Descripción física
+    physical_description: Descripción física
     physical_description2: Descripción física
     physical_description_fields: Campos para la descripción Material
     place: Lugar
     place_active: Lugar de actividad
     place_activity: Lugar de actividad
-    place_birth1: Lugar de nacimiento
+    place_birth: Lugar de nacimiento
     place_birth2: Lugar de nacimiento
+    place_death: Lugar de fallecimiento
     place_death1: Lugar de fallecimiento
-    place_death2: Lugar de fallecimiento
-    place_origin1: Lugar de origen
+    place_origin: Lugar de origen
     place_origin2: Lugar de origen
     place_publication: Lugar de publicación
     places: Lugares
+    plate_number: Número de plancha
     plate_number1: Número de plancha
-    plate_number2: Número de plancha
     plucked_instruments: Cuerdas pulsadas
     postal_code: Código postal
     postal_place: Dirección postal
@@ -706,7 +706,7 @@ es:
     reproduction: Reproducción
     research_institute: Institución
     retrospective_conversion: Conversión retrospectiva
-    rism_id_number1: Número de ID de RISM
+    rism_id_number: Número de ID de RISM
     rism_id_number2: Número de ID de RISM
     role: Personaje
     scoring_in_movement: Plantilla/orgánico del movimiento
@@ -788,8 +788,8 @@ es:
     type_relationship: Tipo de relación
     typescript: Escrito mecanografiado
     typography: Tipografía
+    unknown: Desconcido
     unknown1: desconocido
-    unknown2: Desconcido
     unparsed_fingerprint: Identificador tipográfico no disgregado
     variant_ms_title: Variante de título en fuente
     variant_source_title: Variante de título en fuente
@@ -799,7 +799,7 @@ es:
     volume_year_page: Volumen, año, página
     watermark_description: Descripción de las filigranas
     woodwinds: Vientos-madera
-    work1: Obra
+    work: Obra
     work2: Obra
     work_number: Número de obra
     year: Año

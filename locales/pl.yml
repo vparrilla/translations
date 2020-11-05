@@ -216,7 +216,7 @@ pl:
     accession_number: Numer akcesji
     added_entry_name: Dodana nazwa wpisu
     additional_author: Dodatkowy autor
-    additional_bibliographical_information: Dodatkowe informacje bibliograficzne
+    additional_bibliographic_information: Dodatkowe informacje bibliograficzne
     additional_biographical_information: Dodatkowe informacje biograficzne
     additional_choir_voice: Dodatkowy głos chóralny
     additional_institution: Dodatkowa instytucja
@@ -244,19 +244,19 @@ pl:
     associated_name: Powiązana nazwa
     associated_place: Powiązane miejsce
     attribution_qualifier: Kwalifikator atrybucji
+    authentication_code: Kod uwierzytelnienia
     authentication_code1: Kod uwierzytelnienia
-    authentication_code2: Kod uwierzytelnienia
     author: Autor
     author_editor: Autor / edytor
     authorities: Hasła wzorcowe
     authority_agency: Baza haseł wzorcowych
-    authority_reference1: Odniesienie do bazy haseł wzorcowych
+    authority_reference: Odniesienie do bazy haseł wzorcowych
     authority_reference2: Odniesienie do bazy haseł wzorcowych
     autography: Autografia
     b_major: H-dur
     b_minor: h-moll
+    baptismal_name: Imię z chrztu
     baptismal_name1: Imię z chrztu
-    baptismal_name2: Imię z chrztu
     basic_functions: Podstawowe funkcje
     basso_continuo: Basso continuo
     bf_major: B-dur
@@ -285,6 +285,7 @@ pl:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: Numer katalogu / numer opus
     catalog_works: Katalog dzieł
     cataloging_agency: Jednostka katalogująca
     cataloging_collection_convoluta: Katalogowanie kolekcji i klocka introligatorskiego
@@ -294,8 +295,6 @@ pl:
     cataloging_level: Poziom katalogowania
     cataloging_musical_sources: Katalogowanie źródeł muzycznych
     cataloging_source: Katalogowanie źródła
-    catalogue_opus_number: Numer katalogu / numer opus
-    cataloguing_agency: Jednostka katalogująca
     category: Kategoria
     censor: Cenzor
     cf_major: Ces-dur
@@ -329,7 +328,7 @@ pl:
     contents_note: Uwaga do zawartości
     contributer: Kontrybutor
     contributor: Kontrybutor
-    control_fields1: Pola kontrolne
+    control_fields: Pola kontrolne
     control_fields2: Pola kontrolne
     control_number_identifier: Identyfikator numeru kontrolnego
     copy_examined: Katalogowany egzemplarz
@@ -452,8 +451,8 @@ pl:
     gs_minor: gis-moll
     heading: Nagłówek
     heading_composer_name: Nagłówek – imię i nazwisko kompozytora
+    heading_personal_name: Nagłówek – Osoba
     heading_personal_name1: Nagłówek – nazwisko
-    heading_personal_name2: Nagłówek – Osoba
     heading_personal_name3: Nagłówek – Osoba
     help_transposing_instruments: Pomoc przy transpozycji instrumentów
     history_institution: Historia instytucji
@@ -479,8 +478,8 @@ pl:
     institutions: Instytucje
     instrumentalist: Instrumentalista
     internal_note: Uwaga wewnętrzna
+    internal_notes: Uwagi wewnętrzne
     internal_notes1: Uwagi wewnętrzne
-    internal_notes2: Uwagi wewnętrzne
     introduction: Wprowadzenie
     isbn: ISBN
     ismn: ISMN
@@ -494,11 +493,12 @@ pl:
     key_signature: Znaki przykluczowe
     keyboards: Instrumenty klawiszowe
     keys: Tomacje
-    language_code1: Kod języka
+    language_code: Kod języka
     language_code2: Kod języka
     language_codes: Kody języków
     language_libretto: Język libretta
     language_note: Uwaga o języku
+    language_of_cataloging: Język katalogowania
     language_of_cataloguing: Język katalogowania
     language_original_text: Język tekstu oryginalnego
     language_text: Język tekstu
@@ -544,7 +544,7 @@ pl:
     material_not_examined: Materiał nie zbadany
     media_type: Rodzaj nośnika
     mensural_clefs: Klucze menzuralne
-    method_acquisition: Sposób nabycia
+    method_of_acquisition: Sposób nabycia
     misattributed: Błędnie przypisane
     miscellaneous: Pozostałe
     mode_10t: 'Skala: 10t – hypoeolska'
@@ -584,7 +584,7 @@ pl:
     name_family: Nazwa rodziny
     name_printer: Nazwa drukarni
     name_variant: Alternatywna nazwa osoby
-    name_variants1: Alternatywne nazwy osoby
+    name_variants: Alternatywne nazwy osoby
     name_variants2: Alternatywne nazwy osoby
     named_dramatic_roles: Postaci
     nationality: Narodowość
@@ -594,7 +594,7 @@ pl:
     note: Uwaga
     note_external_resource: Uwaga o zasobie zewnętrznym
     note_fields: Pola uwag
-    note_on_performance1: Uwaga o wykonaniu
+    note_on_performance: Uwaga o wykonaniu
     note_on_performance2: Uwaga o wykonaniu
     now_in: Obecnie w …
     number: Liczba
@@ -621,8 +621,8 @@ pl:
     origin: Pochodzenie
     original_cataloging_agency: Jednostka katalogująca pierwotny rekord
     original_cataloguing_agency: Jednostka katalogująca pierwotny rekord
+    other: Pozostałe
     other1: Pozostałe
-    other2: Pozostałe
     other_form: Inna forma
     other_form_of_name: Wariant nazwy instytucji
     other_function: Inna funkcja
@@ -652,22 +652,22 @@ pl:
     personal_name: Imię i nazwisko
     personal_names: Osoby
     photoreproductive_process: Proces optyczny (światłokopia)
-    physical_description1: Opis fizyczny
+    physical_description: Opis fizyczny
     physical_description2: Opis fizyczny
     physical_description_fields: Opis fizyczny itp. pola
     place: Miejsce
     place_active: Miejsce aktywności artystycznej
     place_activity: Miejsce aktywności artystycznej
-    place_birth1: Miejsce urodzenia
+    place_birth: Miejsce urodzenia
     place_birth2: Miejsce urodzenia
+    place_death: Miejsce śmierci
     place_death1: Miejsce śmierci
-    place_death2: Miejsce śmierci
-    place_origin1: Miejsce pochodzenia
+    place_origin: Miejsce pochodzenia
     place_origin2: Miejsce pochodzenia
     place_publication: Miejsce publikacji
     places: Miejsca
+    plate_number: Numer wydawniczy
     plate_number1: Numer wydawniczy
-    plate_number2: Numer wydawniczy
     plucked_instruments: Instrumenty szarpane
     postal_code: Kod pocztowy
     postal_place: Rejon pocztowy
@@ -709,7 +709,7 @@ pl:
     reproduction: Reprodukcja
     research_institute: Instytut badawczy
     retrospective_conversion: Konwersja retrospektywna
-    rism_id_number1: RISM ID
+    rism_id_number: RISM ID
     rism_id_number2: RISM ID
     role: Rola
     scoring_in_movement: Obsada w części
@@ -791,8 +791,8 @@ pl:
     type_relationship: Rodzaj relacji
     typescript: Maszynopis
     typography: Typografia
+    unknown: Nieznane
     unknown1: płeć nieznana
-    unknown2: Nieznane
     unparsed_fingerprint: Nieprzeanalizowany odcisk palca
     variant_ms_title: Alternatywny tytuł w rękopisie
     variant_source_title: Alternatywny tytuł w źródle
@@ -802,7 +802,7 @@ pl:
     volume_year_page: Wolumen, rok, strona
     watermark_description: Opis znaku wodnego
     woodwinds: Instrumenty dęte drewniane
-    work1: Dzieło
+    work: Dzieło
     work2: Dzieło
     work_number: Numer dzieła
     year: Rok

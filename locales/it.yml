@@ -217,7 +217,7 @@ it:
     accession_number: Numero di acquisizione
     added_entry_name: Nomi aggiuntivi
     additional_author: Autore aggiuntivo
-    additional_bibliographical_information: Informazioni bibliografiche addizionali
+    additional_bibliographic_information: Informazioni bibliografiche addizionali
     additional_biographical_information: Informazioni biografiche addizionali
     additional_choir_voice: Voci di coro aggiuntive
     additional_institution: Nome di ente aggiuntivo
@@ -245,19 +245,19 @@ it:
     associated_name: Nome associato
     associated_place: Luogo associato
     attribution_qualifier: Qualificazione d'attribuzione
+    authentication_code: Codice di autenticazione
     authentication_code1: Codice di autenticazione
-    authentication_code2: Codice di autenticazione
     author: Autore
     author_editor: Autore / curatore
     authorities: Voci di autorità
     authority_agency: Agenzia autorità
-    authority_reference1: Riferimento all'autorità
+    authority_reference: Riferimento all'autorità
     authority_reference2: Riferimento all'autorità
     autography: Autografia
     b_major: Si maggiore
     b_minor: Si minore
+    baptismal_name: Nome di battesimo
     baptismal_name1: Nome di battesimo
-    baptismal_name2: Nome di battesimo
     basic_functions: Funzioni base
     basso_continuo: Basso continuo
     bf_major: Si♭ maggiore
@@ -286,6 +286,7 @@ it:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: Catalogo/Numero d'opera
     catalog_works: Catalogo delle opere
     cataloging_agency: Agenzia di catalogazione
     cataloging_collection_convoluta: Catalogazione di raccolte e volumi compositi
@@ -295,8 +296,6 @@ it:
     cataloging_level: Livello di catalogazione
     cataloging_musical_sources: Catalogazione delle fonti musicali
     cataloging_source: Fonte della catalogazione
-    catalogue_opus_number: Catalogo/Numero d'opera
-    cataloguing_agency: Fonte della catalogazione
     category: Tipo
     censor: Censore
     cf_major: Do♭ maggiore
@@ -330,7 +329,7 @@ it:
     contents_note: Nota di contenuto
     contributer: Collaboratore
     contributor: Collaboratore
-    control_fields1: Campi di controllo
+    control_fields: Campi di controllo
     control_fields2: Campi di controllo
     control_number_identifier: Identificatore del numero di controllo
     copy_examined: Copa esaminata per la catalogazione
@@ -453,8 +452,8 @@ it:
     gs_minor: Sol♯ minore
     heading: Nome di persona
     heading_composer_name: Compositore
+    heading_personal_name: Nome di persona
     heading_personal_name1: Nome di persona
-    heading_personal_name2: Nome di persona
     heading_personal_name3: Nome
     help_transposing_instruments: Tabella degli strumenti traspositori
     history_institution: Storia dell'ente
@@ -480,13 +479,13 @@ it:
     institutions: Istituzione
     instrumentalist: Strumentista
     internal_note: Nota interna
+    internal_notes: Nota interna
     internal_notes1: Nota interna
-    internal_notes2: Nota interna
     introduction: Introduzione
     isbn: ISBN
     ismn: ISMN
     issn: ISSN
-    item_in_collection: Contenuto nella raccolta
+    item_in_collection: Contenuto della raccolta
     item_part_of: Fa parte di
     items_in_source: Contenuto della raccolta
     japanese: Giapponese
@@ -495,11 +494,12 @@ it:
     key_signature: Armatura di chiave
     keyboards: Strumenti a tastiera
     keys: Tonalità
-    language_code1: Codice lingua
+    language_code: Codice lingua
     language_code2: Codice lingua
     language_codes: Codici lingue
     language_libretto: Lingua del libretto
     language_note: Nota sulla lingua
+    language_of_cataloging: Lingua della catalogazione
     language_of_cataloguing: Lingua della catalogazione
     language_original_text: Lingua del testo originale
     language_text: Lingua del testo cantato
@@ -545,7 +545,7 @@ it:
     material_not_examined: Materiale non esaminato
     media_type: Mezzo fisico
     mensural_clefs: Chiavi mensurali
-    method_acquisition: Metodo d'acquisto
+    method_of_acquisition: Metodo d'acquisto
     misattributed: Erronea
     miscellaneous: Varia
     mode_10t: 'Modo: 10t – Ipoeolio'
@@ -575,7 +575,7 @@ it:
     modifying_agency: Agenzia della modifica
     monogram: Monogramma
     mother_of: Madre di
-    movement_number: Movimento N.
+    movement_number: N.o del movimento
     multiple: Multiple
     multiple_copies: Exemplari multipli
     multiple_single_dates: Date singole multiple
@@ -585,7 +585,7 @@ it:
     name_family: Nome di famiglia
     name_printer: Stampatore, stamperia
     name_variant: Varianti del nome
-    name_variants1: Varianti del nome
+    name_variants: Varianti del nome
     name_variants2: Varianti del nome
     named_dramatic_roles: Personaggi menzionati
     nationality: Codice del Paese
@@ -595,7 +595,7 @@ it:
     note: Nota
     note_external_resource: Nota sulla risorsa esterna
     note_fields: Campi note
-    note_on_performance1: Nota sull'esecuzione
+    note_on_performance: Nota sull'esecuzione
     note_on_performance2: Nota sull'esecuzione
     now_in: Ora in
     number: Numero
@@ -616,14 +616,14 @@ it:
       bizantina)'
     online_finding_aids: Strumenti di supporto alla ricerca online
     opera_houses_concert_halls: Teatri e sale da concerto
-    opus_number: Num. d'opera
-    opus_thematic_index_number: Numero d'opus / del catalogo delle opere
+    opus_number: N.o d'opera
+    opus_thematic_index_number: Numero d'opera / del catalogo delle opere
     order_name: Nome di religione
     origin: Origine
     original_cataloging_agency: Agenzia catalografica originale
     original_cataloguing_agency: Agenzia catalografica originale
+    other: Altra funzione
     other1: Altro
-    other2: Altra funzione
     other_form: Ortografia alternativa
     other_form_of_name: Altre forme del nome
     other_function: Altra funzione
@@ -653,22 +653,22 @@ it:
     personal_name: Nome di persona
     personal_names: Nomi di persona
     photoreproductive_process: Cianografia
-    physical_description1: Descrizione fisica
+    physical_description: Descrizione fisica
     physical_description2: Materiale
     physical_description_fields: Campi per la descrizione fisica
     place: Luogo
     place_active: Luogo di attività
     place_activity: Luogo di attività
-    place_birth1: Luogo di nascita
+    place_birth: Luogo di nascita
     place_birth2: Luogo di nascita
+    place_death: Luogo di morte
     place_death1: Luogo di morte
-    place_death2: Luogo di morte
-    place_origin1: Luogo di origine
+    place_origin: Luogo di origine
     place_origin2: Luogo di origine
     place_publication: Luogo
     places: Luoghi
+    plate_number: Numero della lastra
     plate_number1: Numero della lastra
-    plate_number2: Numero della lastra
     plucked_instruments: Strumenti a pizzico
     postal_code: Codice postale
     postal_place: Luogo postale
@@ -710,7 +710,7 @@ it:
     reproduction: Riproduzione
     research_institute: Istituto di ricerca
     retrospective_conversion: Conversione retrospettiva
-    rism_id_number1: Numero documento RISM
+    rism_id_number: Numero documento RISM
     rism_id_number2: Numero RISM
     role: Personaggio
     scoring_in_movement: Organico del movimento
@@ -771,7 +771,7 @@ it:
     title: Titolo
     title_content_description: Titolo e descrizione del contenuto
     title_item: Titolo
-    title_movement_tempo: Intestazione, Tempo
+    title_movement_tempo: Intestazione, tempo
     title_of_work: Titolo dell'opera
     title_on_source: Titolo diplomatico
     title_periodical_book_series: Titolo del periodico o della miscellanea
@@ -792,8 +792,8 @@ it:
     type_relationship: Relazione
     typescript: Dattiloscritto
     typography: Stampa tipografica
+    unknown: Sconosciuto
     unknown1: sconosciuto
-    unknown2: Sconosciuto
     unparsed_fingerprint: Impronta non analizzata
     variant_ms_title: Varianti del titolo diplomatico
     variant_source_title: Varianti del titolo diplomatico
@@ -803,8 +803,8 @@ it:
     volume_year_page: Volume, anno, pagina
     watermark_description: Filigrana
     woodwinds: Legni
-    work1: Opera
+    work: Opera
     work2: Opera
-    work_number: Numero dell'incipit
+    work_number: Numero dell'opera
     year: Anno
     years_birth_death: Data di nascita e di morte

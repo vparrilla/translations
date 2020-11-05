@@ -3,10 +3,10 @@ en:
     e_mail: E-mail
     editor_help: Editor help
     faq: Frequently asked questions
-    female: female
+    female: Female
     how_do_i: How do I ... Tips & Tricks
     index_marc_fields: Index of MARC fields
-    male: male
+    male: Male
     marc_tag_index: MARC tag index
     'no': 'No'
     rism: RISM
@@ -216,7 +216,7 @@ en:
     accession_number: Accession number
     added_entry_name: Added entry name
     additional_author: Additional author
-    additional_bibliographical_information: Additional bibliographical information
+    additional_bibliographic_information: Additional bibliographic information
     additional_biographical_information: Additional biographical information
     additional_choir_voice: Additional choir voice
     additional_institution: Additional institution
@@ -244,19 +244,19 @@ en:
     associated_name: Associated name
     associated_place: Associated Place
     attribution_qualifier: Attribution qualifier
+    authentication_code: Authentication code
     authentication_code1: Authentication Code
-    authentication_code2: Authentication code
     author: Author
     author_editor: Author / Editor
     authorities: Authorities
     authority_agency: Authority Agency
-    authority_reference1: Authority reference
+    authority_reference: Authority reference
     authority_reference2: Authority Reference
     autography: Autography
     b_major: B major
     b_minor: B minor
+    baptismal_name: Baptismal name
     baptismal_name1: Baptsimal Name
-    baptismal_name2: Baptsimal name
     basic_functions: Basic functions
     basso_continuo: Basso continuo
     bf_major: B♭ major
@@ -271,7 +271,7 @@ en:
     bound_with: Bound with
     brass_instruments: Brass instruments
     brief: Brief
-    brother_of: brother of
+    brother_of: Brother of
     byname: Byname
     c_major: C major
     c_minor: C minor
@@ -285,6 +285,7 @@ en:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: Catalog number/Opus number
     catalog_works: Catalog of works
     cataloging_agency: Cataloging agency
     cataloging_collection_convoluta: Cataloging collection and convoluta
@@ -294,13 +295,11 @@ en:
     cataloging_level: Cataloging level
     cataloging_musical_sources: Cataloging musical sources
     cataloging_source: Cataloging source
-    catalogue_opus_number: Catalogue number/Opus number
-    cataloguing_agency: Cataloguing agency
     category: Category
     censor: Censor
     cf_major: C♭ major
     cf_minor: C♭ minor
-    child_of: child of
+    child_of: Child of
     choir_voice: Choir voice
     choreographer: Choreographer
     chronological_subdivision: Chronological subdivision
@@ -320,7 +319,7 @@ en:
     computer_printout: Computer printout
     conceptor: Conceptor
     conductor: Conductor
-    confused_with: confused with
+    confused_with: Confused with
     conjectural: Conjectural
     contact: Contact
     contact_area: Contact area
@@ -329,7 +328,7 @@ en:
     contents_note: Contents note
     contributer: Contributer
     contributor: Contributor
-    control_fields1: Control fields
+    control_fields: Control fields
     control_fields2: Control Fields
     control_number_identifier: Control number identifier
     copy_examined: Copy examined for cataloging
@@ -412,10 +411,10 @@ en:
     f_plus_5: F+5
     facsimile: Facsimile
     family_name: Family Name
-    father_of: father of
+    father_of: Father of
     figured_bass_scores: Figured bass in scores and/or other parts
     fijian: Fijian
-    fingerprint_identifier: Fingerprint Identifier
+    fingerprint_identifier: Fingerprint identifier
     first_second_group: First/second group
     form_subdivision: Form subdivision
     format_extent: Format, extent
@@ -452,8 +451,8 @@ en:
     gs_minor: G♯ minor
     heading: Heading
     heading_composer_name: Heading - composer name
+    heading_personal_name: Heading - Personal name
     heading_personal_name1: Heading-Personal name
-    heading_personal_name2: Heading - Personal name
     heading_personal_name3: Heading - personal name
     help_transposing_instruments: Help for transposing instruments
     history_institution: History of institution
@@ -479,8 +478,8 @@ en:
     institutions: Institutions
     instrumentalist: Instrumentalist
     internal_note: Internal note
+    internal_notes: Internal notes
     internal_notes1: Internal Notes
-    internal_notes2: Internal notes
     introduction: Introduction
     isbn: ISBN
     ismn: ISMN
@@ -494,11 +493,12 @@ en:
     key_signature: Key signature
     keyboards: Keyboards
     keys: Keys
-    language_code1: Language code
+    language_code: Language code
     language_code2: Language Code
     language_codes: Language codes
     language_libretto: Language of libretto
     language_note: Language note
+    language_of_cataloging: Language of cataloging
     language_of_cataloguing: Language of cataloguing
     language_original_text: Language of original text
     language_text: Language of text
@@ -524,7 +524,7 @@ en:
     local_id_number: Local ID no.
     local_note_field: Local note field
     local_notes_field: Local notes field
-    local_number: Local Number
+    local_number: Local number
     location: Location
     location_and_address: Location and address
     location_insertion: Location of insertion
@@ -536,15 +536,15 @@ en:
     main_entry_fields: Main entry fields
     marriage_name: Marriage Name
     married_name: Married name
-    married_to: married to
-    married_with: married with
+    married_to: Married to
+    married_with: Married with
     material_description: Material description
     material_examined: Material examined
     material_held: Material held
     material_not_examined: Material not examined
     media_type: Media type
     mensural_clefs: Mensural clefs
-    method_acquisition: Method of acquisition
+    method_of_acquisition: Method of acquisition
     misattributed: Misattributed
     miscellaneous: Miscellaneous
     mode_10t: 'Mode: 10t – Hypoaeolian'
@@ -573,7 +573,7 @@ en:
     mode_9tt: 'Mode:  9tt – Aeolian, transposed'
     modifying_agency: Modifying agency
     monogram: Monogram
-    mother_of: mother of
+    mother_of: Mother of
     movement_number: Movement number
     multiple: Multiple
     multiple_copies: Multiple copies
@@ -584,7 +584,7 @@ en:
     name_family: Name of family
     name_printer: Name of printer
     name_variant: Name variant
-    name_variants1: Name variants
+    name_variants: Name variants
     name_variants2: Name Variants
     named_dramatic_roles: Named dramatic roles
     nationality: Nationality
@@ -594,7 +594,7 @@ en:
     note: Note
     note_external_resource: Note about external resource
     note_fields: Note fields
-    note_on_performance1: Note on performance
+    note_on_performance: Note on performance
     note_on_performance2: Note on Performance
     now_in: Now in
     number: Number
@@ -621,8 +621,8 @@ en:
     origin: Origin
     original_cataloging_agency: Original cataloging agency
     original_cataloguing_agency: Original cataloguing agency
+    other: Other
     other1: other
-    other2: Other
     other_form: Other form
     other_form_of_name: Other form of name
     other_function: Other function
@@ -652,25 +652,25 @@ en:
     personal_name: Personal name
     personal_names: Personal names
     photoreproductive_process: Photoreproductive process (bluprint)
-    physical_description1: Physical description
+    physical_description: Physical description
     physical_description2: Physical Description
     physical_description_fields: Physical description, etc. fields
     place: Place
     place_active: Place active
     place_activity: Place of activity
-    place_birth1: Place of birth
+    place_birth: Place of birth
     place_birth2: Place of Birth
+    place_death: Place of death
     place_death1: Place of Death
-    place_death2: Place of death
-    place_origin1: Place of origin
+    place_origin: Place of origin
     place_origin2: Place of Origin
     place_publication: Place of publication
     places: Places
+    plate_number: Plate number
     plate_number1: Plate Number
-    plate_number2: Plate number
     plucked_instruments: Plucked instruments
     postal_code: Postal code
-    postal_place: postal Place
+    postal_place: Postal place
     preceding_entry: Preceding entry
     printer: Printer
     printing_technique: Printing technique
@@ -684,7 +684,7 @@ en:
     public_note: Public Note
     publisher: Publisher
     publisher_copyist: Publisher, copyist
-    publishing_printing_production: Publishing, Printing and Production Information
+    publishing_printing_production: Publishing, printing and production information
     range_dates: Range of dates
     record_actions: Record actions
     record_audit: RECORD AUDIT
@@ -700,7 +700,7 @@ en:
     related_place: Related place
     related_resources: Related resources
     related_titles: Related Titles
-    related_to: related to
+    related_to: Related to
     related_work: Related work
     relation: Relation
     relations: Relations
@@ -709,7 +709,7 @@ en:
     reproduction: Reproduction
     research_institute: Research institute
     retrospective_conversion: Retrospective conversion
-    rism_id_number1: RISM ID number
+    rism_id_number: RISM ID number
     rism_id_number2: RISM ID Number
     role: Role
     scoring_in_movement: Scoring in movement
@@ -726,7 +726,7 @@ en:
     sigla: Sigla
     siglum: Siglum
     single_date: Single date
-    sister_of: sister of
+    sister_of: Sister of
     sketches: Sketches
     solo_voice: Solo voice
     soloist_instrument: Soloist intrument
@@ -791,8 +791,8 @@ en:
     type_relationship: Type of relationship
     typescript: Typescript
     typography: Typography
+    unknown: Unknown
     unknown1: unknown
-    unknown2: Unknown
     unparsed_fingerprint: Unparsed fingerprint
     variant_ms_title: Variant title on manuscript
     variant_source_title: Variant title on source
@@ -802,7 +802,7 @@ en:
     volume_year_page: Volume, year, page
     watermark_description: Watermark description
     woodwinds: Woodwinds
-    work1: Work
+    work: Work
     work2: WORK
     work_number: Work number
     year: Year

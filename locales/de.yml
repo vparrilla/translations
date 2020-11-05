@@ -216,7 +216,7 @@ de:
     accession_number: Akzessionsnumer
     added_entry_name: Nebeneintragungen
     additional_author: Zusätzlicher Autor
-    additional_bibliographical_information: Weitere bibliographische Angaben
+    additional_bibliographic_information: Weitere bibliographische Angaben
     additional_biographical_information: Weitere biographische Angaben
     additional_choir_voice: Zusätzliche Chorstimmen
     additional_institution: Nebeneintragung Körperschaften
@@ -244,19 +244,19 @@ de:
     associated_name: Zugehöriger Name
     associated_place: Associated Place
     attribution_qualifier: Zuschreibungsvermerk
+    authentication_code: Authentifizierungscode
     authentication_code1: Authentifizierungscode
-    authentication_code2: Authentifizierungscode
     author: Autor
     author_editor: Autor / Herausgeber
     authorities: Normdaten
     authority_agency: Normdatenagentur
-    authority_reference1: Normdatenverweise
+    authority_reference: Normdatenverweise
     authority_reference2: Normdatenverweise
     autography: Autographie
     b_major: H-Dur
     b_minor: h-Moll
+    baptismal_name: Taufname
     baptismal_name1: Taufname
-    baptismal_name2: Taufname
     basic_functions: Grundsätzliche Funktionen
     basso_continuo: Basso continuo
     bf_major: B-Dur
@@ -285,6 +285,7 @@ de:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: Werkverzeichnis/Opus
     catalog_works: Werkverzeichnis
     cataloging_agency: Katalogisierungsagentur
     cataloging_collection_convoluta: Erfassung von Sammlungen
@@ -294,8 +295,6 @@ de:
     cataloging_level: Erfassungstiefe
     cataloging_musical_sources: Katalogisierung von Musikquellen
     cataloging_source: Katalogisierungsquelle
-    catalogue_opus_number: Werkverzeichnis/Opus
-    cataloguing_agency: Katalogisierungsquelle
     category: Art/Inhalt
     censor: Zensor
     cf_major: Ces-Dur
@@ -329,7 +328,7 @@ de:
     contents_note: Bemerkungen zu Inhaltsangaben
     contributer: Mitverfasser
     contributor: Mitverfasser
-    control_fields1: Kontrollfelder
+    control_fields: Kontrollfelder
     control_fields2: Kontrollfelder
     control_number_identifier: Kontrollnummer-Bezeichnung
     copy_examined: Vorlageexemplar
@@ -452,8 +451,8 @@ de:
     gs_minor: gis-Moll
     heading: Ansetzungsform
     heading_composer_name: Komponist
+    heading_personal_name: Ansetzungsform
     heading_personal_name1: Personenname
-    heading_personal_name2: Ansetzungsform
     heading_personal_name3: Name
     help_transposing_instruments: Hilfe zu transponierenden Instrumenten
     history_institution: Geschichte der Körperschaft
@@ -479,8 +478,8 @@ de:
     institutions: Körperschaften
     instrumentalist: Instrumentalist
     internal_note: Interne Bemerkungen
+    internal_notes: Interne Bemerkungen
     internal_notes1: Interne Bemerkungen
-    internal_notes2: Interne Bemerkungen
     introduction: Einleitung
     isbn: ISBN
     ismn: ISMN
@@ -494,11 +493,12 @@ de:
     key_signature: Akzidentien
     keyboards: Tasteninstrumente
     keys: Tonarten
-    language_code1: Sprachcode
+    language_code: Sprachcode
     language_code2: Sprach-Code
     language_codes: Sprachcodes
     language_libretto: Sprachcode von Libretti
     language_note: Sprachenvermerk
+    language_of_cataloging: Katalogisierungssprache
     language_of_cataloguing: Katalogisierungssprache
     language_original_text: Sprachcode des Originaltextes
     language_text: Sprachcode
@@ -544,7 +544,7 @@ de:
     material_not_examined: Keine Autopsie
     media_type: Physisches Medium
     mensural_clefs: Mensural clefs
-    method_acquisition: Beschaffungsart
+    method_of_acquisition: Beschaffungsart
     misattributed: Fälschlich
     miscellaneous: Verschiedenes
     mode_10t: 'Mode: 10t – Hypoaeolian'
@@ -584,7 +584,7 @@ de:
     name_family: Familienname
     name_printer: Drucker, Druckerei
     name_variant: Namensvarianten
-    name_variants1: Namensvarianten
+    name_variants: Namensvarianten
     name_variants2: Namensvarianten
     named_dramatic_roles: 'Rollennamen: Schreibweise'
     nationality: Länder-Code
@@ -594,7 +594,7 @@ de:
     note: Bemerkung
     note_external_resource: Für das Publikum bestimmte Fussnote
     note_fields: Bemerkungen
-    note_on_performance1: Bemerkungen zu den Aufführungen
+    note_on_performance: Bemerkungen zu den Aufführungen
     note_on_performance2: Bemerkungen zu den Aufführungen
     now_in: Heute in
     number: Anzahl
@@ -621,8 +621,8 @@ de:
     origin: Herkunft
     original_cataloging_agency: Original-Katalogisierungsstelle
     original_cataloguing_agency: Original-Katalogisierungsstelle
+    other: Sonstige Funktion
     other1: Sonstige Funktion
-    other2: Sonstige Funktion
     other_form: Andere Schreibweise
     other_form_of_name: Andere Namensformen
     other_function: Sonstige Funktion
@@ -652,22 +652,22 @@ de:
     personal_name: Personenname
     personal_names: Personen
     photoreproductive_process: Blaupause
-    physical_description1: Material
+    physical_description: Material
     physical_description2: Material
     physical_description_fields: Felder für die physische Beschreibung
     place: Ort
     place_active: Wirkungsort
     place_activity: Wirkungsort
-    place_birth1: Geburtsort
+    place_birth: Geburtsort
     place_birth2: Geburtsort
+    place_death: Sterbeort
     place_death1: Sterbeort
-    place_death2: Sterbeort
-    place_origin1: Herkunftsangabe
+    place_origin: Herkunftsangabe
     place_origin2: Herkunftsangabe
     place_publication: Verlagsort
     places: Orte
+    plate_number: Plattennummer
     plate_number1: Plattennummer
-    plate_number2: Plattennummer
     plucked_instruments: Zupfinstrumente
     postal_code: Postleitzahl
     postal_place: postalischer Ort
@@ -709,7 +709,7 @@ de:
     reproduction: Reproduktion
     research_institute: Forschungsinstitut
     retrospective_conversion: Retroeinspielung
-    rism_id_number1: RISM Dokumentnummer
+    rism_id_number: RISM Dokumentnummer
     rism_id_number2: RISM Dokumentnummer
     role: Rolle
     scoring_in_movement: Besetzung Satz
@@ -791,8 +791,8 @@ de:
     type_relationship: Beziehung
     typescript: Typescript
     typography: Typendruck
+    unknown: Unbekannt
     unknown1: unbekannt
-    unknown2: Unbekannt
     unparsed_fingerprint: Zusammenhängender Fingerprint
     variant_ms_title: Weiterer diplomatischer Titel
     variant_source_title: Weiterer diplomatischer Titel
@@ -802,7 +802,7 @@ de:
     volume_year_page: Jahrgang, Seite
     watermark_description: Wasserzeichen
     woodwinds: Holzblasinstrumente
-    work1: Werktitel
+    work: Werktitel
     work2: Werktitel
     work_number: Incipitnummer
     year: Jahr

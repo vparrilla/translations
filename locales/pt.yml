@@ -216,7 +216,7 @@ pt:
     accession_number: Número de aquisição
     added_entry_name: ''
     additional_author: ''
-    additional_bibliographical_information: ''
+    additional_bibliographic_information: ''
     additional_biographical_information: Informação biográfica adicional
     additional_choir_voice: ''
     additional_institution: Instituição adicional
@@ -244,19 +244,19 @@ pt:
     associated_name: Nome associado [asn]
     associated_place: ''
     attribution_qualifier: Atribuição
+    authentication_code: Código de autenticação
     authentication_code1: Código de autenticação
-    authentication_code2: Código de autenticação
     author: Autor [aut]
     author_editor: Autor/editor
     authorities: Autoridades
     authority_agency: ''
-    authority_reference1: Referência de autoridade
+    authority_reference: Referência de autoridade
     authority_reference2: ''
     autography: Autografia
     b_major: Si maior
     b_minor: Si menor
+    baptismal_name: ''
     baptismal_name1: ''
-    baptismal_name2: ''
     basic_functions: Funções básicas
     basso_continuo: Contínuo
     bf_major: Si bemol maior
@@ -285,6 +285,7 @@ pt:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog_opus_number: Número de catalogo/Número de Opus
     catalog_works: Catálogo de obras
     cataloging_agency: Agência catalogadora
     cataloging_collection_convoluta: ''
@@ -294,8 +295,6 @@ pt:
     cataloging_level: Nível de catalogação
     cataloging_musical_sources: Catalogando fontes musicais
     cataloging_source: Agência catalogadora
-    catalogue_opus_number: Número de catalogo/Número de Opus
-    cataloguing_agency: Agência de catalogação
     category: ''
     censor: Censor [cns]
     cf_major: Dó bemol maior
@@ -329,7 +328,7 @@ pt:
     contents_note: Nota de conteúdo
     contributer: ''
     contributor: ''
-    control_fields1: Campos de controle
+    control_fields: Campos de controle
     control_fields2: ''
     control_number_identifier: Identificador de número de controle
     copy_examined: Exemplar examinado para catalogação
@@ -452,8 +451,8 @@ pt:
     gs_minor: Sol sustenido menor
     heading: ''
     heading_composer_name: ''
+    heading_personal_name: ''
     heading_personal_name1: Título-Nome de pessoa
-    heading_personal_name2: ''
     heading_personal_name3: ''
     help_transposing_instruments: Ajuda para instrumentos transpositores
     history_institution: História da instituição
@@ -479,8 +478,8 @@ pt:
     institutions: Instituições
     instrumentalist: ''
     internal_note: Nota interna
+    internal_notes: Notas internas
     internal_notes1: Notas internas
-    internal_notes2: Notas internas
     introduction: Introdução
     isbn: ISBN
     ismn: ISMN
@@ -494,11 +493,12 @@ pt:
     key_signature: Armadura de clave
     keyboards: Teclados
     keys: Tonalidades
-    language_code1: Código de idioma
+    language_code: Código de idioma
     language_code2: ''
     language_codes: Código de idioma
     language_libretto: Idioma do libreto
     language_note: Nota de idioma
+    language_of_cataloging: Idioma de catalogação
     language_of_cataloguing: Idioma de catalogação
     language_original_text: Idioma do texto original
     language_text: Idioma do texto
@@ -544,7 +544,7 @@ pt:
     material_not_examined: Material não examinado
     media_type: Tipo de mídia
     mensural_clefs: Claves mensurais
-    method_acquisition: Método de aquisição
+    method_of_acquisition: Método de aquisição
     misattributed: Equivocada
     miscellaneous: ''
     mode_10t: 'Modo: 10º tom (Hipoeólio)'
@@ -584,7 +584,7 @@ pt:
     name_family: ''
     name_printer: Nome do impressor
     name_variant: Variante de nome
-    name_variants1: Variantes de nome
+    name_variants: Variantes de nome
     name_variants2: Variante de nome
     named_dramatic_roles: Papéis dramáticos identificados
     nationality: Nacionalidade
@@ -594,7 +594,7 @@ pt:
     note: ''
     note_external_resource: Nota sobre recurso externo
     note_fields: Campos de notas
-    note_on_performance1: Nota sobre performance
+    note_on_performance: Nota sobre performance
     note_on_performance2: Nota sobre performance
     now_in: Agora em
     number: Número
@@ -618,8 +618,8 @@ pt:
     origin: Origem
     original_cataloging_agency: ''
     original_cataloguing_agency: ''
+    other: Outro(a) [oth]
     other1: Outro(a) [oth]
-    other2: Outro(a) [oth]
     other_form: ''
     other_form_of_name: Outra forma do nome
     other_function: ''
@@ -649,22 +649,22 @@ pt:
     personal_name: ''
     personal_names: Nomes de pessoas
     photoreproductive_process: Processo foto-reprodutivo
-    physical_description1: Descrição física
+    physical_description: Descrição física
     physical_description2: Descrição física
     physical_description_fields: ''
     place: Local
     place_active: ''
     place_activity: ''
-    place_birth1: ''
+    place_birth: ''
     place_birth2: ''
+    place_death: ''
     place_death1: ''
-    place_death2: ''
-    place_origin1: ''
+    place_origin: ''
     place_origin2: ''
     place_publication: ''
     places: Locais
+    plate_number: Número de chapa
     plate_number1: Número de chapa
-    plate_number2: Número de chapa
     plucked_instruments: Cordas dedilhadas
     postal_code: ''
     postal_place: ''
@@ -706,7 +706,7 @@ pt:
     reproduction: Reprodução
     research_institute: ''
     retrospective_conversion: Conversão restropectiva
-    rism_id_number1: Número ID RISM
+    rism_id_number: Número ID RISM
     rism_id_number2: Número ID RISM
     role: Personagem
     scoring_in_movement: Formação instrumental no movimento
@@ -788,8 +788,8 @@ pt:
     type_relationship: ''
     typescript: Datilografia
     typography: Tipografia
+    unknown: ''
     unknown1: ''
-    unknown2: ''
     unparsed_fingerprint: Identificador de impressão não analisado
     variant_ms_title: Variante de título na fonte
     variant_source_title: Título variante na fonte
@@ -799,7 +799,7 @@ pt:
     volume_year_page: ''
     watermark_description: Descrição de Marca de água
     woodwinds: Madeiras
-    work1: Obra
+    work: Obra
     work2: ''
     work_number: Número de obra
     year: ''
