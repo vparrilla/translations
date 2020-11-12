@@ -1,6 +1,5 @@
 de:
   general:
-    e_mail: E-Mail
     editor_help: Editor Hilfe
     faq: FAQ
     female: weiblich
@@ -11,8 +10,6 @@ de:
     'no': Nein
     rism: RISM
     rism_best_practices: RISM BEST PRACTISES
-    rism_id_no1: RISM Dokumentnummer
-    rism_id_no2: RISM Dokumentnummer
     rism_instrument_abbreviations: Stimmen- und Instrumentenbezeichnungen tabellarisch
     rism_series: RISM Series
     rism_series_a_b_references: Querverweise zu RISM A/I und RISM B
@@ -26,7 +23,6 @@ de:
     unknown_fields: Unbekannte Felder
     unused: UNUSED - WILL BE REMOVED
     uri: URI
-    url: URL
     using_muscat: Editor Hilfe
     validity: Gültigkeit
     verified: Gesichert
@@ -154,7 +150,6 @@ de:
     germany_bavaria: 'Germany: Bavaria'
     germany_saxony: 'Germany: Saxony'
     greece: Griechenland
-    guatemala: Guatemala
     guinea: Guinea
     holy_see: Holy See
     honduras: Honduras
@@ -204,14 +199,12 @@ de:
     uruguay: Uruguay
     usa: Vereinigte Staaten von Amerika (USA)
     venezuela: Venezuela, Bolivarian Republic of
-    viet_nam: Viet Nam
     vietnam: Vietnam
   records:
     a_major: A-Dur
     a_minor: a-Moll
     abbreviations: Abkürzungen
     abbreviations_terminology: Abkürzungen und Bezeichnungen
-    access_restriction: Zugangsbeschränkungen
     access_restrictions: Zugangsbeschränkungen
     accession_number: Akzessionsnumer
     added_entry_name: Nebeneintragungen
@@ -221,8 +214,10 @@ de:
     additional_choir_voice: Zusätzliche Chorstimmen
     additional_institution: Nebeneintragung Körperschaften
     additional_personal_name: Nebeneintragung Personen
+    additional_personal_name_lit: Sonstige Person
     additional_solo_voice: Zusätzliche Solostimme
     additional_title: Alternativer Titel
+    additional_title_lit: Zusätzlicher Titel
     administration: Administration
     af_major: As-Dur
     af_minor: as-Moll
@@ -230,7 +225,6 @@ de:
     aids: Arbeitshilfen
     alleged: Angeblich
     alternate_spelling: Andere Schreibweise
-    archive: Archiv
     arrangement: Bearbeitung
     arrangement_statement: Bearbeitung
     arranger: Bearbeiter
@@ -242,21 +236,18 @@ de:
     assignee: Lizenznehmer
     associated_institution: Beziehung Körperschaft
     associated_name: Zugehöriger Name
+    associated_name_lit: Behandelte Person
     associated_place: Associated Place
     attribution_qualifier: Zuschreibungsvermerk
-    authentication_code: Authentifizierungscode
-    authentication_code1: Authentifizierungscode
+    authentication_code: Individualsierung
     author: Autor
     author_editor: Autor / Herausgeber
     authorities: Normdaten
-    authority_agency: Normdatenagentur
     authority_reference: Normdatenverweise
-    authority_reference2: Normdatenverweise
     autography: Autographie
     b_major: H-Dur
     b_minor: h-Moll
     baptismal_name: Taufname
-    baptismal_name1: Taufname
     basic_functions: Grundsätzliche Funktionen
     basso_continuo: Basso continuo
     bf_major: B-Dur
@@ -265,7 +256,6 @@ de:
     binder: Buchbinder
     binding_note: Einband
     birth_name: Geburtsname
-    birthname: Geburtsname
     book_format: Buchformat
     bookseller: Musikalienhändler
     bound_with: Zusammengebunden mit
@@ -304,7 +294,6 @@ de:
     choreographer: Choreograph
     chronological_subdivision: Chronologische Unterteilung
     chronological_term: Datierungen
-    city: Ort
     clef: Schlüssel
     co-composer: Mitkomponist
     coded_date: Datum und Ort eines Ereignisses (codiert)
@@ -321,27 +310,22 @@ de:
     conductor: Dirigent
     confused_with: Verwechselt mit
     conjectural: Mutmaßlich
-    contact: Kontakt
     contact_area: Kontakt
     content: Inhalt
     content_description: Inhaltsangaben
     contents_note: Bemerkungen zu Inhaltsangaben
-    contributer: Mitverfasser
     contributor: Mitverfasser
     control_fields: Kontrollfelder
-    control_fields2: Kontrollfelder
     control_number_identifier: Kontrollnummer-Bezeichnung
     copy_examined: Vorlageexemplar
     copyist: Schreiber
     copyright_holder: Rechteinhaber
     costume_designer: Kostümbildner
     countries_places: Länder und Orte
-    country: Land
     country_active: Wirkungsland
     country_activity: Wirkungsland
     country_code: Länder-Code
     country_of_publication: Land
-    county_province: Bezirk oder Staat
     creation_production_note: Bemerkung zur Person / Körperschaft
     cs_major: Cis-Dur
     cs_minor: cis-Moll
@@ -357,7 +341,6 @@ de:
     dedicatee: Widmungsträger
     department: Abteilung
     depositor: Depositor
-    description: Beschreibung
     description_area: Beschreibung
     description_summary: Zusammenfassende Beschreibung
     designer: Designer
@@ -370,7 +353,6 @@ de:
     dissertation_note: Hinweis zur Dissertation
     distribution: Besetzung
     distributor: Vertrieb
-    documentation_center: Dokumentationszentrum
     donor: Donator
     doubtful: Zweifelhaft
     dramatic_roles_original: Originale Schreibweise
@@ -442,7 +424,10 @@ de:
     gender: Geschlecht
     general_abbreviations: Allgemeine Abkürzungen und Begriffe
     general_cataloguing_guidelines: Allgemeine Erfassung Hilfe
-    general_note: Allgemeine Bemerkungen
+    general_note: Bemerkungen
+    general_note_incipits: Kommentar zum Musikincipit
+    general_note_institution: Allgemeine Fußnote
+    general_note_personal: Externe Bemerkungen
     geographic_name: Geographischer Name
     geographic_subdivision: Geographische Unterteilung
     gf_major: Ges-Dur
@@ -453,11 +438,9 @@ de:
     heading_composer_name: Komponist
     heading_personal_name: Ansetzungsform
     heading_personal_name1: Personenname
-    heading_personal_name3: Name
     help_transposing_instruments: Hilfe zu transponierenden Instrumenten
     history_institution: Geschichte der Körperschaft
     holdings_location: Bestandsdaten
-    identity: Identifizierung
     identity_area: IDENTITY AREA
     iiif_manifest: IIIF manifest
     illustrator: Illustrator
@@ -468,7 +451,7 @@ de:
     incipit_number: Incipitnummer
     incipits: Incipits
     index_terms: Deskriptoren
-    information_found: Fundstelle
+    information_found: Ansetzung laut Literaturnachweis
     initial: Initiale
     initial_entry: Ersteintrag
     initials: Initiale
@@ -478,8 +461,6 @@ de:
     institutions: Körperschaften
     instrumentalist: Instrumentalist
     internal_note: Interne Bemerkungen
-    internal_notes: Interne Bemerkungen
-    internal_notes1: Interne Bemerkungen
     introduction: Einleitung
     isbn: ISBN
     ismn: ISMN
@@ -494,15 +475,12 @@ de:
     keyboards: Tasteninstrumente
     keys: Tonarten
     language_code: Sprachcode
-    language_code2: Sprach-Code
     language_codes: Sprachcodes
     language_libretto: Sprachcode von Libretti
     language_note: Sprachenvermerk
     language_of_cataloging: Katalogisierungssprache
-    language_of_cataloguing: Katalogisierungssprache
     language_original_text: Sprachcode des Originaltextes
     language_text: Sprachcode
-    latitude: Breitengrad
     leader: Leader
     library: Bibliothek
     library_information: Besitzerangaben
@@ -518,7 +496,6 @@ de:
     lithograph: Lithograph
     lithographer: Lithograph
     lithography: Lithographie
-    liturgical_feasts: Liturgische Feste
     liturgical_festival: Liturgische Feste
     liturgical_festivals: Liturgische Feste
     local_id_number: Lokale Nummer
@@ -531,10 +508,8 @@ de:
     location_on_source: Fundorte auf Quellen
     location_performance: Aufführungsort
     location_printer: Druckort
-    longitude: Längengrad
     lyricist: Textdichter
     main_entry_fields: Haupteintragungen
-    marriage_name: Ehename
     married_name: Ehename
     married_to: Verheiratet mit
     married_with: Verheiratet mit
@@ -578,24 +553,20 @@ de:
     multiple: Mehrere
     multiple_copies: Mehrere Exemplare
     multiple_single_dates: Mehrere Einzeldaten
-    museum: Museum
     music_incipit: Musikincipit
     name: Personenname
     name_family: Familienname
     name_printer: Drucker, Druckerei
     name_variant: Namensvarianten
     name_variants: Namensvarianten
-    name_variants2: Namensvarianten
     named_dramatic_roles: 'Rollennamen: Schreibweise'
     nationality: Länder-Code
     nickname: Beiname
     no_linguistic_content: ohne Sprache
     non_migrated_bound: Non-migrated bound with value from 563
-    note: Bemerkung
     note_external_resource: Für das Publikum bestimmte Fussnote
     note_fields: Bemerkungen
     note_on_performance: Bemerkungen zu den Aufführungen
-    note_on_performance2: Bemerkungen zu den Aufführungen
     now_in: Heute in
     number: Anzahl
     number_page: Nummer/Seitenzahl
@@ -620,9 +591,7 @@ de:
     order_name: Ordensname
     origin: Herkunft
     original_cataloging_agency: Original-Katalogisierungsstelle
-    original_cataloguing_agency: Original-Katalogisierungsstelle
     other: Sonstige Funktion
-    other1: Sonstige Funktion
     other_form: Andere Schreibweise
     other_form_of_name: Andere Namensformen
     other_function: Sonstige Funktion
@@ -653,23 +622,17 @@ de:
     personal_names: Personen
     photoreproductive_process: Blaupause
     physical_description: Material
-    physical_description2: Material
     physical_description_fields: Felder für die physische Beschreibung
     place: Ort
     place_active: Wirkungsort
     place_activity: Wirkungsort
     place_birth: Geburtsort
-    place_birth2: Geburtsort
     place_death: Sterbeort
-    place_death1: Sterbeort
     place_origin: Herkunftsangabe
-    place_origin2: Herkunftsangabe
     place_publication: Verlagsort
     places: Orte
     plate_number: Plattennummer
-    plate_number1: Plattennummer
     plucked_instruments: Zupfinstrumente
-    postal_code: Postleitzahl
     postal_place: postalischer Ort
     preceding_entry: Früherer Eintrag
     printer: Drucker
@@ -678,10 +641,8 @@ de:
     production_personnel: Produktionspersonal
     profession_or_function: Beruf oder Funktion
     provenance: Bestandsname
-    provenance_note: Provenienzvermerke
     provenance_notes: Provenienzvermerke
     pseudonym: Pseudonym
-    public_note: Bemerkungen
     publisher: Verleger
     publisher_copyist: Schreiber, Verleger, Verlag
     publishing_printing_production: Abschrift oder Impressum
@@ -707,10 +668,8 @@ de:
     religious_name: Ordensname
     religious_order: Orden/Titel
     reproduction: Reproduktion
-    research_institute: Forschungsinstitut
     retrospective_conversion: Retroeinspielung
     rism_id_number: RISM Dokumentnummer
-    rism_id_number2: RISM Dokumentnummer
     role: Rolle
     scoring_in_movement: Besetzung Satz
     scoring_summary: Besetzungshinweis
@@ -723,8 +682,6 @@ de:
     shelfmark: Signatur
     shelfmark_olim: Alte Signatur (olim)
     short_title: Kurztitel
-    sigla: Sigel
-    siglum: Sigel
     single_date: Einzeldatum
     sister_of: Schwester von
     sketches: Skizzen
@@ -735,7 +692,6 @@ de:
     source_description: Vorlageexemplar
     source_details: Physische Beschreibung
     source_number_code: Normdatenagentur
-    source_of_acquisition: Unmittelbare Beschaffungsquelle
     source_of_acquisition_note: Beschaffungsquelle
     source_type: Quellentyp
     special_production_technique: Spezielle Fertigungstechnik
@@ -747,14 +703,12 @@ de:
     standardized_title: Einordnungstitel
     standardized_titles_printed_music: Einordnungstitel für Musikdrucke
     standardized_titles_subject_headings: Einordnungstitel - Schlagworte
-    street_address: Strasse
     strings: Streichinstrumente
     subheading: Unterteilung nach der Form
     subheading_general: Allgemeine Unterteilung
     subject_access_fields: Schlagworteintragungen
     subject_heading: Schlagworteintragung
     subject_headings: Schlagworte
-    subordinate_unit: Untergeordnete Körperschaft
     succeeding_entry: Folgeeintrag
     summary: Zusammenfassung
     supplementary_material: Beigelegtes Material, Addenda
@@ -792,7 +746,6 @@ de:
     typescript: Typescript
     typography: Typendruck
     unknown: Unbekannt
-    unknown1: unbekannt
     unparsed_fingerprint: Zusammenhängender Fingerprint
     variant_ms_title: Weiterer diplomatischer Titel
     variant_source_title: Weiterer diplomatischer Titel
@@ -803,7 +756,6 @@ de:
     watermark_description: Wasserzeichen
     woodwinds: Holzblasinstrumente
     work: Werktitel
-    work2: Werktitel
     work_number: Incipitnummer
     year: Jahr
     years_birth_death: Geburts- und Todesdaten

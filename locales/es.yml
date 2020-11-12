@@ -1,6 +1,5 @@
 es:
   general:
-    e_mail: E-mail
     editor_help: Ayuda del editor
     faq: Preguntas frecuentes
     female: femenino
@@ -11,8 +10,6 @@ es:
     'no': 'No'
     rism: RISM
     rism_best_practices: Mejores prácticas en RISM
-    rism_id_no1: Número de ID de RISM
-    rism_id_no2: Número de ID de RISM
     rism_instrument_abbreviations: Abreviaturas de instrumentos de RISM
     rism_series: Serie RISM
     rism_series_a_b_references: Referencias a las Series RISM A/I y B
@@ -26,7 +23,6 @@ es:
     unknown_fields: Campos desconocidos
     unused: EN DESUSO - SERÁ REMOVIDO
     uri: URI
-    url: URL
     using_muscat: Uso de Muscat
     validity: Validez
     verified: Verificada
@@ -154,7 +150,6 @@ es:
     germany_bavaria: 'Alemania: Bavaria'
     germany_saxony: 'Alemania: Sajonia'
     greece: Grecia
-    guatemala: ''
     guinea: Guinea
     holy_see: Santa Sede
     honduras: Honduras
@@ -204,14 +199,12 @@ es:
     uruguay: Uruguay
     usa: Estados Unidos de América
     venezuela: Venezuela, República Bolivariana de
-    viet_nam: Vietnam
     vietnam: Vietnam
   records:
     a_major: La Mayor
     a_minor: La menor
     abbreviations: Abreviaturas
     abbreviations_terminology: Abreviaturas y terminología
-    access_restriction: Restricciones de acceso
     access_restrictions: Restricciones de acceso
     accession_number: Número de accesión
     added_entry_name: ''
@@ -221,8 +214,10 @@ es:
     additional_choir_voice: Voz en coro adicional
     additional_institution: Institución adicional
     additional_personal_name: Nombre personal adicional
+    additional_personal_name_lit: Nombre personal adicional
     additional_solo_voice: Voz solista adicional
     additional_title: Título adicional
+    additional_title_lit: Título adicional
     administration: Administración
     af_major: La bemol Mayor
     af_minor: La bemol menor
@@ -230,7 +225,6 @@ es:
     aids: Asistencia
     alleged: Supuesta
     alternate_spelling: Ortografía alternativa
-    archive: Archivo
     arrangement: Arreglo
     arrangement_statement: Declaración de arreglo
     arranger: Arreglador
@@ -242,21 +236,18 @@ es:
     assignee: Asignatario
     associated_institution: Institución asociada
     associated_name: Nombre asociado
+    associated_name_lit: Nombre asociado
     associated_place: Lugar asociado
     attribution_qualifier: Calificador de atribución
     authentication_code: Código de autenticación
-    authentication_code1: Código de autenticación
     author: Autor
     author_editor: Autor/editor
     authorities: Autoridades
-    authority_agency: Agencia de autoridad
     authority_reference: Referencia de autoridad
-    authority_reference2: Referencia de autoridad
     autography: Autografía
     b_major: Si Mayor
     b_minor: Si menor
     baptismal_name: Nombre bautismal
-    baptismal_name1: Nombre bautismal
     basic_functions: Funciones básicas
     basso_continuo: Bajo continuo
     bf_major: Si bemol Mayor
@@ -265,7 +256,6 @@ es:
     binder: Encuadernador
     binding_note: Nota de encuadernación
     birth_name: Nombre de nacimiento
-    birthname: Nombre de nacimiento
     book_format: Formato de libro
     bookseller: Librero
     bound_with: Encuadernado con
@@ -304,7 +294,6 @@ es:
     choreographer: Coreógrafo
     chronological_subdivision: Subdivisión cronológica
     chronological_term: Término cronológico
-    city: Ciudad
     clef: Clave
     co-composer: Co-compositor
     coded_date: Fecha codificada
@@ -321,27 +310,22 @@ es:
     conductor: Director musical
     confused_with: Confundido/a con
     conjectural: Conjetural
-    contact: Contacto
     contact_area: Contacto
     content: Contenido
     content_description: Descripción del contenido
     contents_note: Nota sobre el contenido
-    contributer: Colaborador
     contributor: Colaborador
     control_fields: Campos de control
-    control_fields2: Campos de control
     control_number_identifier: Identificador del número de control
     copy_examined: Copia examinada para la catalogación
     copyist: Copista
     copyright_holder: Titular de los derechos de copia
     costume_designer: Vestuarista
     countries_places: Países y lugares
-    country: País
     country_active: País de actividad
     country_activity: País de actividad
     country_code: Código de país
     country_of_publication: País de publicación
-    county_province: País o provincia
     creation_production_note: Nota de producción/creación
     cs_major: Do sostenido Mayor
     cs_minor: Do sostenido menor
@@ -357,7 +341,6 @@ es:
     dedicatee: Dedicatario(a)
     department: Departamento
     depositor: Depositante
-    description: Decripción
     description_area: Descripción
     description_summary: Descripción sumaria
     designer: Diseñador
@@ -370,7 +353,6 @@ es:
     dissertation_note: Nota de disertación
     distribution: Distribución
     distributor: Distribuidor
-    documentation_center: ''
     donor: Donante
     doubtful: Dudosa
     dramatic_roles_original: Nombres de personajes, ortografía original
@@ -443,6 +425,9 @@ es:
     general_abbreviations: Abreviaturas y términos generales
     general_cataloguing_guidelines: Lineamientos generales para la catalogación
     general_note: Nota general
+    general_note_incipits: Nota general
+    general_note_institution: Nota general
+    general_note_personal: Nota general
     geographic_name: Nombre geográfico
     geographic_subdivision: Subdivisión geográfica
     gf_major: Sol bemol Mayor
@@ -453,11 +438,9 @@ es:
     heading_composer_name: Compositor
     heading_personal_name: Nombre personal
     heading_personal_name1: Nombre personal principal
-    heading_personal_name3: Nombre personal
     help_transposing_instruments: Ayuda para instrumentos transpositores
     history_institution: Historia de la institución
     holdings_location: Campos de los ejemplares y su ubicación
-    identity: Identidad
     identity_area: Identidad
     iiif_manifest: Manifiesto IIIF
     illustrator: Ilustrador
@@ -478,8 +461,6 @@ es:
     institutions: Instituciones
     instrumentalist: Instrumentista
     internal_note: Nota interna
-    internal_notes: Notas internas
-    internal_notes1: Notas internas
     introduction: Introducción
     isbn: ISBN
     ismn: ISMN
@@ -494,15 +475,12 @@ es:
     keyboards: ''
     keys: Tonalidades
     language_code: Código de idioma
-    language_code2: Código de idioma
     language_codes: Código de idioma
     language_libretto: Idioma del libreto
     language_note: Nota de idioma
     language_of_cataloging: Idioma de catalogación
-    language_of_cataloguing: Idioma de catalogación
     language_original_text: Idioma del texto original
     language_text: Idioma del texto
-    latitude: Latitud
     leader: Líder
     library: Repositorio
     library_information: Información del repositorio
@@ -518,7 +496,6 @@ es:
     lithograph: Litógrafo
     lithographer: Litógrafo
     lithography: Litografía
-    liturgical_feasts: Festividad litúrgica
     liturgical_festival: Festividad litúrgica
     liturgical_festivals: Festividades litúrgicas
     local_id_number: Número local
@@ -531,10 +508,8 @@ es:
     location_on_source: Ubicaciones en la fuente
     location_performance: Lugar de interpretación
     location_printer: Lugar de impresión
-    longitude: Longitud
     lyricist: Letrista
     main_entry_fields: Campos principales
-    marriage_name: Apellido de casado/a
     married_name: Apellido de casada/o
     married_to: casado/a con
     married_with: casado/a con
@@ -578,24 +553,20 @@ es:
     multiple: Múltiples
     multiple_copies: Múltiples ejemplares en una institución
     multiple_single_dates: Fechas múltiples
-    museum: ''
     music_incipit: Íncipit musical
     name: Nombre
     name_family: Apellido
     name_printer: Nombre del impresor
     name_variant: Variantes del nombre
     name_variants: Variantes del nombre
-    name_variants2: Variantes del nombre
     named_dramatic_roles: Nombres de personajes
     nationality: Nacionalidad
     nickname: Apodo
     no_linguistic_content: Sin contenido lingüístico
     non_migrated_bound: Non-migrated bound with value from 563
-    note: Nota
     note_external_resource: Nota sobre el recurso externo
     note_fields: Campos de notas
     note_on_performance: Nota sobre ocasión de interpretación
-    note_on_performance2: Nota sobre ocasión de interpretación
     now_in: Actualmente en
     number: Número
     number_page: Número/página
@@ -617,9 +588,7 @@ es:
     order_name: Nombre religioso
     origin: Origen
     original_cataloging_agency: Agencia de catalogación original
-    original_cataloguing_agency: Agencia de catalogación original
     other: Otra función
-    other1: Otra función
     other_form: Ortografía alternativa
     other_form_of_name: Otra forma del nombre
     other_function: Otra función
@@ -650,23 +619,17 @@ es:
     personal_names: Nombres personales
     photoreproductive_process: Proceso fotoreproductivo
     physical_description: Descripción física
-    physical_description2: Descripción física
     physical_description_fields: Campos para la descripción Material
     place: Lugar
     place_active: Lugar de actividad
     place_activity: Lugar de actividad
     place_birth: Lugar de nacimiento
-    place_birth2: Lugar de nacimiento
     place_death: Lugar de fallecimiento
-    place_death1: Lugar de fallecimiento
     place_origin: Lugar de origen
-    place_origin2: Lugar de origen
     place_publication: Lugar de publicación
     places: Lugares
     plate_number: Número de plancha
-    plate_number1: Número de plancha
     plucked_instruments: Cuerdas pulsadas
-    postal_code: Código postal
     postal_place: Dirección postal
     preceding_entry: Registro precedente
     printer: Impresor
@@ -675,10 +638,8 @@ es:
     production_personnel: Personal de producción
     profession_or_function: Profesión o función
     provenance: Procedencia
-    provenance_note: Nota de procedencia
     provenance_notes: Nota de procedencia
     pseudonym: Seudónimo
-    public_note: Nota pública
     publisher: Editor (publicador)/Editorial (publicadora)
     publisher_copyist: Editor, copista
     publishing_printing_production: Información de publicación, impresión y producción
@@ -704,10 +665,8 @@ es:
     religious_name: Nombre religioso
     religious_order: Orden religiosa
     reproduction: Reproducción
-    research_institute: Institución
     retrospective_conversion: Conversión retrospectiva
     rism_id_number: Número de ID de RISM
-    rism_id_number2: Número de ID de RISM
     role: Personaje
     scoring_in_movement: Plantilla/orgánico del movimiento
     scoring_summary: Resumen de Plantilla/Orgánico
@@ -720,8 +679,6 @@ es:
     shelfmark: Signatura
     shelfmark_olim: Signatura antigua (olim)
     short_title: Título breve
-    sigla: Sigla
-    siglum: Sigla
     single_date: Fecha única
     sister_of: hermana de
     sketches: Bosquejos
@@ -732,7 +689,6 @@ es:
     source_description: Copia examinada para la catalogación
     source_details: Detalles de la fuente
     source_number_code: Fuente de número o código
-    source_of_acquisition: Fuente de adquisición
     source_of_acquisition_note: Nota sobre la fuente de adquisición
     source_type: Tipo de fuente
     special_production_technique: Técnica de producción específica
@@ -744,14 +700,12 @@ es:
     standardized_title: Título uniforme
     standardized_titles_printed_music: Títulos uniformes para música impresa
     standardized_titles_subject_headings: Títulos uniformes – Descriptores
-    street_address: Calle y número
     strings: Cuerdas
     subheading: Tipo especial de fuente
     subheading_general: Subdivisión general
     subject_access_fields: Campos de los puntos de acceso
     subject_heading: Descriptor
     subject_headings: Descriptores
-    subordinate_unit: Unidad subordinada
     succeeding_entry: Entrada siguiente
     summary: Resumen
     supplementary_material: Material suplementario
@@ -789,7 +743,6 @@ es:
     typescript: Escrito mecanografiado
     typography: Tipografía
     unknown: Desconcido
-    unknown1: desconocido
     unparsed_fingerprint: Identificador tipográfico no disgregado
     variant_ms_title: Variante de título en fuente
     variant_source_title: Variante de título en fuente
@@ -800,7 +753,6 @@ es:
     watermark_description: Descripción de las filigranas
     woodwinds: Vientos-madera
     work: Obra
-    work2: Obra
     work_number: Número de obra
     year: Año
     years_birth_death: Años de nacimiento y muerte

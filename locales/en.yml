@@ -1,6 +1,5 @@
 en:
   general:
-    e_mail: E-mail
     editor_help: Editor help
     faq: Frequently asked questions
     female: Female
@@ -11,11 +10,9 @@ en:
     'no': 'No'
     rism: RISM
     rism_best_practices: RISM best practices
-    rism_id_no1: RISM ID no.
-    rism_id_no2: RISM ID No.
-    rism_instrument_abbreviations: RISM instrument abbreviations
+    rism_instrument_abbreviations: RISM instrument abbreviations (continued)
     rism_series: RISM Series
-    rism_series_a_b_references: RISM Series A/I and B references
+    rism_series_a_b_references: RISM Series A/I and B reference
     rism_series_number: RISM series number
     rule_type: Rule type
     scope_printed_music_rism: Scope of printed music in RISM
@@ -26,7 +23,6 @@ en:
     unknown_fields: Unknown fields
     unused: UNUSED - WILL BE REMOVED
     uri: URI
-    url: URL
     using_muscat: Using Muscat
     validity: Validity
     verified: Verified
@@ -154,7 +150,6 @@ en:
     germany_bavaria: 'Germany: Bavaria'
     germany_saxony: 'Germany: Saxony'
     greece: Greece
-    guatemala: Guatemala
     guinea: Guinea
     holy_see: Holy See
     honduras: Honduras
@@ -204,14 +199,12 @@ en:
     uruguay: Uruguay
     usa: United States of America
     venezuela: Venezuela, Bolivarian Republic of
-    viet_nam: Viet Nam
     vietnam: Vietnam
   records:
     a_major: A major
     a_minor: A minor
     abbreviations: Abbreviations
     abbreviations_terminology: Abbreviations and terminology
-    access_restriction: Access restriction
     access_restrictions: Access restrictions
     accession_number: Accession number
     added_entry_name: Added entry name
@@ -221,8 +214,10 @@ en:
     additional_choir_voice: Additional choir voice
     additional_institution: Additional institution
     additional_personal_name: Additional personal name
+    additional_personal_name_lit: Additional personal name
     additional_solo_voice: Additional solo voice
     additional_title: Additional title
+    additional_title_lit: Additional title
     administration: Administration
     af_major: A♭ major
     af_minor: A♭ minor
@@ -230,7 +225,6 @@ en:
     aids: Aids
     alleged: Alleged
     alternate_spelling: Alternate spelling
-    archive: Archive
     arrangement: Arrangement
     arrangement_statement: Arrangement statement
     arranger: Arranger
@@ -242,21 +236,18 @@ en:
     assignee: Assignee
     associated_institution: Associated institution
     associated_name: Associated name
+    associated_name_lit: Associated name
     associated_place: Associated Place
     attribution_qualifier: Attribution qualifier
     authentication_code: Authentication code
-    authentication_code1: Authentication Code
     author: Author
-    author_editor: Author / Editor
+    author_editor: Author/Editor
     authorities: Authorities
-    authority_agency: Authority Agency
     authority_reference: Authority reference
-    authority_reference2: Authority Reference
     autography: Autography
     b_major: B major
     b_minor: B minor
     baptismal_name: Baptismal name
-    baptismal_name1: Baptsimal Name
     basic_functions: Basic functions
     basso_continuo: Basso continuo
     bf_major: B♭ major
@@ -265,7 +256,6 @@ en:
     binder: Binder
     binding_note: Binding note
     birth_name: Birth name
-    birthname: Birthname
     book_format: Book format
     bookseller: Bookseller
     bound_with: Bound with
@@ -304,7 +294,6 @@ en:
     choreographer: Choreographer
     chronological_subdivision: Chronological subdivision
     chronological_term: Chronological term
-    city: City
     clef: Clef
     co-composer: Co-composer
     coded_date: Coded date
@@ -321,27 +310,22 @@ en:
     conductor: Conductor
     confused_with: Confused with
     conjectural: Conjectural
-    contact: Contact
     contact_area: Contact area
     content: Content
     content_description: Content description
     contents_note: Contents note
-    contributer: Contributer
     contributor: Contributor
     control_fields: Control fields
-    control_fields2: Control Fields
     control_number_identifier: Control number identifier
     copy_examined: Copy examined for cataloging
     copyist: Copyist
     copyright_holder: Copyright holder
     costume_designer: Costume designer
     countries_places: Countries and Places
-    country: Country
     country_active: Country active
     country_activity: Country of activity
     country_code: Country code
     country_of_publication: Country of publication
-    county_province: County or province
     creation_production_note: Creation/production note
     cs_major: C♯ major
     cs_minor: C♯ minor
@@ -357,7 +341,6 @@ en:
     dedicatee: Dedicatee
     department: Department
     depositor: Depositor
-    description: Description
     description_area: Description area
     description_summary: Description summary
     designer: Designer
@@ -370,11 +353,10 @@ en:
     dissertation_note: Dissertation note
     distribution: Distribution
     distributor: Distributor
-    documentation_center: Documentation center
     donor: Donor
     doubtful: Doubtful
-    dramatic_roles_original: Dramatic roles named, original spelling
-    dramatic_roles_standardized: Dramatic roles named, standardized
+    dramatic_roles_original: Dramatic role named, original spelling
+    dramatic_roles_standardized: Dramatic role named, standardized
     ds_major: D♯ major
     ds_minor: D♯ minor
     dubious: Dubious
@@ -443,6 +425,9 @@ en:
     general_abbreviations: General abbreviations and terms
     general_cataloguing_guidelines: General cataloging guidelines
     general_note: General note
+    general_note_incipits: General note for music incipit
+    general_note_institution: General note
+    general_note_personal: General note
     geographic_name: Geographic name
     geographic_subdivision: Geographic subdivision
     gf_major: G♭ major
@@ -453,11 +438,9 @@ en:
     heading_composer_name: Heading - composer name
     heading_personal_name: Heading - Personal name
     heading_personal_name1: Heading-Personal name
-    heading_personal_name3: Heading - personal name
     help_transposing_instruments: Help for transposing instruments
     history_institution: History of institution
     holdings_location: Holdings, location, etc. fields
-    identity: Identity
     identity_area: Identity area
     iiif_manifest: IIIF manifest
     illustrator: Illustrator
@@ -478,8 +461,6 @@ en:
     institutions: Institutions
     instrumentalist: Instrumentalist
     internal_note: Internal note
-    internal_notes: Internal notes
-    internal_notes1: Internal Notes
     introduction: Introduction
     isbn: ISBN
     ismn: ISMN
@@ -494,15 +475,12 @@ en:
     keyboards: Keyboards
     keys: Keys
     language_code: Language code
-    language_code2: Language Code
     language_codes: Language codes
     language_libretto: Language of libretto
     language_note: Language note
     language_of_cataloging: Language of cataloging
-    language_of_cataloguing: Language of cataloguing
     language_original_text: Language of original text
     language_text: Language of text
-    latitude: Latitude
     leader: Leader
     library: Library
     library_information: Library information
@@ -518,7 +496,6 @@ en:
     lithograph: Lithograph
     lithographer: Lithographer
     lithography: Lithography
-    liturgical_feasts: Liturgical feasts
     liturgical_festival: Liturgical festival
     liturgical_festivals: Liturgical festivals
     local_id_number: Local ID no.
@@ -531,10 +508,8 @@ en:
     location_on_source: Locations on the source
     location_performance: Location of performance
     location_printer: Location of printer
-    longitude: Longitude
     lyricist: Lyricist
     main_entry_fields: Main entry fields
-    marriage_name: Marriage Name
     married_name: Married name
     married_to: Married to
     married_with: Married with
@@ -578,24 +553,20 @@ en:
     multiple: Multiple
     multiple_copies: Multiple copies
     multiple_single_dates: Multiple single dates
-    museum: Museum
     music_incipit: Music incipit
     name: Name
     name_family: Name of family
     name_printer: Name of printer
     name_variant: Name variant
     name_variants: Name variants
-    name_variants2: Name Variants
-    named_dramatic_roles: Named dramatic roles
+    named_dramatic_roles: Named dramatic role
     nationality: Nationality
     nickname: Nickname
     no_linguistic_content: No linguistic content
     non_migrated_bound: Non-migrated bound with value from 563
-    note: Note
     note_external_resource: Note about external resource
     note_fields: Note fields
     note_on_performance: Note on performance
-    note_on_performance2: Note on Performance
     now_in: Now in
     number: Number
     number_page: Number/page
@@ -616,13 +587,11 @@ en:
     online_finding_aids: Online finding aids
     opera_houses_concert_halls: Opera houses and concert halls
     opus_number: Opus number
-    opus_thematic_index_number: Opus / Thematic index number
+    opus_thematic_index_number: Opus/Thematic index number
     order_name: Order Name
     origin: Origin
     original_cataloging_agency: Original cataloging agency
-    original_cataloguing_agency: Original cataloguing agency
     other: Other
-    other1: other
     other_form: Other form
     other_form_of_name: Other form of name
     other_function: Other function
@@ -653,23 +622,17 @@ en:
     personal_names: Personal names
     photoreproductive_process: Photoreproductive process (bluprint)
     physical_description: Physical description
-    physical_description2: Physical Description
     physical_description_fields: Physical description, etc. fields
     place: Place
     place_active: Place active
     place_activity: Place of activity
     place_birth: Place of birth
-    place_birth2: Place of Birth
     place_death: Place of death
-    place_death1: Place of Death
     place_origin: Place of origin
-    place_origin2: Place of Origin
     place_publication: Place of publication
     places: Places
     plate_number: Plate number
-    plate_number1: Plate Number
     plucked_instruments: Plucked instruments
-    postal_code: Postal code
     postal_place: Postal place
     preceding_entry: Preceding entry
     printer: Printer
@@ -678,10 +641,8 @@ en:
     production_personnel: Production personnel
     profession_or_function: Profession or function
     provenance: Provenance
-    provenance_note: Provenance note
     provenance_notes: Provenance notes
     pseudonym: Pseudonym
-    public_note: Public Note
     publisher: Publisher
     publisher_copyist: Publisher, copyist
     publishing_printing_production: Publishing, printing and production information
@@ -707,10 +668,8 @@ en:
     religious_name: Religious name
     religious_order: Religious order
     reproduction: Reproduction
-    research_institute: Research institute
     retrospective_conversion: Retrospective conversion
     rism_id_number: RISM ID number
-    rism_id_number2: RISM ID Number
     role: Role
     scoring_in_movement: Scoring in movement
     scoring_summary: Scoring summary
@@ -723,8 +682,6 @@ en:
     shelfmark: Shelfmark
     shelfmark_olim: Shelfmark (olim)
     short_title: Short title
-    sigla: Sigla
-    siglum: Siglum
     single_date: Single date
     sister_of: Sister of
     sketches: Sketches
@@ -735,7 +692,6 @@ en:
     source_description: Source of description note
     source_details: Source details
     source_number_code: Source of number or code
-    source_of_acquisition: Source of acquisition
     source_of_acquisition_note: Source of acquisition note
     source_type: Source type
     special_production_technique: Special production technique
@@ -747,14 +703,12 @@ en:
     standardized_title: Standardized title
     standardized_titles_printed_music: Standardized titles for printed music
     standardized_titles_subject_headings: Standardized titles - Subject headings
-    street_address: Street address
     strings: Strings
     subheading: Subheading
     subheading_general: Subheading General subdivision
     subject_access_fields: Subject access fields
     subject_heading: Subject heading
     subject_headings: Subject headings
-    subordinate_unit: Subordinate unit
     succeeding_entry: Succeeding entry
     summary: Summary
     supplementary_material: Supplementary material
@@ -762,7 +716,7 @@ en:
     technical_production: Technical production
     temp_val: Temp val
     templates: Templates
-    terms_voices_instruments: Terms for voices and instruments
+    terms_voices_instruments: RISM Instrument abbreviations
     text_author: Text author
     text_incipit: Text incipit
     third_fourth_group: Third/fourth group
@@ -777,7 +731,7 @@ en:
     title_related_fields: Title and title-related fields
     title_section_part: Title of section or part
     title_variants: Title variants
-    titles_text_incipits: Titles / text incipits
+    titles_text_incipits: Titles/text incipits
     topical_term: Topical Term
     total_scoring: Total scoring
     transcribing_agency: Transcribing agency
@@ -792,7 +746,6 @@ en:
     typescript: Typescript
     typography: Typography
     unknown: Unknown
-    unknown1: unknown
     unparsed_fingerprint: Unparsed fingerprint
     variant_ms_title: Variant title on manuscript
     variant_source_title: Variant title on source
@@ -803,7 +756,6 @@ en:
     watermark_description: Watermark description
     woodwinds: Woodwinds
     work: Work
-    work2: WORK
     work_number: Work number
     year: Year
     years_birth_death: Years of birth and death
