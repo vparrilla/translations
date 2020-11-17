@@ -1,5 +1,6 @@
 pl:
   general:
+    e_mail: E-mail
     editor_help: Pomoc do edycji
     faq: Odpowiedzi na częste pytania
     female: kobieta
@@ -23,6 +24,7 @@ pl:
     unknown_fields: Pola nieznane
     unused: NIEWYKORZYSTANE – DO USUNIĘCIA
     uri: URI
+    url: URL
     using_muscat: Korzystanie z Muscatu
     validity: Ważność
     verified: Zweryfikowane
@@ -35,7 +37,6 @@ pl:
     aragonese: Aragoński
     armenian: Armeński
     basque: Baskijski
-    benin: Benin
     bosnian: Bośniacki
     bulgarian: Bułgarski
     catalan: Kataloński
@@ -129,6 +130,7 @@ pl:
     austria_upper_austria: 'Austria: Górna Austria'
     austria_vienna: 'Austria: Wiedeń'
     belgium: Belgia
+    benin: Benin
     brazil: Brazylia
     bulgaria: Bułgaria
     cambodia: Kambodża
@@ -150,12 +152,15 @@ pl:
     germany_bavaria: 'Niemcy: Bawaria'
     germany_saxony: 'Niemcy: Saksonia'
     greece: Grecja
+    guatemala: Gwatemala
     guinea: Gwinea
     holy_see: Watykan
     honduras: Honduras
+    hong_kong: Hongkong
     hungary: Węgry
     iceland: Islandia
     india: Indie
+    indonesia: Indonezja
     iran: Iran, Republika Islamska
     iraq: Irak
     ireland: Irlandia
@@ -174,14 +179,18 @@ pl:
     montenegro: Czarnogóra
     netherlands: Niderlandy
     new_zealand: Nowa Zelandia
+    northern_ireland: Irlandia Północna
     norway: Norwegia
+    papua_new_guinea: Papua Nowa Gwinea
     paraguay: Paragwaj
     peru: Peru
+    philippines: Filipiny
     poland: Polska
     portugal: Portugalia
     puerto_rico: Portoryko
     romania: Rumunia
     russian_federation: Federacja Rosyjska
+    saudi_arabia: Arabia Saudyjska
     serbia: Serbia
     slovakia: Słowacja
     slovenia: Słowenia
@@ -225,6 +234,7 @@ pl:
     aids: Pomoce
     alleged: Domniemane
     alternate_spelling: Alternatywna pisownia
+    archive: Archiwum
     arrangement: Aranżacja
     arrangement_statement: Uwaga do aranżacji
     arranger: Aranżer
@@ -243,6 +253,7 @@ pl:
     author: Autor
     author_editor: Autor / edytor
     authorities: Hasła wzorcowe
+    authority_agency: Baza haseł wzorcowych
     authority_reference: Odniesienie do bazy haseł wzorcowych
     autography: Autografia
     b_major: H-dur
@@ -294,6 +305,7 @@ pl:
     choreographer: Choreograf
     chronological_subdivision: Dalszy podział chronologiczny
     chronological_term: Datowanie
+    city: Miejscowość
     clef: Klucz
     co-composer: Współkompozytor
     coded_date: Znormalizowana data
@@ -310,6 +322,7 @@ pl:
     conductor: Dyrygent
     confused_with: Mylon(y/a) z …
     conjectural: Spekulatywne
+    contact: Kontakt
     contact_area: Obszar kontaktu
     content: Zawartość
     content_description: Opis źródła
@@ -322,10 +335,12 @@ pl:
     copyright_holder: Posiadacz praw autorskich
     costume_designer: Projektant kostiumów
     countries_places: Kraje i miejsca
+    country: Kraj
     country_active: Kraj aktywności artystycznej
     country_activity: Kraj aktywności artystycznej
     country_code: Kod kraju
     country_of_publication: Kraj publikacji
+    county_province: Stan, hrabstwo, prowincja...
     creation_production_note: Uwagi do wytworzenia / produkcji
     cs_major: Cis-dur
     cs_minor: cis-moll
@@ -341,6 +356,7 @@ pl:
     dedicatee: Adresat dedykacji
     department: Wydział
     depositor: Deponent
+    description: Opis
     description_area: Obszar opisu
     description_summary: Podsumowanie
     designer: Projektant
@@ -353,6 +369,7 @@ pl:
     dissertation_note: Uwaga do dysertacji
     distribution: Dystrybucja
     distributor: Dystrybutor
+    documentation_center: Centrum dokumentacji
     donor: Donator
     doubtful: Wątpliwe
     dramatic_roles_original: Postaci w oryginalnej pisowni
@@ -441,6 +458,7 @@ pl:
     help_transposing_instruments: Pomoc przy transpozycji instrumentów
     history_institution: Historia instytucji
     holdings_location: Pola egzemplarza, lokalizacji itp.
+    identity: Tożsamość
     identity_area: Obszar tożsamości
     iiif_manifest: Manifest IIIF
     illustrator: Ilustrator
@@ -481,6 +499,7 @@ pl:
     language_of_cataloging: Język katalogowania
     language_original_text: Język tekstu oryginalnego
     language_text: Język tekstu
+    latitude: Szerokość geograficzna
     leader: Leader
     library: Biblioteka
     library_information: Informacje o bibliotece
@@ -508,6 +527,7 @@ pl:
     location_on_source: Lokalizacje w źródle
     location_performance: Lokalizacja wykonania
     location_printer: Lokalizacja drukarni
+    longitude: Długość geograficzna
     lyricist: Autor słów
     main_entry_fields: Główne pola edycji
     married_name: Nazwisko po mężu
@@ -553,6 +573,7 @@ pl:
     multiple: Wielojęzyczny
     multiple_copies: Wiele kopii
     multiple_single_dates: Wiele pojedynczych dat
+    museum: Muzeum
     music_incipit: Incipit muzyczny
     name: Imię i nazwisko
     name_family: Nazwa rodziny
@@ -633,6 +654,7 @@ pl:
     places: Miejsca
     plate_number: Numer wydawniczy
     plucked_instruments: Instrumenty szarpane
+    postal_code: Kod pocztowy
     postal_place: Rejon pocztowy
     preceding_entry: Poprzedzający wpis
     printer: Drukarnia
@@ -643,6 +665,7 @@ pl:
     provenance: Pochodzenie
     provenance_notes: Uwagi o pochodzeniu
     pseudonym: Pseudonim
+    public_note: Inne informacje kontaktowe
     publisher: Wydawca
     publisher_copyist: Wydawca, kopista
     publishing_printing_production: Informacje o publikacji, druku i produkcji
@@ -668,6 +691,7 @@ pl:
     religious_name: Imię z wyznania
     religious_order: Zgromadzenie zakonne
     reproduction: Reprodukcja
+    research_institute: Instytut badawczy
     retrospective_conversion: Konwersja retrospektywna
     rism_id_number: RISM ID
     role: Rola
@@ -682,6 +706,8 @@ pl:
     shelfmark: Sygnatura
     shelfmark_olim: Sygnatura (wcześniejsza)
     short_title: Skrócony tytuł
+    sigla: Sigla
+    siglum: Siglum
     single_date: Pojedyncza data
     sister_of: Siostra …
     sketches: Szkice
@@ -703,12 +729,14 @@ pl:
     standardized_title: Znormalizowany tytuł
     standardized_titles_printed_music: Znormalizowane tytuły dla druków muzycznych
     standardized_titles_subject_headings: Znormalizowane tytuły – słowa kluczowe
+    street_address: Ulica, numer, numer lokalu
     strings: Instrumenty strunowe
     subheading: Pod-nagłówek
     subheading_general: Ogólny dalszy podział podnagłówków
     subject_access_fields: Pola haseł tematycznych
     subject_heading: Słowo kluczowe
     subject_headings: Słowa kluczowe
+    subordinate_unit: Jednostka podporządkowana
     succeeding_entry: Kolejny wpis
     summary: Podsumowanie
     supplementary_material: Materiał uzupełniający

@@ -1,5 +1,6 @@
 de:
   general:
+    e_mail: E-Mail
     editor_help: Editor Hilfe
     faq: FAQ
     female: weiblich
@@ -23,6 +24,7 @@ de:
     unknown_fields: Unbekannte Felder
     unused: UNUSED - WILL BE REMOVED
     uri: URI
+    url: URL
     using_muscat: Editor Hilfe
     validity: Gültigkeit
     verified: Gesichert
@@ -35,7 +37,6 @@ de:
     aragonese: Aragonesisch
     armenian: Armenische
     basque: Baskisch
-    benin: Benin
     bosnian: Bosnisch
     bulgarian: Bulgarisch
     catalan: Katalanisch
@@ -129,6 +130,7 @@ de:
     austria_upper_austria: 'Austria: Upper Austria'
     austria_vienna: 'Austria: Vienna'
     belgium: Belgien
+    benin: Benin
     brazil: Brasilien
     bulgaria: Bulgarien
     cambodia: Cambodia
@@ -150,12 +152,15 @@ de:
     germany_bavaria: 'Germany: Bavaria'
     germany_saxony: 'Germany: Saxony'
     greece: Griechenland
+    guatemala: Guatemala
     guinea: Guinea
     holy_see: Holy See
     honduras: Honduras
+    hong_kong: Hongkong
     hungary: Ungarn
     iceland: Island
     india: Indien
+    indonesia: Indonesien
     iran: Iran, Islamic Republic of
     iraq: Irak
     ireland: Irland
@@ -174,14 +179,18 @@ de:
     montenegro: Montenegro
     netherlands: Niederlande
     new_zealand: New Zealand
+    northern_ireland: Nordirland
     norway: Norwegen
+    papua_new_guinea: Papua Neu-Guinea
     paraguay: Paraguay
     peru: Peru
+    philippines: Philippinen
     poland: Polen
     portugal: Portugal
     puerto_rico: Puerto Rico
     romania: Rumänien
     russian_federation: Russian Federation
+    saudi_arabia: Saudi-Arabien
     serbia: Serbien
     slovakia: Slovakia
     slovenia: Slovenien
@@ -225,6 +234,7 @@ de:
     aids: Arbeitshilfen
     alleged: Angeblich
     alternate_spelling: Andere Schreibweise
+    archive: Archiv
     arrangement: Bearbeitung
     arrangement_statement: Bearbeitung
     arranger: Bearbeiter
@@ -243,6 +253,7 @@ de:
     author: Autor
     author_editor: Autor / Herausgeber
     authorities: Normdaten
+    authority_agency: Normdatenagentur
     authority_reference: Normdatenverweise
     autography: Autographie
     b_major: H-Dur
@@ -294,6 +305,7 @@ de:
     choreographer: Choreograph
     chronological_subdivision: Chronologische Unterteilung
     chronological_term: Datierungen
+    city: Ort
     clef: Schlüssel
     co-composer: Mitkomponist
     coded_date: Datum und Ort eines Ereignisses (codiert)
@@ -310,6 +322,7 @@ de:
     conductor: Dirigent
     confused_with: Verwechselt mit
     conjectural: Mutmaßlich
+    contact: Kontakt
     contact_area: Kontakt
     content: Inhalt
     content_description: Inhaltsangaben
@@ -322,10 +335,12 @@ de:
     copyright_holder: Rechteinhaber
     costume_designer: Kostümbildner
     countries_places: Länder und Orte
+    country: Land
     country_active: Wirkungsland
     country_activity: Wirkungsland
     country_code: Länder-Code
     country_of_publication: Land
+    county_province: Bezirk oder Staat
     creation_production_note: Bemerkung zur Person / Körperschaft
     cs_major: Cis-Dur
     cs_minor: cis-Moll
@@ -341,6 +356,7 @@ de:
     dedicatee: Widmungsträger
     department: Abteilung
     depositor: Depositor
+    description: Beschreibung
     description_area: Beschreibung
     description_summary: Zusammenfassende Beschreibung
     designer: Designer
@@ -353,6 +369,7 @@ de:
     dissertation_note: Hinweis zur Dissertation
     distribution: Besetzung
     distributor: Vertrieb
+    documentation_center: Dokumentationszentrum
     donor: Donator
     doubtful: Zweifelhaft
     dramatic_roles_original: Originale Schreibweise
@@ -441,6 +458,7 @@ de:
     help_transposing_instruments: Hilfe zu transponierenden Instrumenten
     history_institution: Geschichte der Körperschaft
     holdings_location: Bestandsdaten
+    identity: Identifizierung
     identity_area: IDENTITY AREA
     iiif_manifest: IIIF manifest
     illustrator: Illustrator
@@ -481,6 +499,7 @@ de:
     language_of_cataloging: Katalogisierungssprache
     language_original_text: Sprachcode des Originaltextes
     language_text: Sprachcode
+    latitude: Breitengrad
     leader: Leader
     library: Bibliothek
     library_information: Besitzerangaben
@@ -508,6 +527,7 @@ de:
     location_on_source: Fundorte auf Quellen
     location_performance: Aufführungsort
     location_printer: Druckort
+    longitude: Längengrad
     lyricist: Textdichter
     main_entry_fields: Haupteintragungen
     married_name: Ehename
@@ -553,6 +573,7 @@ de:
     multiple: Mehrere
     multiple_copies: Mehrere Exemplare
     multiple_single_dates: Mehrere Einzeldaten
+    museum: Museum
     music_incipit: Musikincipit
     name: Personenname
     name_family: Familienname
@@ -633,6 +654,7 @@ de:
     places: Orte
     plate_number: Plattennummer
     plucked_instruments: Zupfinstrumente
+    postal_code: Postleitzahl
     postal_place: postalischer Ort
     preceding_entry: Früherer Eintrag
     printer: Drucker
@@ -643,6 +665,7 @@ de:
     provenance: Bestandsname
     provenance_notes: Provenienzvermerke
     pseudonym: Pseudonym
+    public_note: Bemerkungen
     publisher: Verleger
     publisher_copyist: Schreiber, Verleger, Verlag
     publishing_printing_production: Abschrift oder Impressum
@@ -668,6 +691,7 @@ de:
     religious_name: Ordensname
     religious_order: Orden/Titel
     reproduction: Reproduktion
+    research_institute: Forschungsinstitut
     retrospective_conversion: Retroeinspielung
     rism_id_number: RISM Dokumentnummer
     role: Rolle
@@ -682,6 +706,8 @@ de:
     shelfmark: Signatur
     shelfmark_olim: Alte Signatur (olim)
     short_title: Kurztitel
+    sigla: Sigel
+    siglum: Sigel
     single_date: Einzeldatum
     sister_of: Schwester von
     sketches: Skizzen
@@ -703,12 +729,14 @@ de:
     standardized_title: Einordnungstitel
     standardized_titles_printed_music: Einordnungstitel für Musikdrucke
     standardized_titles_subject_headings: Einordnungstitel - Schlagworte
+    street_address: Strasse
     strings: Streichinstrumente
     subheading: Unterteilung nach der Form
     subheading_general: Allgemeine Unterteilung
     subject_access_fields: Schlagworteintragungen
     subject_heading: Schlagworteintragung
     subject_headings: Schlagworte
+    subordinate_unit: Untergeordnete Körperschaft
     succeeding_entry: Folgeeintrag
     summary: Zusammenfassung
     supplementary_material: Beigelegtes Material, Addenda

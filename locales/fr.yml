@@ -1,5 +1,6 @@
 fr:
   general:
+    e_mail: E-mail
     editor_help: Aide pour l'editor
     faq: Foire aux questions
     female: femme
@@ -24,6 +25,7 @@ fr:
     unknown_fields: Champs non reconnus
     unused: UNUSED - WILL BE REMOVED
     uri: URI
+    url: URL
     using_muscat: Aide de Muscat
     validity: Validité
     verified: Vérifié
@@ -36,7 +38,6 @@ fr:
     aragonese: Aragonais
     armenian: Arménien
     basque: Basque
-    benin: Benin
     bosnian: Bosnien
     bulgarian: Bulgare
     catalan: Catalan
@@ -130,6 +131,7 @@ fr:
     austria_upper_austria: 'Autriche: Haute-Autriche'
     austria_vienna: 'Autriche: Vienne'
     belgium: Belgique
+    benin: Benin
     brazil: Brésil
     bulgaria: Bulgarie
     cambodia: Cambodge
@@ -151,12 +153,15 @@ fr:
     germany_bavaria: 'Allemagne: Bavière'
     germany_saxony: 'Germany: Saxony'
     greece: Grèce
+    guatemala: Guatemala
     guinea: Guinée
     holy_see: Saint-Siège
     honduras: Honduras
+    hong_kong: Hong Kong
     hungary: Hongrie
     iceland: Islande
     india: Inde
+    indonesia: Indonésie
     iran: Iran (République islamique d')
     iraq: Irak
     ireland: Irlande
@@ -172,17 +177,21 @@ fr:
     mexico: Mexique
     moldavia: Moldavie
     monaco: Monaco
-    montenegro: Montenegro
+    montenegro: Monténégro
     netherlands: Pays-Bas
     new_zealand: Nouvelle-Zélande
+    northern_ireland: Irlande du Nord
     norway: Norvège
+    papua_new_guinea: Papouasie Nouvelle Guinée
     paraguay: Paraguay
     peru: Pérou
+    philippines: Philippines
     poland: Pologne
     portugal: Portugal
     puerto_rico: Puerto Rico
     romania: Romanie
     russian_federation: Fédération russe
+    saudi_arabia: Arabie Saoudite
     serbia: Serbie
     slovakia: Slovaquie
     slovenia: Slovénie
@@ -226,6 +235,7 @@ fr:
     aids: Aide
     alleged: Présumé
     alternate_spelling: Autres formes
+    archive: Archives
     arrangement: Arrangement
     arrangement_statement: Mention d'arrangement
     arranger: Arrangeur
@@ -244,6 +254,7 @@ fr:
     author: Auteur
     author_editor: Auteur / directeur
     authorities: Liste d'autorités
+    authority_agency: Agence d'authorité
     authority_reference: Référence d'authorité
     autography: Autographie
     b_major: Si majeur
@@ -279,7 +290,7 @@ fr:
     catalog_opus_number: No. de catalogue thématique/Opus
     catalog_works: Catalogue des oeuvres
     cataloging_agency: Agence de catalogation
-    cataloging_collection_convoluta: 'Catalogation de recueils et volumes composés '
+    cataloging_collection_convoluta: Catalogation de recueils et volumes composés
     cataloging_collections: Catalogation de recueils
     cataloging_forms: Formulaire de catalogation
     cataloging_language: Langage de catalogation
@@ -295,6 +306,7 @@ fr:
     choreographer: Chorégraphe
     chronological_subdivision: Subdivision chronologique
     chronological_term: Datation
+    city: Ville
     clef: Clé
     co-composer: Compositeur secondaire
     coded_date: Date et lieu d'un événement
@@ -311,6 +323,7 @@ fr:
     conductor: Chef d'orchestre
     confused_with: Confondu avec
     conjectural: Conjectural
+    contact: Contact
     contact_area: Contact
     content: Contenu
     content_description: Description du contenu
@@ -323,10 +336,12 @@ fr:
     copyright_holder: Titulaire du droit d'auteur
     costume_designer: Costumier
     countries_places: Lieux
+    country: Pays
     country_active: Pays d'activité
     country_activity: Pays d'activité
     country_code: Country code
     country_of_publication: Pays
+    county_province: Canton ou province
     creation_production_note: Note sur la création/production
     cs_major: Do♯ majeur
     cs_minor: Do♯ mineur
@@ -342,6 +357,7 @@ fr:
     dedicatee: Dédicataire
     department: Section
     depositor: Dépositeur
+    description: Description
     description_area: Description
     description_summary: Description brève
     designer: Décorateur
@@ -354,6 +370,7 @@ fr:
     dissertation_note: Note à la thèse
     distribution: Instrumentation
     distributor: Distributeur
+    documentation_center: Centre de documentation
     donor: Donateur
     doubtful: Douteux
     dramatic_roles_original: Noms originaux des personnages
@@ -442,6 +459,7 @@ fr:
     help_transposing_instruments: Aide pour les instruments transpositeurs
     history_institution: Historique de l'institution
     holdings_location: Données sur la collection, le fonds, etc.
+    identity: Identité
     identity_area: Identité
     iiif_manifest: Manifeste IIIF
     illustrator: Illustrateur
@@ -482,6 +500,7 @@ fr:
     language_of_cataloging: Langue de catalogage
     language_original_text: Langue du texte original
     language_text: Langue du texte chanté
+    latitude: Latitude
     leader: Guide
     library: Bibliothèque
     library_information: Bibliothèque
@@ -509,6 +528,7 @@ fr:
     location_on_source: Endroit sur la source
     location_performance: Lieu d'une exécution
     location_printer: Lieu d'impression
+    longitude: Longitude
     lyricist: Parolier
     main_entry_fields: Champs principales
     married_name: Nom de mariage
@@ -554,6 +574,7 @@ fr:
     multiple: Multiple
     multiple_copies: Exemplaire multiples
     multiple_single_dates: Dates uniques multiples
+    museum: Musée
     music_incipit: Incipit musical
     name: Nom
     name_family: Nom de famille
@@ -634,6 +655,7 @@ fr:
     places: Lieux
     plate_number: Numéro de plaque
     plucked_instruments: Instruments à cordes pincées
+    postal_code: Code postal
     postal_place: Endroit postal
     preceding_entry: Notice précédente
     printer: Imprimeur
@@ -644,6 +666,7 @@ fr:
     provenance: Provenance
     provenance_notes: Note de provenance
     pseudonym: Pseudonyme
+    public_note: Note publique
     publisher: Editeur
     publisher_copyist: Copiste ou maison d'édition
     publishing_printing_production: Copie ou données d'édition
@@ -669,6 +692,7 @@ fr:
     religious_name: Nom d'ordre
     religious_order: Ordre/titre
     reproduction: Reproduction
+    research_institute: Institution de recherche
     retrospective_conversion: Conversion retrospective
     rism_id_number: No. RISM
     role: Personnage
@@ -683,6 +707,8 @@ fr:
     shelfmark: Cote
     shelfmark_olim: Ancienne cote (olim)
     short_title: Titre abrégé
+    sigla: Sigle
+    siglum: Sigle
     single_date: Date unique
     sister_of: Soeur de
     sketches: Esquisses
@@ -704,12 +730,14 @@ fr:
     standardized_title: Titre uniforme
     standardized_titles_printed_music: Titre uniforme pour imprimés musicales
     standardized_titles_subject_headings: Titre uniforme - Descripteurs
+    street_address: Adresse
     strings: Cordes
     subheading: Sous-vedette de forme
     subheading_general: Subdivision générale
     subject_access_fields: Entrées de sujets
     subject_heading: Sujet
     subject_headings: Sujet
+    subordinate_unit: Collectivité subordonnée
     succeeding_entry: Notice suivante
     summary: Résumé
     supplementary_material: Matériel supplémentaire

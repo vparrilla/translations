@@ -1,5 +1,6 @@
 pt:
   general:
+    e_mail: ''
     editor_help: ''
     faq: Questões frequentes
     female: ''
@@ -23,6 +24,7 @@ pt:
     unknown_fields: ''
     unused: UNUSED - WILL BE REMOVED
     uri: URI
+    url: ''
     using_muscat: Catalogando fontes
     validity: Validade
     verified: Verificada
@@ -35,7 +37,6 @@ pt:
     aragonese: Aragonês
     armenian: Arménio
     basque: Basco
-    benin: ''
     bosnian: Bósnio
     bulgarian: Búlgaro
     catalan: Catalão
@@ -129,6 +130,7 @@ pt:
     austria_upper_austria: ''
     austria_vienna: ''
     belgium: ''
+    benin: ''
     brazil: ''
     bulgaria: ''
     cambodia: ''
@@ -150,12 +152,15 @@ pt:
     germany_bavaria: ''
     germany_saxony: ''
     greece: ''
+    guatemala: ''
     guinea: ''
     holy_see: ''
     honduras: ''
+    hong_kong: Hong Kong
     hungary: ''
     iceland: ''
     india: ''
+    indonesia: Indonésia
     iran: ''
     iraq: ''
     ireland: ''
@@ -171,17 +176,21 @@ pt:
     mexico: ''
     moldavia: ''
     monaco: ''
-    montenegro: ''
+    montenegro: Montenegro
     netherlands: ''
-    new_zealand: ''
+    new_zealand: Nova Zelândia
+    northern_ireland: Irlanda do Norte
     norway: ''
+    papua_new_guinea: Papua Nova Guiné
     paraguay: ''
     peru: ''
+    philippines: Filipinas
     poland: ''
     portugal: ''
     puerto_rico: ''
     romania: ''
     russian_federation: ''
+    saudi_arabia: Arábia Saudita
     serbia: ''
     slovakia: ''
     slovenia: ''
@@ -225,6 +234,7 @@ pt:
     aids: ''
     alleged: Suposta
     alternate_spelling: ''
+    archive: ''
     arrangement: Arranjo
     arrangement_statement: Menção de arranjo
     arranger: Arranjador [arr]
@@ -243,6 +253,7 @@ pt:
     author: Autor [aut]
     author_editor: Autor/editor
     authorities: Autoridades
+    authority_agency: ''
     authority_reference: Referência de autoridade
     autography: Autografia
     b_major: Si maior
@@ -294,6 +305,7 @@ pt:
     choreographer: ''
     chronological_subdivision: ''
     chronological_term: ''
+    city: ''
     clef: Clave
     co-composer: Co-compositor [ctb]
     coded_date: Data codificada
@@ -310,6 +322,7 @@ pt:
     conductor: ''
     confused_with: ''
     conjectural: Conjetural
+    contact: ''
     contact_area: Contato
     content: ''
     content_description: ''
@@ -322,10 +335,12 @@ pt:
     copyright_holder: Detentor dos direitos de cópia/reprodução [cph]
     costume_designer: ''
     countries_places: ''
+    country: ''
     country_active: ''
     country_activity: ''
     country_code: Código de país
     country_of_publication: ''
+    county_province: ''
     creation_production_note: Nota de produção/criação
     cs_major: Dó sustenido maior
     cs_minor: Dó sustenido menor
@@ -341,6 +356,7 @@ pt:
     dedicatee: Dedicatário(a) [dte]
     department: Departamento
     depositor: Depositante [dpt]
+    description: ''
     description_area: Descrição
     description_summary: Síntese da descrição
     designer: ''
@@ -353,6 +369,7 @@ pt:
     dissertation_note: ''
     distribution: ''
     distributor: Distribuidor [dst]
+    documentation_center: ''
     donor: ''
     doubtful: Duvidosa
     dramatic_roles_original: Papéis dramáticos mencionado, grafia original
@@ -441,6 +458,7 @@ pt:
     help_transposing_instruments: Ajuda para instrumentos transpositores
     history_institution: História da instituição
     holdings_location: ''
+    identity: ''
     identity_area: Identidade
     iiif_manifest: Manifesto IIIF
     illustrator: Ilustrador [ill]
@@ -481,6 +499,7 @@ pt:
     language_of_cataloging: Idioma de catalogação
     language_original_text: Idioma do texto original
     language_text: Idioma do texto
+    latitude: ''
     leader: Líder
     library: Instituição
     library_information: Informação da instituição
@@ -508,6 +527,7 @@ pt:
     location_on_source: ''
     location_performance: Local de performance
     location_printer: Local de impressão
+    longitude: ''
     lyricist: ''
     main_entry_fields: Campos de entrada principal
     married_name: ''
@@ -553,6 +573,7 @@ pt:
     multiple: Múltiplos
     multiple_copies: Múltiplos exemplares em uma instituição
     multiple_single_dates: Datas múltiplas
+    museum: ''
     music_incipit: Incipit musical
     name: Nome
     name_family: ''
@@ -630,6 +651,7 @@ pt:
     places: Locais
     plate_number: Número de chapa
     plucked_instruments: Cordas dedilhadas
+    postal_code: ''
     postal_place: ''
     preceding_entry: Registro precedente
     printer: Impressor(a) [prt]
@@ -640,6 +662,7 @@ pt:
     provenance: Proveniência
     provenance_notes: Nota de proveniência
     pseudonym: ''
+    public_note: ''
     publisher: Casa editora [pbl]
     publisher_copyist: Editor, copista
     publishing_printing_production: Informação de publicação, impressão e produção
@@ -665,6 +688,7 @@ pt:
     religious_name: ''
     religious_order: ''
     reproduction: Reprodução
+    research_institute: ''
     retrospective_conversion: Conversão restropectiva
     rism_id_number: Número ID RISM
     role: Personagem
@@ -679,6 +703,8 @@ pt:
     shelfmark: Código
     shelfmark_olim: Código antigo (olim)
     short_title: Título abreviado
+    sigla: ''
+    siglum: ''
     single_date: Data única
     sister_of: ''
     sketches: Esboços
@@ -700,12 +726,14 @@ pt:
     standardized_title: Título uniforme
     standardized_titles_printed_music: Títulos uniformes para música impressa
     standardized_titles_subject_headings: Títulos uniformes – Cabeçalhos de assunto
+    street_address: ''
     strings: Cordas
     subheading: Subdivisão de forma
     subheading_general: ''
     subject_access_fields: Campos de acesso por assunto
     subject_heading: Assunto
     subject_headings: Cabeçalhos de assunto
+    subordinate_unit: ''
     succeeding_entry: Registro subsequente
     summary: ''
     supplementary_material: Material suplementar

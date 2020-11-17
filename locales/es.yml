@@ -1,5 +1,6 @@
 es:
   general:
+    e_mail: E-mail
     editor_help: Ayuda del editor
     faq: Preguntas frecuentes
     female: femenino
@@ -23,6 +24,7 @@ es:
     unknown_fields: Campos desconocidos
     unused: EN DESUSO - SERÁ REMOVIDO
     uri: URI
+    url: URL
     using_muscat: Uso de Muscat
     validity: Validez
     verified: Verificada
@@ -35,7 +37,6 @@ es:
     aragonese: Aragonés
     armenian: Armenio
     basque: Vasco
-    benin: Benín
     bosnian: Bosnio
     bulgarian: Búlgaro
     catalan: Catalán
@@ -129,6 +130,7 @@ es:
     austria_upper_austria: 'Austria: Alta Austria'
     austria_vienna: 'Austria: Viena'
     belgium: Bélgica
+    benin: Benín
     brazil: Brasil
     bulgaria: Bulgaria
     cambodia: Camboya
@@ -150,12 +152,15 @@ es:
     germany_bavaria: 'Alemania: Bavaria'
     germany_saxony: 'Alemania: Sajonia'
     greece: Grecia
+    guatemala: ''
     guinea: Guinea
     holy_see: Santa Sede
     honduras: Honduras
+    hong_kong: Hong Kong
     hungary: Hungría
     iceland: Islandia
     india: India
+    indonesia: Indonesia
     iran: Irán, República Islámica de
     iraq: ''
     ireland: Irlanda
@@ -174,14 +179,18 @@ es:
     montenegro: Montenegro
     netherlands: Países Bajos
     new_zealand: Nueva Zelanda
+    northern_ireland: Irlanda del Norte
     norway: Noruega
+    papua_new_guinea: Papúa Nueva Guinea
     paraguay: Paraguay
     peru: Perú
+    philippines: Filipinas
     poland: Polonia
     portugal: Portugal
     puerto_rico: Puerto Rico
     romania: Rumania
     russian_federation: Federación Rusa
+    saudi_arabia: Arabia Saudita
     serbia: Serbia
     slovakia: Eslovaquia
     slovenia: Eslovenia
@@ -225,6 +234,7 @@ es:
     aids: Asistencia
     alleged: Supuesta
     alternate_spelling: Ortografía alternativa
+    archive: Archivo
     arrangement: Arreglo
     arrangement_statement: Declaración de arreglo
     arranger: Arreglador
@@ -243,6 +253,7 @@ es:
     author: Autor
     author_editor: Autor/editor
     authorities: Autoridades
+    authority_agency: Agencia de autoridad
     authority_reference: Referencia de autoridad
     autography: Autografía
     b_major: Si Mayor
@@ -294,6 +305,7 @@ es:
     choreographer: Coreógrafo
     chronological_subdivision: Subdivisión cronológica
     chronological_term: Término cronológico
+    city: Ciudad
     clef: Clave
     co-composer: Co-compositor
     coded_date: Fecha codificada
@@ -310,6 +322,7 @@ es:
     conductor: Director musical
     confused_with: Confundido/a con
     conjectural: Conjetural
+    contact: Contacto
     contact_area: Contacto
     content: Contenido
     content_description: Descripción del contenido
@@ -322,10 +335,12 @@ es:
     copyright_holder: Titular de los derechos de copia
     costume_designer: Vestuarista
     countries_places: Países y lugares
+    country: País
     country_active: País de actividad
     country_activity: País de actividad
     country_code: Código de país
     country_of_publication: País de publicación
+    county_province: País o provincia
     creation_production_note: Nota de producción/creación
     cs_major: Do sostenido Mayor
     cs_minor: Do sostenido menor
@@ -341,6 +356,7 @@ es:
     dedicatee: Dedicatario(a)
     department: Departamento
     depositor: Depositante
+    description: Decripción
     description_area: Descripción
     description_summary: Descripción sumaria
     designer: Diseñador
@@ -353,6 +369,7 @@ es:
     dissertation_note: Nota de disertación
     distribution: Distribución
     distributor: Distribuidor
+    documentation_center: ''
     donor: Donante
     doubtful: Dudosa
     dramatic_roles_original: Nombres de personajes, ortografía original
@@ -441,6 +458,7 @@ es:
     help_transposing_instruments: Ayuda para instrumentos transpositores
     history_institution: Historia de la institución
     holdings_location: Campos de los ejemplares y su ubicación
+    identity: Identidad
     identity_area: Identidad
     iiif_manifest: Manifiesto IIIF
     illustrator: Ilustrador
@@ -481,6 +499,7 @@ es:
     language_of_cataloging: Idioma de catalogación
     language_original_text: Idioma del texto original
     language_text: Idioma del texto
+    latitude: Latitud
     leader: Líder
     library: Repositorio
     library_information: Información del repositorio
@@ -508,6 +527,7 @@ es:
     location_on_source: Ubicaciones en la fuente
     location_performance: Lugar de interpretación
     location_printer: Lugar de impresión
+    longitude: Longitud
     lyricist: Letrista
     main_entry_fields: Campos principales
     married_name: Apellido de casada/o
@@ -553,6 +573,7 @@ es:
     multiple: Múltiples
     multiple_copies: Múltiples ejemplares en una institución
     multiple_single_dates: Fechas múltiples
+    museum: ''
     music_incipit: Íncipit musical
     name: Nombre
     name_family: Apellido
@@ -630,6 +651,7 @@ es:
     places: Lugares
     plate_number: Número de plancha
     plucked_instruments: Cuerdas pulsadas
+    postal_code: Código postal
     postal_place: Dirección postal
     preceding_entry: Registro precedente
     printer: Impresor
@@ -640,6 +662,7 @@ es:
     provenance: Procedencia
     provenance_notes: Nota de procedencia
     pseudonym: Seudónimo
+    public_note: Nota pública
     publisher: Editor (publicador)/Editorial (publicadora)
     publisher_copyist: Editor, copista
     publishing_printing_production: Información de publicación, impresión y producción
@@ -665,6 +688,7 @@ es:
     religious_name: Nombre religioso
     religious_order: Orden religiosa
     reproduction: Reproducción
+    research_institute: Institución
     retrospective_conversion: Conversión retrospectiva
     rism_id_number: Número de ID de RISM
     role: Personaje
@@ -679,6 +703,8 @@ es:
     shelfmark: Signatura
     shelfmark_olim: Signatura antigua (olim)
     short_title: Título breve
+    sigla: Sigla
+    siglum: Sigla
     single_date: Fecha única
     sister_of: hermana de
     sketches: Bosquejos
@@ -700,12 +726,14 @@ es:
     standardized_title: Título uniforme
     standardized_titles_printed_music: Títulos uniformes para música impresa
     standardized_titles_subject_headings: Títulos uniformes – Descriptores
+    street_address: Calle y número
     strings: Cuerdas
     subheading: Tipo especial de fuente
     subheading_general: Subdivisión general
     subject_access_fields: Campos de los puntos de acceso
     subject_heading: Descriptor
     subject_headings: Descriptores
+    subordinate_unit: Unidad subordinada
     succeeding_entry: Entrada siguiente
     summary: Resumen
     supplementary_material: Material suplementario
