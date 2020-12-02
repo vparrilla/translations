@@ -237,7 +237,7 @@ pl:
     af_minor: as-moll
     aide: Asystent
     aids: Pomoce
-    alleged: Domniemane
+    alleged: Rzekomy
     alternate_spelling: Alternatywna pisownia
     archive: Archiwum
     arrangement: Aranżacja
@@ -247,7 +247,7 @@ pl:
     artistic_production: Autor produkcji artystycznej
     as_major: Ais-dur
     as_minor: ais-moll
-    ascertained: Stwierdzone
+    ascertained: Ustalony
     assignee: Cesjonariusz
     associated_country: Państwo stowarzyszone
     associated_institution: Powiązana instytucja
@@ -329,7 +329,7 @@ pl:
     conceptor: Autor koncepcji
     conductor: Dyrygent
     confused_with: Mylon(y/a) z …
-    conjectural: Spekulatywne
+    conjectural: Domyślny
     contact: Kontakt
     contact_area: Obszar kontaktu
     content: Zawartość
@@ -380,7 +380,7 @@ pl:
     distributor: Dystrybutor
     documentation_center: Centrum dokumentacji
     donor: Donator
-    doubtful: Wątpliwe
+    doubtful: Wątpliwy
     dramatic_roles_original: Postaci w oryginalnej pisowni
     dramatic_roles_standardized: Znormalizowane nazwy postaci
     ds_major: Dis-dur
@@ -556,7 +556,7 @@ pl:
     media_type: Rodzaj nośnika
     mensural_clefs: Klucze menzuralne
     method_of_acquisition: Sposób nabycia
-    misattributed: Błędnie przypisane
+    misattributed: Błędnie przypisany
     miscellaneous: Pozostałe
     mode_10t: 'Skala: 10t – hypoeolska'
     mode_10tt: 'Skala: 10tt – hypoeolska, transponowana'
