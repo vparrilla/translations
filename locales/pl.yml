@@ -18,7 +18,7 @@ pl:
     rule_type: Standard
     scope_printed_music_rism: Zakres druków muzycznych w RISM
     searching: Wyszukiwanie
-    source_citation: Odniesienie do źródła
+    source_citation: Nazwa źródła informacji
     status: Status
     undetermined: Nieokreślony
     ungrouped_fields: Pola niezgrupowane
