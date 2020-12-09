@@ -372,6 +372,7 @@ pl:
     designer: Projektant
     df_major: Des-dur
     df_minor: des-moll
+    digital_objects: Obiekty cyfrowe
     digitized_music: Cyfrowa reprodukcja źródła
     digitized_source: Cyfrowa reprodukcja źródła
     dimensions: Wymiary
@@ -476,7 +477,6 @@ pl:
     identity_area: Obszar tożsamości
     iiif_manifest: Manifest IIIF
     illustrator: Ilustrator
-    images: Obrazy
     immediate_parent_body: Natychmiastowy rodzic
     import: Import
     imprint: Stopka wydawnicza
