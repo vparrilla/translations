@@ -405,6 +405,7 @@ pt:
     event_organizer: ''
     event_place: Local do evento [evp]
     excerpts: Excertos
+    exemplars: Materiais
     extent: ''
     extent_parts: Extensão das partes
     external_resource: Recurso externo
