@@ -28,7 +28,6 @@ en:
     url: URL
     using_muscat: Using Muscat
     validity: Validity
-    verified: Verified
     when_to_input_new_record: When to input a new record (printed music)
     workflow: Workflow
     'yes': 'Yes'
@@ -813,6 +812,7 @@ en:
     variant_ms_title: Variant title on manuscript
     variant_source_title: Variant title on source
     variations: Variations
+    verified: Verified
     vocalist: Vocalist
     voice_instrument: Voice/instrument
     volume_year_page: Volume, year, page

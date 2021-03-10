@@ -28,7 +28,6 @@ pl:
     url: URL
     using_muscat: Korzystanie z Muscatu
     validity: Ważność
-    verified: Zweryfikowane
     when_to_input_new_record: Kiedy wprowadzić nowy rekord (dla druków muzycznych)
     workflow: Przepływ pracy
     'yes': Tak
@@ -813,6 +812,7 @@ pl:
     variant_ms_title: Alternatywny tytuł w rękopisie
     variant_source_title: Alternatywny tytuł w źródle
     variations: Wariacje
+    verified: Zweryfikowane
     vocalist: Wokalista
     voice_instrument: Głos/instrument
     volume_year_page: Wolumen, rok, strona

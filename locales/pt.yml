@@ -28,7 +28,6 @@ pt:
     url: ''
     using_muscat: Catalogando fontes
     validity: Validade
-    verified: Verificada
     when_to_input_new_record: Quando criar um novo registro (música impressa)
     workflow: ''
     'yes': Sim
@@ -810,6 +809,7 @@ pt:
     variant_ms_title: Variante de título na fonte
     variant_source_title: Título variante na fonte
     variations: ''
+    verified: Verificada
     vocalist: ''
     voice_instrument: Voz/instrumento
     volume_year_page: ''

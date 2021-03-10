@@ -28,7 +28,6 @@ es:
     url: URL
     using_muscat: Uso de Muscat
     validity: Validez
-    verified: Verificada
     when_to_input_new_record: Cuándo crear un nuevo registro (música impresa)
     workflow: Flujo de trabajo
     'yes': Sí
@@ -810,6 +809,7 @@ es:
     variant_ms_title: Variante de título en fuente
     variant_source_title: Variante de título en fuente
     variations: Variaciones
+    verified: Verificada
     vocalist: Cantante
     voice_instrument: Voz/instrumento
     volume_year_page: Volumen, año, página

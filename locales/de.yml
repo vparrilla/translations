@@ -28,7 +28,6 @@ de:
     url: URL
     using_muscat: Editor Hilfe
     validity: Gültigkeit
-    verified: Gesichert
     when_to_input_new_record: Wann soll einen neuen Eintrag erstellt werden (Musikdrucke)
     workflow: Workflow
     'yes': Ja
@@ -813,6 +812,7 @@ de:
     variant_ms_title: Weiterer diplomatischer Titel
     variant_source_title: Weiterer diplomatischer Titel
     variations: Variationen
+    verified: Gesichert
     vocalist: Sänger
     voice_instrument: Besetzung
     volume_year_page: Jahrgang, Seite
