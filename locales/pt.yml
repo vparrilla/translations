@@ -802,6 +802,7 @@ pt:
     type_of_jurisdiction: Tipo de jurisdição
     type_publication: ''
     type_relationship: ''
+    type_designer: Tipógrafo
     typescript: Datilografia
     typography: Tipografia
     unknown: ''
