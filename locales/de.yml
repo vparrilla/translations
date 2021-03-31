@@ -805,6 +805,7 @@ de:
     type_of_jurisdiction: Art der Gerichtsbarkeit
     type_publication: Ausgabeform
     type_relationship: Beziehung
+    type_designer: Schriftentwerfer
     typescript: Maschinenschrift
     typography: Typendruck
     unknown: Unbekannt
