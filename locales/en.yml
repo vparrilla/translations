@@ -805,6 +805,7 @@ en:
     type_of_jurisdiction: Type of jurisdiction
     type_publication: Type of publication
     type_relationship: Type of relationship
+    type_designer: Type designer
     typescript: Typescript
     typography: Typography
     unknown: Unknown
