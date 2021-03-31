@@ -797,6 +797,7 @@ pt:
     translator: Tradutor [trl]
     transparency: Transparência
     type: Tipo
+    type_designer: Tipógrafo
     type_institution: Tipo de instituição
     type_name_variant: ''
     type_of_jurisdiction: Tipo de jurisdição

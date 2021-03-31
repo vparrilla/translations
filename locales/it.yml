@@ -801,6 +801,7 @@ it:
     translator: Traduttore
     transparency: Trasparente
     type: Tipo
+    type_designer: Fonditore
     type_institution: Tipo di istituzione
     type_name_variant: Descrizione della variante del nome
     type_of_jurisdiction: Tipo di giurisdizione

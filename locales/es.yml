@@ -797,6 +797,7 @@ es:
     translator: Traductor
     transparency: Transparencia
     type: Tipo
+    type_designer: Fundidor
     type_institution: Tipo de institución
     type_name_variant: Tipo de variante de nombre
     type_of_jurisdiction: Tipo de jurisdicción
