@@ -805,6 +805,7 @@ pl:
     type_of_jurisdiction: Rodzaj jurysdykcji
     type_publication: Rodzaj publikacji
     type_relationship: Rodzaj relacji
+    type_designer: Typograf
     typescript: Maszynopis
     typography: Typografia
     unknown: Nieznane
