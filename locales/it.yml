@@ -806,6 +806,7 @@ it:
     type_of_jurisdiction: Tipo di giurisdizione
     type_publication: Tipo di pubblicazione
     type_relationship: Relazione
+    type_designer: Fonditore
     typescript: Dattiloscritto
     typography: Stampa tipografica
     unknown: Sconosciuto
