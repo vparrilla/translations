@@ -800,12 +800,12 @@ pl:
     translator: Tłumacz
     transparency: Przezrocze
     type: Rodzaj
+    type_designer: Typograf
     type_institution: Rodzaj instytucji
     type_name_variant: Typ alternatywnej nazwy osoby
     type_of_jurisdiction: Rodzaj jurysdykcji
     type_publication: Rodzaj publikacji
     type_relationship: Rodzaj relacji
-    type_designer: Typograf
     typescript: Maszynopis
     typography: Typografia
     unknown: Nieznane

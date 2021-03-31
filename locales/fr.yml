@@ -801,12 +801,12 @@ fr:
     translator: Traducteur
     transparency: Transparent
     type: Type
+    type_designer: Créateur de caractères
     type_institution: Type d'institution
     type_name_variant: Description de la variante du nom
     type_of_jurisdiction: Type de juridiction
     type_publication: Type de publication
     type_relationship: Relation
-    type_designer: Créateur de caractères
     typescript: Tapuscrit
     typography: Typographie
     unknown: Inconnu

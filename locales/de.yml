@@ -800,12 +800,12 @@ de:
     translator: Übersetzer
     transparency: Transparentfolie
     type: Typ
+    type_designer: Schriftentwerfer
     type_institution: Typ der Körperschaft
     type_name_variant: Art der Namensvariante
     type_of_jurisdiction: Art der Gerichtsbarkeit
     type_publication: Ausgabeform
     type_relationship: Beziehung
-    type_designer: Schriftentwerfer
     typescript: Maschinenschrift
     typography: Typendruck
     unknown: Unbekannt
