@@ -809,6 +809,7 @@ fr:
     type_relationship: Relation
     typescript: Tapuscrit
     typography: Typographie
+    uncategorized: Non classé
     unknown: Inconnu
     unparsed_fingerprint: Empreinte non analysée
     variant_ms_title: Variante du titre diplomatique
