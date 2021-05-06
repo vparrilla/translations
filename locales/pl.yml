@@ -808,6 +808,7 @@ pl:
     type_relationship: Rodzaj relacji
     typescript: Maszynopis
     typography: Typografia
+    uncategorized: Bez kategorii
     unknown: Nieznane
     unparsed_fingerprint: Nieprzeanalizowany odcisk palca
     variant_ms_title: Alternatywny tytuł w rękopisie
