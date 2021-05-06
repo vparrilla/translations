@@ -809,6 +809,7 @@ it:
     type_relationship: Relazione
     typescript: Dattiloscritto
     typography: Stampa tipografica
+    uncategorized: Non categorizzato
     unknown: Sconosciuto
     unparsed_fingerprint: Impronta non analizzata
     variant_ms_title: Varianti del titolo diplomatico
