@@ -739,6 +739,7 @@ pt:
     solo_voice: Voz solista
     soloist_instrument: ''
     source: Fonte
+    sources: Fontes
     source_data_found: Fonte dos dados encontrados
     source_data_not_found: ''
     source_description: Exemplar examinado para catalogação

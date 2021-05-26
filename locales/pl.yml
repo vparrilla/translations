@@ -742,6 +742,7 @@ pl:
     solo_voice: Głos solowy
     soloist_instrument: Instrument solowy
     source: Źródło
+    sources: Źródła
     source_data_found: Odnalezione źródło danych
     source_data_not_found: Brak źródła danych
     source_description: Uwaga o źródle opisu

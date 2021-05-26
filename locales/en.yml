@@ -742,6 +742,7 @@ en:
     solo_voice: Solo voice
     soloist_instrument: Soloist intrument
     source: Source
+    sources: Sources
     source_data_found: Source data found
     source_data_not_found: Source data not found
     source_description: Source of description note

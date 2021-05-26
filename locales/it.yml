@@ -743,6 +743,7 @@ it:
     solo_voice: Voce solista
     soloist_instrument: Strumento solista
     source: Fonte
+    sources: Fontes
     source_data_found: Fonte dei dati
     source_data_not_found: Fonte consultata senza esito
     source_description: Copa esaminata per la catalogazione
