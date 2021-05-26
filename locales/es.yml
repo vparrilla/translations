@@ -821,3 +821,13 @@ es:
     work_number: Número de obra
     year: Año
     years_birth_death: Años de nacimiento y muerte
+  relations:
+    P60191: "Fuente relacionada"
+    P60198: "Material adicional"
+    P60311: "Copiado de"
+    P60312: "Copiado en"
+    P60195: "Publicado en"
+    P60242: "Arreglo de"
+    P60274: "Arreglo como"
+    P60194: "Insertar en"
+    P60183: "Insertar"
