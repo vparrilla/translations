@@ -363,7 +363,7 @@ pl:
     date_of_acquisition: Data nabycia
     date_of_creation: Data utworzenia
     date_time_last_transaction: Data i godzina ostatniej operacji
-    date_: Rodzaj daty
+    date_type: Rodzaj daty
     dates: Daty
     dedicatee: Adresat dedykacji
     department: Wydział
