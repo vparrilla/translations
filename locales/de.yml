@@ -1,6 +1,6 @@
 de:
   general:
-    created_at: Erstellungsdatum
+    created_at: "Erstellungsdatum"
     e_mail: E-Mail
     editor_help: Editor Hilfe
     faq: FAQ
@@ -9,7 +9,7 @@ de:
     index_marc_fields: MARC Tag Index
     male: männlich
     marc_tag_index: MARC Tag Index
-    'no': Nein
+    'no': 'Nein'
     rism: RISM
     rism_best_practices: RISM BEST PRACTISES
     rism_instrument_abbreviations: Stimmen- und Instrumentenbezeichnungen tabellarisch
@@ -32,7 +32,7 @@ de:
     validity: Gültigkeit
     when_to_input_new_record: Wann soll einen neuen Eintrag erstellt werden (Musikdrucke)
     workflow: Workflow
-    'yes': Ja
+    'yes': 'Ja'
   languages:
     afrikaans: Afrikaans
     arabic: Arabisch
@@ -622,13 +622,10 @@ de:
     octoechos2: 'Octoechos 2: Ēchos deuteros (Second mode of Byzantine music)'
     octoechos3: 'Octoechos 3: Ēchos tritos (Third mode of Byzantine music)'
     octoechos4: 'Octoechos 4: Ēchos tetartos (Fourth mode of Byzantine music)'
-    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (First plagal mode of Byzantine
-      music)'
-    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (Second plagal mode of Byzantine
-      music)'
+    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (First plagal mode of Byzantine music)'
+    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (Second plagal mode of Byzantine music)'
     octoechos7: 'Octoechos 7: Ēchos barys (Third plagal mode of Byzantine music)'
-    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (Fourth plagal mode of Byzantine
-      music)'
+    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (Fourth plagal mode of Byzantine music)'
     online_finding_aids: Archivführer und andere Publikationen
     opera_houses_concert_halls: Opernhäuser und Konzerthallen
     opus_number: Opus
@@ -799,7 +796,7 @@ de:
     title_on_source: Diplomatischer Titel
     title_periodical_book_series: 'In:'
     title_related_fields: Titel- und damit verbundene Felder
-    title_section_part: ''
+    title_section_part: Title of section or part
     title_variants: Namensvarianten
     titles_text_incipits: Titel und Texte
     topical_term: Sachbegriff
