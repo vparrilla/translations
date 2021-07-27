@@ -141,7 +141,7 @@ it:
     bulgaria: Bulgaria
     cambodia: Cambogia
     canada: Canada
-    chile: Chile
+    chile: Cile
     china: Cina
     colombia: Colombia
     croatia: Croazia
@@ -193,7 +193,7 @@ it:
     philippines: Filippine
     poland: Polonia
     portugal: Portogallo
-    puerto_rico: Puerto Rico
+    puerto_rico: Portorico
     romania: Romania
     russian_federation: Federazione Russa
     saudi_arabia: Arabia Saudita
@@ -352,7 +352,7 @@ it:
     country_activity: Paese di attività
     country_code: Codice del Paese
     country_of_publication: Paese
-    county_province: Cantone o provincia
+    county_province: Contea o provincia
     creation_production_note: Nota sulle responsabilità di creazione/produzione
     cs_major: Do♯ maggiore
     cs_minor: Do♯ minore
@@ -460,7 +460,7 @@ it:
     general_abbreviations: Abbreviazioni generali e terminologia
     general_cataloguing_guidelines: Regole generali di catalogazione
     general_note: Nota generale
-    general_note_incipits: Commento all'incipit mus.
+    general_note_incipits: Commento all'incipit musicale
     general_note_institution: Nota generale
     general_note_personal: Nota generale
     geographic_name: Nome geografico
@@ -494,7 +494,7 @@ it:
     insertions: Inserimenti
     inserts: Inserimenti
     institution: Istituzione
-    institutions: Istituzione
+    institutions: Istituzioni
     instrumentalist: Strumentista
     internal_note: Nota interna
     introduction: Introduzione
@@ -606,7 +606,7 @@ it:
     nationality: Codice del Paese
     nickname: Soprannome
     no_linguistic_content: Senza contesto linguistico
-    non_migrated_bound: Non-migrated bound with value from 563
+    non_migrated_bound: Valore non migrato dal campo 563 (Rilegato con)
     not_applicable: Non applicabile
     note: Nota
     note_external_resource: Nota sulla risorsa esterna
@@ -630,7 +630,7 @@ it:
     opera_houses_concert_halls: Teatri e sale da concerto
     opus_number: N.o d'opera
     opus_thematic_index_number: Numero d'opera / del catalogo delle opere
-    order_name: Nome di religione
+    order_name: Nome dell'ordine religioso
     origin: Origine
     original_cataloging_agency: Agenzia catalografica originale
     other: Altra funzione
@@ -747,10 +747,10 @@ it:
     solo_voice: Voce solista
     soloist_instrument: Strumento solista
     source: Fonte
-    sources: Fontes
+    sources: Fonti
     source_data_found: Fonte dei dati
     source_data_not_found: Fonte consultata senza esito
-    source_description: Copa esaminata per la catalogazione
+    source_description: Copia esaminata per la catalogazione
     source_details: Descrizione fisica
     source_number_code: Agenzia autorità
     source_of_acquisition_note: Nota sulla fonte d'acquisto
@@ -780,7 +780,7 @@ it:
     supplementary_material: Materiali allegati
     technical_errors: Errori tecnici
     technical_production: Produttore
-    temp_val: Temp val
+    temp_val: Valore temporaneo
     templates: Modelli
     terms_of_availability: Condizioni di disponibilità
     terms_voices_instruments: Abbreviazioni RISM per gli strumenti
