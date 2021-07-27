@@ -4,10 +4,10 @@ es:
     e_mail: E-mail
     editor_help: Ayuda del editor
     faq: Preguntas frecuentes
-    female: femenino
+    female: Femenino
     how_do_i: '¿Cómo hago ...? Sugerencias y trucos'
     index_marc_fields: Índice de campos MARC
-    male: masculino
+    male: Masculino
     marc_tag_index: Índice de etiquetas MARC
     'no': 'No'
     rism: RISM
@@ -426,7 +426,7 @@ es:
     f_plus_5: F+5
     facsimile: Facsímil
     family_name: Apellido
-    father_of: padre de
+    father_of: Padre de
     field_link: Enlace de campo y número de secuencia
     field_of_activity: Campo de actividad
     figured_bass_scores: Bajo cifrado
@@ -552,7 +552,7 @@ es:
     main_entry_fields: Campos principales
     married_name: Apellido de casada/o
     married_to: casado/a con
-    married_with: casado/a con
+    married_with: Casado/a con
     material_description: Descripción del material
     material_examined: Material examinado
     material_held: Material conservado
@@ -588,7 +588,7 @@ es:
     mode_9tt: 'Modo:  9º tono (Eólico), transpuesto'
     modifying_agency: Agencia de la modificación
     monogram: Monograma
-    mother_of: madre de
+    mother_of: Madre de
     movement_number: Número de movimiento
     multiple: Múltiples
     multiple_copies: Múltiples ejemplares en una institución
@@ -742,7 +742,7 @@ es:
     sigla: Sigla
     siglum: Sigla
     single_date: Fecha única
-    sister_of: hermana de
+    sister_of: Hermana de
     sketches: Bosquejos
     solo_voice: Voz solista
     soloist_instrument: Instrumento solista
