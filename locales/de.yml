@@ -3,19 +3,19 @@ de:
     created_at: "Erstellungsdatum"
     e_mail: E-Mail
     editor_help: Editor Hilfe
-    faq: FAQ
-    female: weiblich
+    faq: Häufig gestellte Fragen
+    female: Weiblich
     how_do_i: Wie kann ich ... Tipps & Tricks
     index_marc_fields: MARC Tag Index
-    male: männlich
+    male: Männlich
     marc_tag_index: MARC Tag Index
     'no': 'Nein'
     rism: RISM
     rism_best_practices: RISM BEST PRACTISES
-    rism_instrument_abbreviations: Stimmen- und Instrumentenbezeichnungen tabellarisch
-    rism_series: RISM Series
+    rism_instrument_abbreviations: Stimmen- und Instrumentenbezeichnungen tabellarisch (Fortsetzung)
+    rism_series: RISM-Serien
     rism_series_a_b_references: Querverweise zu RISM A/I und RISM B
-    rism_series_number: RISM-Nummer
+    rism_series_number: RISM-Seriennummer
     rule_type: Regelwerk
     scope_printed_music_rism: Umfang der Dokumentation von Musikdrucke in RISM
     searching: Suche
@@ -167,7 +167,7 @@ de:
     iceland: Island
     india: Indien
     indonesia: Indonesien
-    iran: Iran, Islamic Republic of
+    iran: Iran, Islamische Republik
     iraq: Irak
     ireland: Irland
     israel: Israel
@@ -235,7 +235,7 @@ de:
     additional_solo_voice: Zusätzliche Solostimme
     additional_title: Alternativer Titel
     additional_title_lit: Zusätzlicher Titel
-    administration: Administration
+    administration: Verwaltung
     af_major: As-Dur
     af_minor: as-Moll
     aide: Arbeitshilfen
@@ -477,8 +477,8 @@ de:
     history_institution: Geschichte der Körperschaft
     holdings_location: Bestandsdaten
     identity: Identifizierung
-    identity_area: IDENTITY AREA
-    iiif_manifest: IIIF manifest
+    identity_area: Identity area
+    iiif_manifest: IIIF-Manifest
     illustrator: Illustrator
     immediate_parent_body: Unmittelbarer Elternteil
     import: Fremddateneinspielung
@@ -794,7 +794,7 @@ de:
     title_movement_tempo: Satztitel, Tempo
     title_of_work: Werktitel
     title_on_source: Diplomatischer Titel
-    title_periodical_book_series: 'In:'
+    title_periodical_book_series: Titel der Zeitschrift, des Buches oder der Serie
     title_related_fields: Titel- und damit verbundene Felder
     title_section_part: Title of section or part
     title_variants: Namensvarianten
