@@ -143,12 +143,12 @@ fr:
     canada: Canada
     chile: Chili
     china: Chine
-    colombia: Colombia
+    colombia: Colombie
     croatia: Croatie
     cuba: Cuba
     czech_republic: République Tchèque
     denmark: Danemark
-    ecuador: Ecuador
+    ecuador: Équateur
     egypt: Egypte
     estonia: Estonie
     finland: Finlande
@@ -156,9 +156,9 @@ fr:
     georgia: Géorgie
     germany: Allemagne
     germany_bavaria: 'Allemagne: Bavière'
-    germany_saxony: 'Germany: Saxony'
+    germany_saxony: 'Allemagne: Saxe'
     greece: Grèce
-    guatemala: Guatemala
+    guatemala: Guatémala
     guinea: Guinée
     holy_see: Saint-Siège
     honduras: Honduras
@@ -332,7 +332,7 @@ fr:
     conceptor: Concepteur
     conductor: Chef d'orchestre
     confused_with: Confondu avec
-    conjectural: Conjectural
+    conjectural: Conjecturale
     contact: Contact
     contact_area: Contact
     content: Contenu
@@ -350,7 +350,7 @@ fr:
     country: Pays
     country_active: Pays d'activité
     country_activity: Pays d'activité
-    country_code: Country code
+    country_code: Code Pays
     country_of_publication: Pays
     county_province: Canton ou province
     creation_production_note: Note sur la création/production
