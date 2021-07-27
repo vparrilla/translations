@@ -4,10 +4,10 @@ it:
     e_mail: E-mail
     editor_help: Guida all'editor
     faq: Domande frequenti
-    female: femmina
+    female: Femmina
     how_do_i: Come faccio ... Suggerimenti e trucchi
     index_marc_fields: Indice dei campi MARC
-    male: maschio
+    male: Maschio
     marc_tag_index: Indice dei codici MARC
     'no': 'No'
     rism: RISM
@@ -590,7 +590,7 @@ it:
     monogram: Monogramma
     mother_of: Madre di
     movement_number: N.o del movimento
-    multiple: Multiple
+    multiple: Multiplo
     multiple_copies: Exemplari multipli
     multiple_single_dates: Date singole multiple
     museum: Museo
