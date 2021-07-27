@@ -174,7 +174,7 @@ de:
     italy: Italien
     italy_trentino_alto_adige: 'Italien: Trentino-Alto Adige'
     japan: Japan
-    korea: Korea, Republic of
+    korea: Korea, Republik
     latvia: Lettland
     lithuania: Litauen
     luxembourg: Luxemburg
@@ -205,15 +205,15 @@ de:
     sweden: Schweden
     switzerland: Schweiz
     switzerland_vaud: 'Schweiz: Vaud'
-    syrian_arab_republic: Syrian Arab Republic
+    syrian_arab_republic: Syrien, Arabische Republik
     taiwan: Taiwan (Provinz von China)
-    trinidad_tobego: Trinidad and Tobago
+    trinidad_tobego: Trinidad und Tobago
     turkey: Türkei
     uk: Vereinigtes Königreich
     ukraine: Ukraine
     uruguay: Uruguay
     usa: Vereinigte Staaten von Amerika (USA)
-    venezuela: Venezuela, Bolivarian Republic of
+    venezuela: Venezuela, Bolivarische Republik
     vietnam: Vietnam
   records:
     a_major: A-Dur
@@ -482,7 +482,7 @@ de:
     illustrator: Illustrator
     immediate_parent_body: Unmittelbarer Elternteil
     import: Fremddateneinspielung
-    imprint: Imprint
+    imprint: Impressum
     incipit: Musikincipit
     incipit_number: Incipitnummer
     incipits: Incipits
@@ -732,7 +732,7 @@ de:
     scoring_summary: Besetzungshinweis
     scribe: Schreiber
     secondary_literature: Sekundärliteratur
-    series: Series
+    series: Serie
     series_added_entry: Nebeneintragungen Gesamttitel
     series_statement: Gesamttitelangaben
     set: Set
