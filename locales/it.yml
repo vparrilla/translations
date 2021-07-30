@@ -80,15 +80,15 @@ it:
     luxembourgish: Lussemburghese
     macedonian: Macedone
     maori: Māori
-    middle_english: Lingua inglese medievale
+    middle_english: Inglese medievale
     middle_high_german: Tedesco medievale
     mongolian: Mongolo
     neapolitan: Napoletano
-    north_frisian: Dialetto frisone settentrionale
+    north_frisian: Frisone settentrionale
     norwegian: Norvegese
     occitan: Occitano
     oirat: Oirato
-    old_church_slavonic: Lingua slava ecclesiastica antica
+    old_church_slavonic: Slavo ecclesiastico antico
     persian: Persiano
     polish: Polacco
     portugese: Portoghese
@@ -101,7 +101,7 @@ it:
     serbian: Serbo
     sichuan_yi: Sichuan Yi
     sicilian: Siciliano
-    slavic: Slavico
+    slavic: Slavo
     slovak: Slovacco
     slovenian: Sloveno
     sorbian: Sorabo
@@ -119,7 +119,7 @@ it:
     upper_sorbian: Sorabo superiore
     vietnamese: Vietnamita
     welsh: Gallese
-    west_frisian: Dialetto frisone occidentale
+    west_frisian: Frisone occidentale
     yiddish: Yiddish
   places:
     algeria: Algeria
