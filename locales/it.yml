@@ -229,7 +229,7 @@ it:
     additional_biographical_information: Informazioni biografiche addizionali
     additional_choir_voice: Voci di coro aggiuntive
     additional_codes: Codici addizionali che seguono il numero o il codice standard
-    additional_institution: Nome di ente aggiuntivo
+    additional_institution: Nome aggiuntivo di ente
     additional_personal_name: Nome aggiuntivo di persona
     additional_personal_name_lit: Nome aggiuntivo di persona
     additional_solo_voice: Voce solista aggiuntiva
@@ -301,7 +301,7 @@ it:
     catalog_works: Catalogo delle opere
     cataloging_agency: Agenzia di catalogazione
     cataloging_collection_convoluta: Catalogazione di raccolte e volumi compositi
-    cataloging_collections: Catalogazione delle raccolte
+    cataloging_collections: Catalogazione di raccolte
     cataloging_forms: Formulari di catalogazione
     cataloging_language: Lingua di catalogazione
     cataloging_level: Livello di catalogazione
@@ -342,7 +342,7 @@ it:
     control_fields: Campi di controllo
     control_number_identifier: Identificatore del numero di controllo
     control_subfield: Sottocampo di controllo
-    copy_examined: Copa esaminata per la catalogazione
+    copy_examined: Copia esaminata per la catalogazione
     copyist: Copista
     copyright_holder: Titolare dei diritti d'autore
     costume_designer: Costumista
@@ -374,7 +374,7 @@ it:
     designer: Progettista
     df_major: Re♭ maggiore
     df_minor: Re♭ minore
-    digital_objects: Oggetti Digitali
+    digital_objects: Oggetti digitali
     digitized_music: Fonte digitalizzata
     digitized_source: Fonte digitalizzata
     dimensions: Dimensioni
@@ -392,7 +392,7 @@ it:
     dubious: Dubbio
     e_major: Mi maggiore
     e_minor: Mi minore
-    earlier_heading: Titolo precedente
+    earlier_heading: Intestazione precedente
     ecclesiastical_modes: Modi ecclesiastici
     edition: Edizione
     edition_imprint_fields: Campi per i dati editoriali
@@ -400,7 +400,7 @@ it:
     editor: Curatore
     ef_major: Mi♭ maggiore
     ef_minor: Mi♭ minore
-    end_period: Periodo finale
+    end_period: Fine del periodo
     engraver: Incisore
     engraving: Incisione
     event_organizer: Organizzatore
@@ -430,7 +430,7 @@ it:
     field_link: Link di campo e numero di sequenza
     field_of_activity: Settore di attività
     figured_bass_scores: Basso cifrato
-    fijian: Figi
+    fijian: Figiano
     fingerprint_identifier: Impronta
     first_second_group: Primo/Secondo gruppo
     form_subdivision: Suddivisione formale
@@ -446,7 +446,7 @@ it:
     g_major: Sol maggiore
     g_minor: Sol minore
     g_minus_1: G-1
-    g_minus_2_octave: g-2 (Chiave di violino ottavizzata)
+    g_minus_2_octave: g-2 (chiave di violino ottavizzata)
     g_minus_2_treble: G-2 (chiave di violino)
     g_minus_3: G-3
     g_minus_4: G-4
@@ -480,7 +480,7 @@ it:
     identity_area: Identità
     iiif_manifest: Manifesto IIIF
     illustrator: Disegnatore
-    immediate_parent_body: Campo immediatamente superiore
+    immediate_parent_body: Istituzione immediatamente precedente
     import: Dati importati
     imprint: Dati editoriali
     incipit: Incipit musicale
@@ -518,7 +518,7 @@ it:
     language_of_cataloging: Lingua della catalogazione
     language_original_text: Lingua del testo originale
     language_text: Lingua del testo cantato
-    later_heading: Titolo antecedente
+    later_heading: Intestazione successiva
     latitude: Latitudine
     leader: Leader
     library: Biblioteca
@@ -537,10 +537,10 @@ it:
     lithography: Litografia
     liturgical_festival: Festa liturgica
     liturgical_festivals: Feste liturgiche
-    local_id_number: Num. locale
+    local_id_number: Numero locale
     local_note_field: Nota locale
     local_notes_field: Nota interna
-    local_number: Num. locale
+    local_number: Numero locale
     location: Luogo
     location_and_address: Luogo ed indirizzo
     location_insertion: Collocazione dell'inserimento nell'opera principale
@@ -591,7 +591,7 @@ it:
     mother_of: Madre di
     movement_number: N.o del movimento
     multiple: Multiplo
-    multiple_copies: Exemplari multipli
+    multiple_copies: Esemplari multipli
     multiple_single_dates: Date singole multiple
     museum: Museo
     music_incipit: Incipit musicale
@@ -713,7 +713,7 @@ it:
     related_place: Luogo correlato
     related_resources: Collegamenti
     related_source: Fonte correlata
-    related_titles: Titoli connessi
+    related_titles: Titoli correlati
     related_to: Parente di
     related_work: Opera correlata
     relation: Relazione
@@ -766,7 +766,7 @@ it:
     standardized_title: Titolo uniforme
     standardized_titles_printed_music: Titolo uniforme di edizioni musicali a stampa
     standardized_titles_subject_headings: Titolo uniforme - Soggetto
-    start_period: Periodo iniziale
+    start_period: Inizio del periodo
     street_address: Via e numero civico
     strings: Archi
     subheading: Suddivisione formale
