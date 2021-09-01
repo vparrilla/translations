@@ -737,7 +737,7 @@ pt:
     series_statement: Series statement fields
     set: Set
     shelfmark: Código
-    shelfmark_olim: Código antigo (olim)
+    shelfmark_olim: Former shelfmark (olim)
     short_title: Título abreviado
     sigla: Sigla
     siglum: Siglum
