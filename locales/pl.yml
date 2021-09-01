@@ -737,7 +737,7 @@ pl:
     series_statement: Pola uwag do serii
     set: Zbiór
     shelfmark: Sygnatura
-    shelfmark_olim: Sygnatura (wcześniejsza)
+    shelfmark_olim: Former shelfmark (olim)
     short_title: Skrócony tytuł
     sigla: Sigla
     siglum: Siglum
