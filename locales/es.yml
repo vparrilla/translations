@@ -1,13 +1,13 @@
 es:
   general:
-    created_at: Fecha de creación
+    created_at: "Fecha de creación"
     e_mail: E-mail
     editor_help: Ayuda del editor
     faq: Preguntas frecuentes
-    female: femenino
-    how_do_i: ¿Cómo hago ...? Sugerencias y trucos
+    female: Femenino
+    how_do_i: '¿Cómo hago ...? Sugerencias y trucos'
     index_marc_fields: Índice de campos MARC
-    male: masculino
+    male: Masculino
     marc_tag_index: Índice de etiquetas MARC
     'no': 'No'
     rism: RISM
@@ -32,7 +32,7 @@ es:
     validity: Validez
     when_to_input_new_record: Cuándo crear un nuevo registro (música impresa)
     workflow: Flujo de trabajo
-    'yes': Sí
+    'yes': 'Sí'
   languages:
     afrikaans: Afrikáans
     arabic: Árabe
@@ -158,7 +158,7 @@ es:
     germany_bavaria: 'Alemania: Bavaria'
     germany_saxony: 'Alemania: Sajonia'
     greece: Grecia
-    guatemala: ''
+    guatemala: Guatemala
     guinea: Guinea
     holy_see: Santa Sede
     honduras: Honduras
@@ -168,7 +168,7 @@ es:
     india: India
     indonesia: Indonesia
     iran: Irán, República Islámica de
-    iraq: ''
+    iraq: Iraq
     ireland: Irlanda
     israel: Israel
     italy: Italia
@@ -223,7 +223,7 @@ es:
     access_restrictions: Restricciones de acceso
     accession_number: Número de accesión
     acronym: Acrónimo
-    added_entry_name: ''
+    added_entry_name: Added entry name
     additional_author: Autor adicional
     additional_bibliographic_information: Información bibliográfica adicional
     additional_biographical_information: Información biográfica adicional
@@ -281,7 +281,7 @@ es:
     bookseller: Librero
     bound_with: Encuadernado con
     brass_instruments: Vientos-metal
-    brief: ''
+    brief: Brief
     broader_term: Un término más amplio
     brother_of: Hermano de
     byname: Apodo
@@ -297,7 +297,7 @@ es:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
-    catalog_opus_number: ''
+    catalog_opus_number: Catalog number/Opus number
     catalog_works: Catálogo de obras
     cataloging_agency: Agencia catalogadora
     cataloging_collection_convoluta: Catalogación de colecciones y volúmenes compuestos
@@ -382,7 +382,7 @@ es:
     dissertation_note: Nota de disertación
     distribution: Distribución
     distributor: Distribuidor
-    documentation_center: ''
+    documentation_center: Documentation center
     donor: Donante
     doubtful: Dudosa
     dramatic_roles_original: Nombres de personajes, ortografía original
@@ -426,7 +426,7 @@ es:
     f_plus_5: F+5
     facsimile: Facsímil
     family_name: Apellido
-    father_of: padre de
+    father_of: Padre de
     field_link: Enlace de campo y número de secuencia
     field_of_activity: Campo de actividad
     figured_bass_scores: Bajo cifrado
@@ -509,7 +509,7 @@ es:
     key: Tonalidad
     key_or_mode: Tonalidad o modo
     key_signature: Armadura de clave
-    keyboards: ''
+    keyboards: Keyboards
     keys: Tonalidades
     language_code: Código de idioma
     language_codes: Código de idioma
@@ -552,7 +552,7 @@ es:
     main_entry_fields: Campos principales
     married_name: Apellido de casada/o
     married_to: casado/a con
-    married_with: casado/a con
+    married_with: Casado/a con
     material_description: Descripción del material
     material_examined: Material examinado
     material_held: Material conservado
@@ -588,12 +588,12 @@ es:
     mode_9tt: 'Modo:  9º tono (Eólico), transpuesto'
     modifying_agency: Agencia de la modificación
     monogram: Monograma
-    mother_of: madre de
+    mother_of: Madre de
     movement_number: Número de movimiento
     multiple: Múltiples
     multiple_copies: Múltiples ejemplares en una institución
     multiple_single_dates: Fechas múltiples
-    museum: ''
+    museum: Museum
     music_incipit: Íncipit musical
     musical_composition: Composición musical
     name: Nombre
@@ -655,7 +655,7 @@ es:
     patron: Comitente
     people: Personas
     people_institutions: Personas e instituciones
-    percussion: ''
+    percussion: Percussion
     performance: Interpretación
     performances: Interpretaciones
     performer: Intérprete
@@ -737,12 +737,12 @@ es:
     series_statement: Información de serie
     set: Grupo de materiales
     shelfmark: Signatura
-    shelfmark_olim: Signatura antigua (olim)
+    shelfmark_olim: Former shelfmark (olim)
     short_title: Título breve
     sigla: Sigla
     siglum: Sigla
     single_date: Fecha única
-    sister_of: hermana de
+    sister_of: Hermana de
     sketches: Bosquejos
     solo_voice: Voz solista
     soloist_instrument: Instrumento solista

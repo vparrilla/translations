@@ -1,6 +1,6 @@
 fr:
   general:
-    created_at: Date de création
+    created_at: "Date de création"
     e_mail: E-mail
     editor_help: Aide pour l'editor
     faq: Foire aux questions
@@ -9,7 +9,7 @@ fr:
     index_marc_fields: Index des champs MARC
     male: homme
     marc_tag_index: Index des codes MARC
-    'no': Non
+    'no': 'Non'
     rism: RISM
     rism_best_practices: Meilleures pratiques RISM
     rism_instrument_abbreviations: Abréviations RISM pour les instruments (suite)
@@ -17,8 +17,7 @@ fr:
     rism_series_a_b_references: Référence au RISM A/I et B
     rism_series_number: Numéro RISM
     rule_type: Règle de cat.
-    scope_printed_music_rism: Portée de la documentation des impressions musicales
-      dans RISM
+    scope_printed_music_rism: Portée de la documentation des impressions musicales dans RISM
     searching: Recherche
     source_citation: Citation de la source
     status: Status
@@ -33,7 +32,7 @@ fr:
     validity: Validité
     when_to_input_new_record: Quand saisir une nouvelle notice (musique imprimée)
     workflow: Flux de travail
-    'yes': Oui
+    'yes': 'Oui'
   languages:
     afrikaans: Afrikaans
     arabic: Arabe
@@ -144,12 +143,12 @@ fr:
     canada: Canada
     chile: Chili
     china: Chine
-    colombia: Colombia
+    colombia: Colombie
     croatia: Croatie
     cuba: Cuba
     czech_republic: République Tchèque
     denmark: Danemark
-    ecuador: Ecuador
+    ecuador: Équateur
     egypt: Egypte
     estonia: Estonie
     finland: Finlande
@@ -157,9 +156,9 @@ fr:
     georgia: Géorgie
     germany: Allemagne
     germany_bavaria: 'Allemagne: Bavière'
-    germany_saxony: 'Germany: Saxony'
+    germany_saxony: 'Allemagne: Saxe'
     greece: Grèce
-    guatemala: Guatemala
+    guatemala: Guatémala
     guinea: Guinée
     holy_see: Saint-Siège
     honduras: Honduras
@@ -333,7 +332,7 @@ fr:
     conceptor: Concepteur
     conductor: Chef d'orchestre
     confused_with: Confondu avec
-    conjectural: Conjectural
+    conjectural: Conjecturale
     contact: Contact
     contact_area: Contact
     content: Contenu
@@ -351,7 +350,7 @@ fr:
     country: Pays
     country_active: Pays d'activité
     country_activity: Pays d'activité
-    country_code: Country code
+    country_code: Code Pays
     country_of_publication: Pays
     county_province: Canton ou province
     creation_production_note: Note sur la création/production
@@ -623,13 +622,10 @@ fr:
     octoechos2: 'Octoechos 2: Ēchos deuteros (deuxième mode dans la musique byzantine)'
     octoechos3: 'Octoechos 3: Ēchos tritos (troisième mode dans la musique byzantine)'
     octoechos4: 'Octoechos 4: Ēchos tetartos (quatrième mode dans la musique byzantine)'
-    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (premier mode plagal dans la musique
-      byzantine)'
-    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (deuxième mode plagal dans la
-      musique byzantine)'
+    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (premier mode plagal dans la musique byzantine)'
+    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (deuxième mode plagal dans la musique byzantine)'
     octoechos7: 'Octoechos 7: Ēchos barys (troisième mode plagal dans la musique byzantine)'
-    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (quatrième mode plagal dans la
-      musique byzantine)'
+    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (quatrième mode plagal dans la musique byzantine)'
     online_finding_aids: Instruments de recherche online
     opera_houses_concert_halls: Théâtres et salles de concert
     opus_number: No. de Opus
@@ -741,7 +737,7 @@ fr:
     series_statement: Mentions de collection
     set: Groupe de matériaux
     shelfmark: Cote
-    shelfmark_olim: Ancienne cote (olim)
+    shelfmark_olim: Former shelfmark (olim)
     short_title: Titre abrégé
     sigla: Sigle
     siglum: Sigle
