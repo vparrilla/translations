@@ -24,7 +24,7 @@ pt:
     undetermined: Indeterminado
     ungrouped_fields: Campos não agrupados
     unknown_fields: Campos desconhecidos
-    unused: UNUSED - WILL BE REMOVED
+    unused: NÃO USADO - SERÁ REMOVIDO
     updated_at: Última modificação
     uri: URI
     url: URL
@@ -155,19 +155,19 @@ pt:
     cuba: Cuba
     czech_republic: República Checa
     denmark: Dinamarca
-    ecuador: Ecuador
-    egypt: Egypt
-    estonia: Estonia
-    finland: Finland
-    france: France
-    georgia: Georgia
-    germany: Germany
-    germany_bavaria: 'Germany: Bavaria'
-    germany_saxony: 'Germany: Saxony'
-    greece: Greece
+    ecuador: Equador
+    egypt: Egito
+    estonia: Estónia
+    finland: Finlândia
+    france: França
+    georgia: Geórgia
+    germany: Alemanha
+    germany_bavaria: 'Alemanha: Baviera'
+    germany_saxony: 'Alemanha: Saxônia'
+    greece: Grécia
     guatemala: Guatemala
     guinea: Guinea
-    holy_see: Holy See
+    holy_see: Cidade do vaticano
     honduras: Honduras
     hong_kong: Hong Kong
     hungary: Hungary
