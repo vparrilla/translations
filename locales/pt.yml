@@ -167,7 +167,7 @@ pt:
     greece: Grécia
     guatemala: Guatemala
     guinea: Guinea
-    holy_see: Cidade do vaticano
+    holy_see: Santa Sé
     honduras: Honduras
     hong_kong: Hong Kong
     hungary: Hungria
@@ -267,12 +267,12 @@ pt:
     assignee: Cessionário
     associated_country: País associado
     associated_institution: Instituição associada
-    associated_name: Nome associado [asn]
-    associated_name_lit: Nome associado [asn]
+    associated_name: Nome associado
+    associated_name_lit: Nome associado
     associated_place: Lugar associado
     attribution_qualifier: Atribuição
     authentication_code: Código de autenticação
-    author: Autor [aut]
+    author: Autor
     author_editor: Autor/editor
     authorities: Autoridades
     authority_agency: Agência de autoridade
@@ -291,7 +291,7 @@ pt:
     binding_note: Nota de encadernação
     birth_name: Nome de nascimento
     book_format: Formato do livro
-    bookseller: Livreiro [bsl]
+    bookseller: Livreiro
     bound_with: Vinculado com
     brass_instruments: Metais
     brief: Breve
@@ -410,14 +410,14 @@ pt:
     edition: Edition
     edition_imprint_fields: Edition, imprint, etc. fields
     edition_statement: Edition statement
-    editor: Editor [edt]
+    editor: Editor
     ef_major: Mi bemol maior
     ef_minor: Mi bemol menor
     end_period: Período final
-    engraver: Gravador [egr]
+    engraver: Gravador
     engraving: Gravação
     event_organizer: Event organizer
-    event_place: Local do evento [evp]
+    event_place: Local do evento
     excerpts: Excertos
     exemplars: Materiais
     extent: Extent
@@ -437,9 +437,9 @@ pt:
     f_plus_3: F+3
     f_plus_4: F+4
     f_plus_5: F+5
-    facsimile: Fac-símile
+    facsimile: Facsímile
     family_name: Sobrenome
-    father_of: Irmão de
+    father_of: Pai de
     field_link: Ligação de campo e número de sequência
     field_of_activity: Campo de actividade
     figured_bass_scores: Baixo cifrado
@@ -448,7 +448,7 @@ pt:
     first_second_group: Primeiro/Segundo grupo
     form_subdivision: Form subdivision
     format_extent: Formato, extensão
-    former_owner: Proprietário anterior [fmo]
+    former_owner: Proprietário anterior
     fragments: Fragmentos
     friulano: Friulano
     fs_major: Fá sustenido maior
@@ -525,7 +525,7 @@ pt:
     keyboards: Teclados
     keys: Tonalidades
     language_code: Código de idioma
-    language_codes: Código de idioma
+    language_codes: Códigos de idioma
     language_libretto: Idioma do libreto
     language_note: Nota de idioma
     language_of_cataloging: Idioma de catalogação
@@ -538,15 +538,15 @@ pt:
     library_information: Informação da instituição
     library_information_relations: Informação da instituição e relações
     library_siglum: Sigla da Instituição
-    librettist: Libretista [lbt]
-    licensee: Titular [lse]
+    librettist: Libretista
+    licensee: Titular
     life_dates: Datas de nascimento e morte
     link_type: Tipo de Link
     linkage: Ligação
     linking_entry_fields: Linking entry fields
     literature: Literatura
     lithograph: Lithograph
-    lithographer: Litógrafo [ltg]
+    lithographer: Litógrafo
     lithography: Litografia
     liturgical_festival: Festa litúrgica
     liturgical_festivals: Festas litúrgicas
@@ -582,23 +582,23 @@ pt:
     mode_12t: 'Modo: 12º modo (Hipojônio)'
     mode_12tt: 'Modo: 12º modo (Hipojônio), transposta'
     mode_1t: 'Modo: 1º tom (Dórico)'
-    mode_1tt: 'Modo:  1º tom (Dórico), transposta'
-    mode_2t: 'Modo:  2º tom (Hipodórico)'
-    mode_2tt: 'Modo:  2º tom (Hipodórico), transposta'
-    mode_3t: 'Modo:  3º tom (Frígio)'
-    mode_3tt: 'Modo:  3º tom (Frígio), transposta'
-    mode_4t: 'Modo:  4º tom (Hipofrígio)'
-    mode_4tt: 'Modo:  4º tom (Hipofrígio), transposta'
-    mode_5t: 'Modo:  5º tom (Lídio)'
-    mode_5tt: 'Modo:  5º tom (Lídio), transposta'
-    mode_6t: 'Modo:  6º tom (Hipolídio)'
-    mode_6tt: 'Modo:  6º tom (Hipolídio), transposta'
-    mode_7t: 'Modo:  7º tom (Mixolídio)'
-    mode_7tt: 'Modo:  7º tom (Mixolídio), transposta'
-    mode_8t: 'Modo:  8º tom (Hipomixolídio)'
-    mode_8tt: 'Modo:  8º tom (Hipomixolídio), transposta'
-    mode_9t: 'Modo:  9º tom (Eólio)'
-    mode_9tt: 'Modo:  9º tom (Eólio), transposta'
+    mode_1tt: 'Modo: 1º tom (Dórico), transposta'
+    mode_2t: 'Modo: 2º tom (Hipodórico)'
+    mode_2tt: 'Modo: 2º tom (Hipodórico), transposta'
+    mode_3t: 'Modo: 3º tom (Frígio)'
+    mode_3tt: 'Modo: 3º tom (Frígio), transposta'
+    mode_4t: 'Modo: 4º tom (Hipofrígio)'
+    mode_4tt: 'Modo: 4º tom (Hipofrígio), transposta'
+    mode_5t: 'Modo: 5º tom (Lídio)'
+    mode_5tt: 'Modo: 5º tom (Lídio), transposta'
+    mode_6t: 'Modo: 6º tom (Hipolídio)'
+    mode_6tt: 'Modo: 6º tom (Hipolídio), transposta'
+    mode_7t: 'Modo: 7º tom (Mixolídio)'
+    mode_7tt: 'Modo: 7º tom (Mixolídio), transposta'
+    mode_8t: 'Modo: 8º tom (Hipomixolídio)'
+    mode_8tt: 'Modo: 8º tom (Hipomixolídio), transposta'
+    mode_9t: 'Modo: 9º tom (Eólio)'
+    mode_9tt: 'Modo: 9º tom (Eólio), transposta'
     modifying_agency: Agência de modificação
     monogram: Monogram
     mother_of: Mãe de
@@ -671,7 +671,7 @@ pt:
     percussion: Percussão
     performance: Performance
     performances: Performances
-    performer: Intérprete [prf]
+    performer: Intérprete
     performer_note: Performer note
     person: Pessoa
     person_name: Person Name
@@ -694,7 +694,7 @@ pt:
     postal_code: Postal code
     postal_place: Postal place
     preceding_entry: Registro precedente
-    printer: Impressor(a) [prt]
+    printer: Impressor(a)
     printing_technique: Técnica de impressão
     production: Production
     production_personnel: Production personnel
@@ -703,7 +703,7 @@ pt:
     provenance_notes: Nota de proveniência
     pseudonym: Pseudonym
     public_note: Public note
-    publisher: Casa editora [pbl]
+    publisher: Casa editora
     publisher_copyist: Editor, copista
     publisher_number: Número da editora
     publisher_plate_number: Número da editora ou de chapa
@@ -797,7 +797,7 @@ pt:
     templates: Modelos
     terms_of_availability: Termos de disponibilidade
     terms_voices_instruments: Termos para vozes e instrumentos
-    text_author: Autor literário [lyr]
+    text_author: Autor literário
     text_incipit: Incipit literário
     third_fourth_group: Terceiro/Quarto grupo
     time_signature: Compasso
@@ -816,7 +816,7 @@ pt:
     total_scoring: Formação total
     transcribing_agency: Transcribing agency
     translation: Tradução
-    translator: Tradutor [trl]
+    translator: Tradutor
     transparency: Transparência
     type: Tipo
     type_designer: Tipógrafo
