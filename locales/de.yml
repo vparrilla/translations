@@ -913,7 +913,7 @@ de:
     ERR_052_DURATION: "Der Inhalt der Dauer kann nicht analysiert werden (wenn er im nicht-pedantischen Modus ausgeführt wird)"
     ERR_053_DURATION_MENS3: Bei der Mensuralnotation kann die Dauer nicht "3" sein.
     ERR_054_DURATION_MENS5: Bei der Mensuralnotation kann die Dauer nicht "5" sein.
-    ERR_055_KEYSIG_CHANGE: The key signature cannot be changed more than once in a measure.
-    ERR_056_TIMESIG_CHANGE: The time signature cannot be changed more than once in a measure.
-    ERR_057_MENSUR_CHANGE: The mensuration cannot be changed more than once in a measure.
-    ERR_058_FERMATA_MREST: "Fermata on measure rest with extraneous content '%{value}'"
+    ERR_055_KEYSIG_CHANGE: Die Tonart kann in einem Takt nur einmal geändert werden.
+    ERR_056_TIMESIG_CHANGE: Die Taktart kann in einem Takt nur einmal geändert werden.
+    ERR_057_MENSUR_CHANGE: Die Mensur kann in einem Takt nur einmal geändert werden.
+    ERR_058_FERMATA_MREST: "Fermata auf Maß mit fremdem Inhalt '%{value} ' ausruhen"
