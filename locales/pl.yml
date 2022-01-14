@@ -226,8 +226,8 @@ pl:
     usa: Stany Zjednoczone AP
     uzbekistan: Uzbekistan
     #holy_see provided for backwards compatibility
-    holy_see: Vatican City
-    vatican: Vatican City
+    holy_see: Watykan
+    vatican: Watykan
     venezuela: Wenezuela, Republika Boliwariańska
     vietnam: Wietnam
   records:
