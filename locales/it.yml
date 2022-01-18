@@ -226,8 +226,8 @@ it:
     usa: Stati Uniti d'America
     uzbekistan: Uzbekistan
     #holy_see provided for backwards compatibility
-    holy_see: Vatican City
-    vatican: Vatican City
+    holy_see: Santa Sede
+    vatican: Città del Vaticano
     venezuela: Venezuela, Repubblica Bolivariana del
     vietnam: Vietnam
   records:
