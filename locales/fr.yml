@@ -912,11 +912,11 @@ fr:
     ERR_049_TIMESIG_MENS: L'indication de mesure n'est pas codée correctement.
     ERR_050_INVALID_CHAR: 'Supprimer le(s) caractère(s) invalide(s) suivant(s) : %{value}'
     ERR_051_BARLINE: La barre de mesure n'est pas codée correctement.
-    ERR_052_DURATION: "Le codage de la durée ne peut pas être analysé (durée de noire par défaut)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: La durée ne peut pas être '3' en notation mensurale.
     ERR_054_DURATION_MENS5: La durée ne peut pas être '5' en notation mensurale.
     ERR_055_KEYSIG_CHANGE: L'armure ne peut pas être modifiée plus d'une fois dans une mesure.
     ERR_056_TIMESIG_CHANGE: L'indication de mesure ne peut pas être modifiée plus d'une fois dans une mesure.
     ERR_057_MENSUR_CHANGE: L'indication de mesure ne peut pas être modifiée plus d'une fois dans une mesure.
-    ERR_058_FERMATA_MREST: "Le point d'orgue sur une mesure de pause contient des signes superflus '%{value}'"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Les notes doubles pointées ne sont pas valides en notation mensurale."
