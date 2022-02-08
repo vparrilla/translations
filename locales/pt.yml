@@ -912,11 +912,11 @@ pt:
     ERR_049_TIMESIG_MENS: The time signature is not in the correct form.
     ERR_050_INVALID_CHAR: 'Delete the following invalid character(s): %{value}'
     ERR_051_BARLINE: The barline is not in the correct form.
-    ERR_052_DURATION: "Duration content cannot be parsed (Setting to quarter note if running in non-pedantic mode)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: The duration cannot be '3' with mensural notation.
     ERR_054_DURATION_MENS5: The duration cannot be '5' with mensural notation.
     ERR_055_KEYSIG_CHANGE: The key signature cannot be changed more than once in a measure.
     ERR_056_TIMESIG_CHANGE: The time signature cannot be changed more than once in a measure.
     ERR_057_MENSUR_CHANGE: The mensuration cannot be changed more than once in a measure.
-    ERR_058_FERMATA_MREST: "Fermata on measure rest with extraneous content '%{value}'"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
