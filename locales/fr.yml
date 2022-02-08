@@ -440,10 +440,10 @@ fr:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Facsimilé
-    family_name: Nom de famille
+    family_name: Family name
     father_of: Père de
     field_link: Lien de champ et numéro de séquence
-    field_of_activity: Domaine d'activité
+    field_of_activity: Field of activity
     figured_bass_scores: Basse chiffrée
     fijian: Fidjien
     fingerprint_identifier: Indentificateur d'empreintes
@@ -884,7 +884,7 @@ fr:
     ERR_021_CHORD_NOTE_AFTER: Pour indiquer un accord, un '^' doit être suivi d'une note.
     ERR_022_BEAM_MENSURAL: Les barres de valeur ne peuvent pas être utilisées avec une notation mensurale.
     ERR_023_BEAM_NESTED: Ne commencez pas un groupe de barres de valeur avant de fermer le précédent.
-    ERR_024_BEAM_CLOSING: 'Un ''}'' supplémentaire pour fermer un groupe de barres de valeur est présent. Supprimez-le ou indiquez où le groupe commence par ''{''. '
+    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
     ERR_025_BEAM_OPEN: Fermer le groupe de barres de valeur avec '}' avant la fin de la mesure.
     ERR_026_GRACE_NESTED: Fermez l'appoggiature par 'r' avant d'en commencer une nouvelle.
     ERR_027_GRACE_CLOSING: Un 'r' est présent pour fermer une appoggiature. Supprimez-le ou ajoutez 'qq' pour indiquer où elle commence.
