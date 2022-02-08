@@ -912,11 +912,11 @@ it:
     ERR_049_TIMESIG_MENS: L'indicazione di tempo non è nel formato corretto.
     ERR_050_INVALID_CHAR: 'Elimina i seguenti caratteri non validi: (%{value})'
     ERR_051_BARLINE: La linea di battuta non è nel formato corretto.
-    ERR_052_DURATION: "Il contenuto di durata non può essere analizzato (la nota diventa una semiminima se si è in modalità non pedantica)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: La durata non può essere '3' in notazione mensurale.
     ERR_054_DURATION_MENS5: La durata non può essere '5' in notazione mensurale.
     ERR_055_KEYSIG_CHANGE: L'armatura di chiave non può essere cambiata più di una volta in una battuta.
     ERR_056_TIMESIG_CHANGE: Il tempo non può essere cambiato più di una volta in una battuta.
     ERR_057_MENSUR_CHANGE: La mensurazione non può essere modificata più di una volta in una battuta.
-    ERR_058_FERMATA_MREST: "Corona su una pausa di una battuta con caratteri estranei '%{value}"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Le note con doppi punti sono invalide in notazione mensurale."
