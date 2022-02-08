@@ -912,11 +912,11 @@ de:
     ERR_049_TIMESIG_MENS: Die Taktart ist nicht korrekt.
     ERR_050_INVALID_CHAR: 'Löschen Sie das/die folgende(n) ungültige(n) Zeichen: %{value}'
     ERR_051_BARLINE: Der Taktstrich ist nicht korrekt.
-    ERR_052_DURATION: "Der Inhalt der Dauer kann nicht analysiert werden (wenn er im nicht-pedantischen Modus ausgeführt wird)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: Bei der Mensuralnotation kann die Dauer nicht "3" sein.
     ERR_054_DURATION_MENS5: Bei der Mensuralnotation kann die Dauer nicht "5" sein.
     ERR_055_KEYSIG_CHANGE: Die Tonart kann in einem Takt nur einmal geändert werden.
     ERR_056_TIMESIG_CHANGE: Die Taktart kann in einem Takt nur einmal geändert werden.
     ERR_057_MENSUR_CHANGE: Die Mensur kann in einem Takt nur einmal geändert werden.
-    ERR_058_FERMATA_MREST: "Fermata auf Maß mit fremdem Inhalt '%{value} ' ausruhen"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Doppelpunktierte Noten sind ungültig in der Mensuralnotation."
