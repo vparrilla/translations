@@ -919,4 +919,4 @@ fr:
     ERR_056_TIMESIG_CHANGE: L'indication de mesure ne peut pas être modifiée plus d'une fois dans une mesure.
     ERR_057_MENSUR_CHANGE: L'indication de mesure ne peut pas être modifiée plus d'une fois dans une mesure.
     ERR_058_FERMATA_MREST: "Le point d'orgue sur une mesure de pause contient des signes superflus '%{value}'"
-    ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
+    ERR_059_DOUBLE_DOTS_MENS: "Les notes doubles pointées ne sont pas valides en notation mensurale."
