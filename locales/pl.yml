@@ -912,11 +912,11 @@ pl:
     ERR_049_TIMESIG_MENS: Metrum jest zapisane nieprawidłowo.
     ERR_050_INVALID_CHAR: 'Usuń następujące nieprawidłowe znaki: %{value}'
     ERR_051_BARLINE: Kreska taktowa jest zapisana nieprawidłowo.
-    ERR_052_DURATION: "Duration content cannot be parsed (Setting to quarter note if running in non-pedantic mode)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: Czas trwania nie może wynosić „3” w notacji menzuralnej.
     ERR_054_DURATION_MENS5: Czas trwania nie może wynosić „5” w notacji menzuralnej.
     ERR_055_KEYSIG_CHANGE: Tonację można zmienić tylko raz w takcie.
     ERR_056_TIMESIG_CHANGE: Metrum można zmienić tylko raz w takcie.
     ERR_057_MENSUR_CHANGE: Menzurę można zmienić tylko raz w takcie.
-    ERR_058_FERMATA_MREST: "Fermata on measure rest with extraneous content '%{value}'"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
