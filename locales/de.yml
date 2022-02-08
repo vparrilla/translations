@@ -919,3 +919,4 @@ de:
     ERR_056_TIMESIG_CHANGE: Die Taktart kann in einem Takt nur einmal geändert werden.
     ERR_057_MENSUR_CHANGE: Die Mensur kann in einem Takt nur einmal geändert werden.
     ERR_058_FERMATA_MREST: "Fermata auf Maß mit fremdem Inhalt '%{value} ' ausruhen"
+    ERR_059_DOUBLE_DOTS_MENS: "Doppelpunktierte Noten sind ungültig in der Mensuralnotation."
