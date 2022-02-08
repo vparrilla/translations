@@ -919,3 +919,4 @@ es:
     ERR_056_TIMESIG_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_057_MENSUR_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_058_FERMATA_MREST: "Fermata en medida reposa con contenido extraño %{value}"
+    ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
