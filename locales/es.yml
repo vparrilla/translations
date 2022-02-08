@@ -912,11 +912,11 @@ es:
     ERR_049_TIMESIG_MENS: La indicación de compás no tiene la forma correcta.
     ERR_050_INVALID_CHAR: 'Borre los siguientes caracteres inválidos: %{value}'
     ERR_051_BARLINE: La barra de compás no tiene la forma correcta.
-    ERR_052_DURATION: "El contenido de la duración no se puede analizar (ajustar a la nota trimestre si se ejecuta en modo no pedántico)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: La duración no puede ser "3" en notación mensural.
     ERR_054_DURATION_MENS5: La duración no puede ser "5" en notación mensural.
     ERR_055_KEYSIG_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_056_TIMESIG_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_057_MENSUR_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
-    ERR_058_FERMATA_MREST: "Fermata en medida reposa con contenido extraño %{value}"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
