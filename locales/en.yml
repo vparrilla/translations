@@ -922,3 +922,4 @@ en:
     ERR_056_TIMESIG_CHANGE: The time signature cannot be changed more than once in a measure.
     ERR_057_MENSUR_CHANGE: The mensuration cannot be changed more than once in a measure.
     ERR_058_FERMATA_MREST: "Fermata on measure rest with extraneous content '%{value}'"
+    ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
