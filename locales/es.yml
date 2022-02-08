@@ -440,10 +440,10 @@ es:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Facsímil
-    family_name: Apellido
+    family_name: Family name
     father_of: Padre de
     field_link: Enlace de campo y número de secuencia
-    field_of_activity: Campo de actividad
+    field_of_activity: Field of activity
     figured_bass_scores: Bajo cifrado
     fijian: Fijiano
     fingerprint_identifier: Identificador tipográfico
@@ -884,7 +884,7 @@ es:
     ERR_021_CHORD_NOTE_AFTER: Para indicar un acorde, a todo "^" debe seguirle una nota.
     ERR_022_BEAM_MENSURAL: Los barrados "{" no pueden ser usados en notación mensural.
     ERR_023_BEAM_NESTED: No comience un barrado "{" sin antes cerrar el anterior.
-    ERR_024_BEAM_CLOSING: 'Hay un "}" de más en el cierre del barrado. Bórrelo o indique dónde comienza el barrado con "{".'
+    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
     ERR_025_BEAM_OPEN: Cierre el barrado con "}" antes del final del compás.
     ERR_026_GRACE_NESTED: Cierre la apoggiatura con "r" antes de iniciar una nueva.
     ERR_027_GRACE_CLOSING: Hay una "r" (cierre de apoggiatura) de más. Bórrela o añada "qq" para indicar el comienzo de otra apoggiatura.
