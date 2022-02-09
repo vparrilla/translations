@@ -1,7 +1,7 @@
 pl:
   general:
     created_at: "Data utworzenia"
-    e_mail: E-mail
+    e_mail: Email
     editor_help: Pomoc do edycji
     faq: Odpowiedzi na częste pytania
     female: Kobieta
@@ -13,8 +13,8 @@ pl:
     rism: RISM
     rism_best_practices: Dobre praktyki RISM
     rism_instrument_abbreviations: Określenia głosów i instrumentów (kontynuacja)
-    rism_series: Seria RISM
-    rism_series_a_b_references: Odniesienia do serii RISM A/I i B
+    rism_series: RISM series
+    rism_series_a_b_references: RISM series A/I and B reference
     rism_series_number: Nr seryjny RISM
     rule_type: Standard
     scope_printed_music_rism: Zakres druków muzycznych w RISM
@@ -38,16 +38,16 @@ pl:
     arabic: Arabski
     aragonese: Aragoński
     armenian: Armeński
-    artificial: Sztuczny (inne)
+    artificial: Artificial (other)
     australian: Języki australijskie
     basque: Baskijski
     bengali: Bengali
     bosnian: Bośniacki
     bulgarian: Bułgarski
     catalan: Kataloński
-    celtic_other: Celtycki (inny)
+    celtic_other: Celtic (other)
     chinese: Chiński
-    creoles_pidgins_other: Kreolski i Pidgin (inne)
+    creoles_pidgins_other: Creoles and Pidgins (other)
     croatian: Chorwacki
     czech: Czeski
     danish: Duński
@@ -76,7 +76,7 @@ pl:
     latvian: Łotewski
     lithuanian: Litewski
     low_german: Dolnoniemiecki
-    lower_sorbian: Dolnołużycki
+    lower_sorbian: 'Sorbian: Lower Sorbian'
     luxembourgish: Luksemburski
     macedonian: Macedoński
     maori: Maoryski
@@ -105,7 +105,7 @@ pl:
     slovak: Słowacki
     slovenian: Słoweński
     sorbian: Łużycki
-    south_american: Południowoamerykański (inne)
+    south_american: South American Indian (other)
     spanish: Hiszpański
     swedish: Szwedzki
     swiss_german: Niemiecki szwajcarski
@@ -116,7 +116,7 @@ pl:
     tsimshian: Tsimshiański
     turkish: Turecki
     ukrainian: Ukraiński
-    upper_sorbian: Gbórnołużycki
+    upper_sorbian: 'Sorbian: Upper Sorbian'
     vietnamese: Wietnamska
     welsh: Walijski
     west_frisian: Zchodniofryzyjski
@@ -271,7 +271,7 @@ pl:
     associated_institution: Powiązana instytucja
     associated_name: Powiązana nazwa
     associated_name_lit: Powiązana nazwa
-    associated_place: Powiązane miejsce
+    associated_place: Associated place
     attribution_qualifier: Kwalifikator atrybucji
     authentication_code: Kod uwierzytelnienia
     author: Autor
@@ -676,7 +676,7 @@ pl:
     performer: Wykonawca
     performer_note: Uwaga o wykonaniu
     person: Osoba
-    person_name: Imię i nazwisko
+    person_name: Person name
     personal_name: Imię i nazwisko
     personal_names: Osoby
     photoreproductive_process: Proces optyczny (światłokopia)
@@ -708,17 +708,17 @@ pl:
     publisher: Wydawca
     publisher_copyist: Wydawca, kopista
     publisher_number: Numer wydawcy
-    publisher_plate_number: Numer wydawcy lub wydawniczy
+    publisher_plate_number: Plate or publisher number
     publishing_printing_production: Informacje o publikacji, druku i produkcji
     qualifying_information: Informacje kwalifikacyjne
     range_dates: Zakres dat
-    real_world_object_uri: Identyfikator URI obiektu świata rzeczywistego
+    real_world_object_uri: Real world object URI
     record_actions: Działania na rekordzie
-    record_audit: RECORD AUDIT
+    record_audit: Record audit
     record_origin: Pochodzenie rekordu
     record_status: Status rekordu
     reference_instruction_phrase: Referencyjna fraza instrukcji w podpolu $i
-    reference_record_id: Referncyjny identyfikator RISM
+    reference_record_id: Reference record ID
     references: Odniesienia
     references_and_notes: Odniesienia i uwagi
     region_active: Region aktywności artystycznej
@@ -728,7 +728,7 @@ pl:
     related_place: Powiązane miejsce
     related_resources: Powiązane zasoby
     related_source: Powiązane źródło
-    related_titles: Powiązane tytuły
+    related_titles: Related titles
     related_to: W pokrewieństwie z …
     related_work: Powiązane dzieło
     relation: Relacja
@@ -780,12 +780,12 @@ pl:
     standard_watermarks: Standardowe znaki wodne
     standardized_title: Znormalizowany tytuł
     standardized_titles_printed_music: Znormalizowane tytuły dla druków muzycznych
-    standardized_titles_subject_headings: Znormalizowane tytuły – hasła przedmiotowe
+    standardized_titles_subject_headings: Standardized titles—Subject headings
     start_period: Okres początkowy
     street_address: Ulica, numer, numer lokalu
     strings: Instrumenty strunowe
     subheading: Pod-nagłówek
-    subheading_general: Ogólny dalszy podział podnagłówków
+    subheading_general: Subheading general subdivision
     subject_access_fields: Pola haseł tematycznych
     subject_heading: Hasło przedmiotowe
     subject_headings: Hasła przedmiotowe
