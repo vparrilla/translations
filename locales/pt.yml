@@ -1,7 +1,7 @@
 pt:
   general:
     created_at: "Criado em"
-    e_mail: E-mail
+    e_mail: Email
     editor_help: Ajuda do editor
     faq: Questões frequentes
     female: Feminino
@@ -13,8 +13,8 @@ pt:
     rism: RISM
     rism_best_practices: Boas práticas no RISM
     rism_instrument_abbreviations: Abreviaturas de instrumentos do RISM
-    rism_series: Série RISM
-    rism_series_a_b_references: Referências às Séries RISM A/I e B
+    rism_series: RISM series
+    rism_series_a_b_references: RISM series A/I and B reference
     rism_series_number: Número de série RISM
     rule_type: Regras de catalogação
     scope_printed_music_rism: Âmbito da música impressa no RISM
@@ -38,16 +38,16 @@ pt:
     arabic: Árabe
     aragonese: Aragonês
     armenian: Arménio
-    artificial: Artificial (outro)
+    artificial: Artificial (other)
     australian: Línguas australianas
     basque: Basco
     bengali: Bengalês
     bosnian: Bósnio
     bulgarian: Búlgaro
     catalan: Catalão
-    celtic_other: Celtic (outro)
+    celtic_other: Celtic (other)
     chinese: Chinês
-    creoles_pidgins_other: Crioles e Pidgins (Outro)
+    creoles_pidgins_other: Creoles and Pidgins (other)
     croatian: Croata
     czech: Tcheco
     danish: Dinamarquês
@@ -76,7 +76,7 @@ pt:
     latvian: Letão
     lithuanian: Lituano
     low_german: Baixo alemão
-    lower_sorbian: Sorábio, Baixo Sorábio
+    lower_sorbian: 'Sorbian: Lower Sorbian'
     luxembourgish: Luxemburguês
     macedonian: Macedônio
     maori: Maori
@@ -105,7 +105,7 @@ pt:
     slovak: Eslovaco
     slovenian: Esloveno
     sorbian: Sorábio
-    south_american: Índio sul-americano (Outros)
+    south_american: South American Indian (other)
     spanish: Castelhano
     swedish: Sueco
     swiss_german: Suíço-alemão
@@ -116,7 +116,7 @@ pt:
     tsimshian: Tsimshian
     turkish: Turco
     ukrainian: Ucraniano
-    upper_sorbian: Sorábio, Alto Sorábio
+    upper_sorbian: 'Sorbian: Upper Sorbian'
     vietnamese: Vietnamita
     welsh: Galês
     west_frisian: Frisão ocidental
@@ -271,7 +271,7 @@ pt:
     associated_institution: Instituição associada
     associated_name: Nome associado
     associated_name_lit: Nome associado
-    associated_place: Lugar associado
+    associated_place: Associated place
     attribution_qualifier: Atribuição
     authentication_code: Código de autenticação
     author: Autor
@@ -676,7 +676,7 @@ pt:
     performer: Intérprete
     performer_note: Performer note
     person: Pessoa
-    person_name: Person Name
+    person_name: Person name
     personal_name: Personal name
     personal_names: Nomes de pessoas
     photoreproductive_process: Processo foto-reprodutivo
@@ -708,17 +708,17 @@ pt:
     publisher: Casa editora
     publisher_copyist: Editor, copista
     publisher_number: Número da editora
-    publisher_plate_number: Número da editora ou de chapa
+    publisher_plate_number: Plate or publisher number
     publishing_printing_production: Informação de publicação, impressão e produção
     qualifying_information: Informação sobre qualificação
     range_dates: Faixa de datas
-    real_world_object_uri: Objecto do Mundo Real URI
+    real_world_object_uri: Real world object URI
     record_actions: Ações do registro
-    record_audit: RECORD AUDIT
+    record_audit: Record audit
     record_origin: Origem do registro
     record_status: Estado do registro
     reference_instruction_phrase: Frase de instrução de referência no subcampo $i
-    reference_record_id: REFERENCE RECORD ID
+    reference_record_id: Reference record ID
     references: Referências
     references_and_notes: Notas e referências
     region_active: Region active
@@ -728,7 +728,7 @@ pt:
     related_place: Local relacionado
     related_resources: Related resources
     related_source: Fonte relacionada
-    related_titles: Related Titles
+    related_titles: Related titles
     related_to: Related to
     related_work: Related work
     relation: Relation
@@ -780,12 +780,12 @@ pt:
     standard_watermarks: Marcas d'água normalizadas
     standardized_title: Título uniforme
     standardized_titles_printed_music: Títulos uniformes para música impressa
-    standardized_titles_subject_headings: Títulos uniformes – Cabeçalhos de assunto
+    standardized_titles_subject_headings: Standardized titles—Subject headings
     start_period: Período de início
     street_address: Street address
     strings: Cordas
     subheading: Subdivisão de forma
-    subheading_general: Subheading General subdivision
+    subheading_general: Subheading general subdivision
     subject_access_fields: Campos de acesso por assunto
     subject_heading: Assunto
     subject_headings: Cabeçalhos de assunto
