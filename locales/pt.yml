@@ -440,10 +440,10 @@ pt:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Facsímile
-    family_name: Sobrenome
+    family_name: Family name
     father_of: Pai de
     field_link: Ligação de campo e número de sequência
-    field_of_activity: Campo de actividade
+    field_of_activity: Field of activity
     figured_bass_scores: Baixo cifrado
     fijian: Fijianas
     fingerprint_identifier: Identificador de impressão
@@ -884,7 +884,7 @@ pt:
     ERR_021_CHORD_NOTE_AFTER: To indicate a chord, a '^' must be followed by a note.
     ERR_022_BEAM_MENSURAL: Beams cannot be used with mensural notation.
     ERR_023_BEAM_NESTED: Do not start a beam before closing the previous one.
-    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''. '
+    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
     ERR_025_BEAM_OPEN: Close the beam with '}' before the end of the measure.
     ERR_026_GRACE_NESTED: Close the appoggiatura with 'r' before starting a new one.
     ERR_027_GRACE_CLOSING: An 'r' is present to close an appoggiatura. Delete it or add 'qq' to indicate where it begins.
@@ -912,11 +912,11 @@ pt:
     ERR_049_TIMESIG_MENS: The time signature is not in the correct form.
     ERR_050_INVALID_CHAR: 'Delete the following invalid character(s): %{value}'
     ERR_051_BARLINE: The barline is not in the correct form.
-    ERR_052_DURATION: "Duration content cannot be parsed (Setting to quarter note if running in non-pedantic mode)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: The duration cannot be '3' with mensural notation.
     ERR_054_DURATION_MENS5: The duration cannot be '5' with mensural notation.
     ERR_055_KEYSIG_CHANGE: The key signature cannot be changed more than once in a measure.
     ERR_056_TIMESIG_CHANGE: The time signature cannot be changed more than once in a measure.
     ERR_057_MENSUR_CHANGE: The mensuration cannot be changed more than once in a measure.
-    ERR_058_FERMATA_MREST: "Fermata on measure rest with extraneous content '%{value}'"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."

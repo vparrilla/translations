@@ -884,7 +884,7 @@ fr:
     ERR_021_CHORD_NOTE_AFTER: Pour indiquer un accord, un '^' doit être suivi d'une note.
     ERR_022_BEAM_MENSURAL: Les barres de valeur ne peuvent pas être utilisées avec une notation mensurale.
     ERR_023_BEAM_NESTED: Ne commencez pas un groupe de barres de valeur avant de fermer le précédent.
-    ERR_024_BEAM_CLOSING: 'Un ''}'' supplémentaire pour fermer un groupe de barres de valeur est présent. Supprimez-le ou indiquez où le groupe commence par ''{''. '
+    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
     ERR_025_BEAM_OPEN: Fermer le groupe de barres de valeur avec '}' avant la fin de la mesure.
     ERR_026_GRACE_NESTED: Fermez l'appoggiature par 'r' avant d'en commencer une nouvelle.
     ERR_027_GRACE_CLOSING: Un 'r' est présent pour fermer une appoggiature. Supprimez-le ou ajoutez 'qq' pour indiquer où elle commence.
@@ -912,11 +912,11 @@ fr:
     ERR_049_TIMESIG_MENS: L'indication de mesure n'est pas codée correctement.
     ERR_050_INVALID_CHAR: 'Supprimer le(s) caractère(s) invalide(s) suivant(s) : %{value}'
     ERR_051_BARLINE: La barre de mesure n'est pas codée correctement.
-    ERR_052_DURATION: "Le codage de la durée ne peut pas être analysé (durée de noire par défaut)"
+    ERR_052_DURATION: "Duration cannot be interpreted."
     ERR_053_DURATION_MENS3: La durée ne peut pas être '3' en notation mensurale.
     ERR_054_DURATION_MENS5: La durée ne peut pas être '5' en notation mensurale.
     ERR_055_KEYSIG_CHANGE: L'armure ne peut pas être modifiée plus d'une fois dans une mesure.
     ERR_056_TIMESIG_CHANGE: L'indication de mesure ne peut pas être modifiée plus d'une fois dans une mesure.
     ERR_057_MENSUR_CHANGE: L'indication de mesure ne peut pas être modifiée plus d'une fois dans une mesure.
-    ERR_058_FERMATA_MREST: "Le point d'orgue sur une mesure de pause contient des signes superflus '%{value}'"
+    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Les notes doubles pointées ne sont pas valides en notation mensurale."
