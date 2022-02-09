@@ -440,10 +440,10 @@ pl:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Faksymile
-    family_name: Family name
+    family_name: Nazwisko rodowe
     father_of: Ojciec …
     field_link: Link do pola i kolejny numer
-    field_of_activity: Field of activity
+    field_of_activity: Obszar działalności
     figured_bass_scores: Bas cyfrowany w partyturze i / lub w innych częściach
     fijian: Fidżyjski
     fingerprint_identifier: Identyfikator odcisku palca
@@ -884,7 +884,7 @@ pl:
     ERR_021_CHORD_NOTE_AFTER: Aby zaznaczyć akord, po „^” musi nastąpić nuta.
     ERR_022_BEAM_MENSURAL: Belkowanie nie może być stosowane w notacji menzuralnej.
     ERR_023_BEAM_NESTED: Nie rozpoczynaj nowego belkowania „{”, przed zamknięciem poprzedniego „}”.
-    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
+    ERR_024_BEAM_CLOSING: 'Jest dodatkowe „}” zamykające belowanie. Usuń je lub wskaż, gdzie belka zaczyna się za pomocą „{”.'
     ERR_025_BEAM_OPEN: Zamknij belkę za pomocą „}” przed końcem taktu.
     ERR_026_GRACE_NESTED: Zamknij appoggiaturę za pomocą „r” przed rozpoczęciem nowej.
     ERR_027_GRACE_CLOSING: Jest „r” zamykające apoggiaturę. Usuń je lub dodaj „qq”, aby wskazać, gdzie się zaczyna.
