@@ -728,7 +728,7 @@ de:
     related_place: Ort
     related_resources: Links
     related_source: Verwandte Quelle
-    related_titles: Related titles
+    related_titles: Verlinkungen
     related_to: Verwandt mit
     related_work: zugehörige Werke
     relation: Bedeutung
@@ -780,12 +780,12 @@ de:
     standard_watermarks: Wasserzeichen
     standardized_title: Einordnungstitel
     standardized_titles_printed_music: Einordnungstitel für Musikdrucke
-    standardized_titles_subject_headings: Standardized titles—Subject headings
+    standardized_titles_subject_headings: Einordnungstitel - Schlagworte
     start_period: Beginn der Periode
     street_address: Strasse
     strings: Streichinstrumente
     subheading: Unterteilung nach der Form
-    subheading_general: Subheading general subdivision
+    subheading_general: Allgemeine Unterteilung
     subject_access_fields: Schlagworteintragungen
     subject_heading: Schlagworteintragung
     subject_headings: Schlagworte
