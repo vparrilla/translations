@@ -1,7 +1,7 @@
 es:
   general:
     created_at: "Fecha de creación"
-    e_mail: Email
+    e_mail: E-mail
     editor_help: Ayuda del editor
     faq: Preguntas frecuentes
     female: Femenino
@@ -13,8 +13,8 @@ es:
     rism: RISM
     rism_best_practices: Mejores prácticas en RISM
     rism_instrument_abbreviations: Abreviaturas de instrumentos de RISM
-    rism_series: RISM series
-    rism_series_a_b_references: RISM series A/I and B reference
+    rism_series: Serie RISM
+    rism_series_a_b_references: Referencias a las Series RISM A/I y B
     rism_series_number: Número de serie RISM
     rule_type: Tipo de regla
     scope_printed_music_rism: Cobertura de la música impresa en RISM
@@ -38,16 +38,16 @@ es:
     arabic: Árabe
     aragonese: Aragonés
     armenian: Armenio
-    artificial: Artificial (other)
+    artificial: Artificial (otros)
     australian: Idiomas australianos
     basque: Vasco
     bengali: Bengalí
     bosnian: Bosnio
     bulgarian: Búlgaro
     catalan: Catalán
-    celtic_other: Celtic (other)
+    celtic_other: Céltico (otros)
     chinese: Chino
-    creoles_pidgins_other: Creoles and Pidgins (other)
+    creoles_pidgins_other: Creoles y Pidgins (otros)
     croatian: Croata
     czech: Checo
     danish: Danés
@@ -76,7 +76,7 @@ es:
     latvian: Letón
     lithuanian: Lituano
     low_german: Bajo alemán
-    lower_sorbian: 'Sorbian: Lower Sorbian'
+    lower_sorbian: 'Sorbio, Bajo Sorbio'
     luxembourgish: Luxemburgués
     macedonian: Macedonio
     maori: Maorí
@@ -105,7 +105,7 @@ es:
     slovak: Eslovaco
     slovenian: Esloveno
     sorbian: Sorbio
-    south_american: South American Indian (other)
+    south_american: Nativo sudamericano (Otro)
     spanish: Español
     swedish: Sueco
     swiss_german: Suizo-alemán
@@ -116,7 +116,7 @@ es:
     tsimshian: Tsimshian
     turkish: Turco
     ukrainian: Ucraniano
-    upper_sorbian: 'Sorbian: Upper Sorbian'
+    upper_sorbian: 'Sorbio, Alto Sorbio'
     vietnamese: Vietnamita
     welsh: Galés
     west_frisian: Frisón occidental
@@ -271,7 +271,7 @@ es:
     associated_institution: Institución asociada
     associated_name: Nombre asociado
     associated_name_lit: Nombre asociado
-    associated_place: Associated place
+    associated_place: Lugar asociado
     attribution_qualifier: Calificador de atribución
     authentication_code: Código de autenticación
     author: Autor
@@ -440,7 +440,7 @@ es:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Facsímil
-    family_name: Familia
+    family_name: Apellido
     father_of: Padre de
     field_link: Enlace de campo y número de secuencia
     field_of_activity: Campo de actividad
@@ -676,7 +676,7 @@ es:
     performer: Intérprete
     performer_note: Nota sobre ocasión de interpretación
     person: Persona
-    person_name: Person name
+    person_name: Nombre personal
     personal_name: Nombre de pila
     personal_names: Nombres personales
     photoreproductive_process: Proceso fotoreproductivo
@@ -708,17 +708,17 @@ es:
     publisher: Editor (publicador)/Editorial (publicadora)
     publisher_copyist: Editor, copista
     publisher_number: Número de la editorial
-    publisher_plate_number: Plate or publisher number
+    publisher_plate_number: Número de placa o del editor
     publishing_printing_production: Información de publicación, impresión y producción
     qualifying_information: Información calificada
     range_dates: Rango de fechas
-    real_world_object_uri: Real world object URI
+    real_world_object_uri: URI de Objeto del mundo real
     record_actions: Acciones del registro
-    record_audit: Record audit
+    record_audit: Valoración de registros
     record_origin: Origen del registro
     record_status: Estado del registro
     reference_instruction_phrase: Frase de instrucción de referencia en el subcampo $i
-    reference_record_id: Reference record ID
+    reference_record_id: Registro de referencia eliminado
     references: Bibliografía
     references_and_notes: Referencias y notas
     region_active: Región de actividad
@@ -728,7 +728,7 @@ es:
     related_place: Lugar relacionado
     related_resources: Recursos relacionados
     related_source: Fuente relacionada
-    related_titles: Related titles
+    related_titles: Títulos relacionados
     related_to: relacionado/a con
     related_work: Obra relacionada
     relation: Relación
@@ -780,12 +780,12 @@ es:
     standard_watermarks: Marcas de agua estándar
     standardized_title: Título uniforme
     standardized_titles_printed_music: Títulos uniformes para música impresa
-    standardized_titles_subject_headings: Standardized titles—Subject headings
+    standardized_titles_subject_headings: Títulos uniformes – Descriptores
     start_period: Periodo inicial
     street_address: Calle y número
     strings: Cuerdas
     subheading: Tipo especial de fuente
-    subheading_general: Subheading general subdivision
+    subheading_general: Subdivisión general
     subject_access_fields: Campos de los puntos de acceso
     subject_heading: Descriptor
     subject_headings: Descriptores
@@ -884,7 +884,7 @@ es:
     ERR_021_CHORD_NOTE_AFTER: Para indicar un acorde, a todo "^" debe seguirle una nota.
     ERR_022_BEAM_MENSURAL: Los barrados "{" no pueden ser usados en notación mensural.
     ERR_023_BEAM_NESTED: No comience un barrado "{" sin antes cerrar el anterior.
-    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
+    ERR_024_BEAM_CLOSING: 'Hay un "}" de más en el cierre del barrado. Bórrelo o indique dónde comienza el barrado con "{".'
     ERR_025_BEAM_OPEN: Cierre el barrado con "}" antes del final del compás.
     ERR_026_GRACE_NESTED: Cierre la apoggiatura con "r" antes de iniciar una nueva.
     ERR_027_GRACE_CLOSING: Hay una "r" (cierre de apoggiatura) de más. Bórrela o añada "qq" para indicar el comienzo de otra apoggiatura.
@@ -912,11 +912,11 @@ es:
     ERR_049_TIMESIG_MENS: La indicación de compás no tiene la forma correcta.
     ERR_050_INVALID_CHAR: 'Borre los siguientes caracteres inválidos: %{value}'
     ERR_051_BARLINE: La barra de compás no tiene la forma correcta.
-    ERR_052_DURATION: "Duration cannot be interpreted."
+    ERR_052_DURATION: "La duración no puede ser cero."
     ERR_053_DURATION_MENS3: La duración no puede ser "3" en notación mensural.
     ERR_054_DURATION_MENS5: La duración no puede ser "5" en notación mensural.
     ERR_055_KEYSIG_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_056_TIMESIG_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_057_MENSUR_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
-    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
-    ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
+    ERR_058_FERMATA_MREST: "Los paréntesis de una fermata solo deben contener una nota o descanso '%{value}'"
+    ERR_059_DOUBLE_DOTS_MENS: "Las notas de doble punto no son válidas con notación mensural."
