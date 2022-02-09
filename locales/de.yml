@@ -271,7 +271,7 @@ de:
     associated_institution: Beziehung Körperschaft
     associated_name: Zugehöriger Name
     associated_name_lit: Behandelte Person
-    associated_place: Associated place
+    associated_place: Zugehöriger Ort
     attribution_qualifier: Zuschreibungsvermerk
     authentication_code: Individualsierung
     author: Autor
@@ -676,7 +676,7 @@ de:
     performer: Interpret
     performer_note: Bemerkungen zu den Aufführungen
     person: Person
-    person_name: Person name
+    person_name: Personenname
     personal_name: Personenname
     personal_names: Personen
     photoreproductive_process: Blaupause
@@ -708,11 +708,11 @@ de:
     publisher: Verleger
     publisher_copyist: Schreiber, Verleger, Verlag
     publisher_number: Verlagsnummer
-    publisher_plate_number: Plate or publisher number
+    publisher_plate_number: Verlags- oder Plattennummer
     publishing_printing_production: Abschrift oder Impressum
     qualifying_information: Qualifizierende Informationen
     range_dates: Datierungsbereich
-    real_world_object_uri: Real world object URI
+    real_world_object_uri: Real-World-Objekt-URI
     record_actions: Titel veröffentlichen
     record_audit: Record audit
     record_origin: Herkunft
