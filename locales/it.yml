@@ -1,7 +1,7 @@
 it:
   general:
     created_at: "Data di creazione"
-    e_mail: Email
+    e_mail: E-mail
     editor_help: Guida all'editor
     faq: Domande frequenti
     female: Femmina
@@ -13,8 +13,8 @@ it:
     rism: RISM
     rism_best_practices: Miglior pratica RISM
     rism_instrument_abbreviations: Abbreviazioni RISM per gli strumenti (continua)
-    rism_series: RISM series
-    rism_series_a_b_references: RISM series A/I and B reference
+    rism_series: Serie RISM
+    rism_series_a_b_references: Rimandi a RISM A/I e RISM B
     rism_series_number: Numero RISM
     rule_type: Regole di cat.
     scope_printed_music_rism: Copertura delle edizioni musicali a stampa in RISM
@@ -38,16 +38,16 @@ it:
     arabic: Arabo
     aragonese: Aragonese
     armenian: Armeno
-    artificial: Artificial (other)
+    artificial: Artificiale (altro)
     australian: Lingue australiane
     basque: Basco
     bengali: Bengalese
     bosnian: Bosniaco
     bulgarian: Bulgaro
     catalan: Catalano
-    celtic_other: Celtic (other)
+    celtic_other: Celtico (altro)
     chinese: Cinese
-    creoles_pidgins_other: Creoles and Pidgins (other)
+    creoles_pidgins_other: Lingue creole e pidgin (altre)
     croatian: Croato
     czech: Ceco
     danish: Danese
@@ -76,7 +76,7 @@ it:
     latvian: Lettone
     lithuanian: Lituano
     low_german: Basso sassone
-    lower_sorbian: 'Sorbian: Lower Sorbian'
+    lower_sorbian: 'Sorabo inferiore'
     luxembourgish: Lussemburghese
     macedonian: Macedone
     maori: Māori
@@ -105,7 +105,7 @@ it:
     slovak: Slovacco
     slovenian: Sloveno
     sorbian: Sorabo
-    south_american: South American Indian (other)
+    south_american: Indiano sudamericano (Altro)
     spanish: Spagnolo
     swedish: Svedese
     swiss_german: Svizzero tedesco
@@ -116,7 +116,7 @@ it:
     tsimshian: Tsimshian
     turkish: Turco
     ukrainian: Ucraino
-    upper_sorbian: 'Sorbian: Upper Sorbian'
+    upper_sorbian: 'Sorabo superiore'
     vietnamese: Vietnamita
     welsh: Gallese
     west_frisian: Frisone occidentale
@@ -271,7 +271,7 @@ it:
     associated_institution: Istituzioni correlate
     associated_name: Nome associato
     associated_name_lit: Nome associato
-    associated_place: Associated place
+    associated_place: Luogo associato
     attribution_qualifier: Qualificazione d'attribuzione
     authentication_code: Codice di autenticazione
     author: Autore
@@ -676,7 +676,7 @@ it:
     performer: Interprete
     performer_note: Nota sull'esecuzione
     person: Persona
-    person_name: Person name
+    person_name: Nome di persona
     personal_name: Nome di persona
     personal_names: Nomi di persona
     photoreproductive_process: Cianografia
@@ -708,17 +708,17 @@ it:
     publisher: Editore
     publisher_copyist: Copista, editore, casa editrice
     publisher_number: Numero dell'editore
-    publisher_plate_number: Plate or publisher number
+    publisher_plate_number: Numero della lastra o dell'editore
     publishing_printing_production: Copia o dati editoriali
     qualifying_information: Informazioni qualificanti
     range_dates: Ambito di datazione
-    real_world_object_uri: Real world object URI
+    real_world_object_uri: Oggetto URI
     record_actions: Azioni per la scheda
-    record_audit: Record audit
+    record_audit: Controllo del record
     record_origin: Origine della scheda
     record_status: Stato della scheda
     reference_instruction_phrase: Frase di istruzioni di riferimento nel sottocampo $i
-    reference_record_id: Reference record ID
+    reference_record_id: ID di riferimento per il record
     references: Bibliografia
     references_and_notes: Bibliografia e note
     region_active: Regione di attività
@@ -728,7 +728,7 @@ it:
     related_place: Luogo correlato
     related_resources: Collegamenti
     related_source: Fonte correlata
-    related_titles: Related titles
+    related_titles: Titoli correlati
     related_to: Parente di
     related_work: Opera correlata
     relation: Relazione
@@ -780,12 +780,12 @@ it:
     standard_watermarks: Descrizione standard di filigrane
     standardized_title: Titolo uniforme
     standardized_titles_printed_music: Titolo uniforme di edizioni musicali a stampa
-    standardized_titles_subject_headings: Standardized titles—Subject headings
+    standardized_titles_subject_headings: Titolo uniforme - Soggetto
     start_period: Inizio del periodo
     street_address: Via e numero civico
     strings: Archi
     subheading: Suddivisione formale
-    subheading_general: Subheading general subdivision
+    subheading_general: Suddivisione generale
     subject_access_fields: Soggetto
     subject_heading: Soggetto
     subject_headings: Soggetto
