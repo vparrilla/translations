@@ -1,7 +1,7 @@
 de:
   general:
     created_at: "Erstellungsdatum"
-    e_mail: E-Mail
+    e_mail: Email
     editor_help: Editor Hilfe
     faq: Häufig gestellte Fragen
     female: Weiblich
@@ -13,8 +13,8 @@ de:
     rism: RISM
     rism_best_practices: RISM BEST PRACTISES
     rism_instrument_abbreviations: Stimmen- und Instrumentenbezeichnungen tabellarisch (Fortsetzung)
-    rism_series: RISM-Serien
-    rism_series_a_b_references: Querverweise zu RISM A/I und RISM B
+    rism_series: RISM series
+    rism_series_a_b_references: RISM series A/I and B reference
     rism_series_number: RISM-Seriennummer
     rule_type: Regelwerk
     scope_printed_music_rism: Umfang der Dokumentation von Musikdrucke in RISM
@@ -38,16 +38,16 @@ de:
     arabic: Arabisch
     aragonese: Aragonesisch
     armenian: Armenisch
-    artificial: Kunstsprache (andere)
+    artificial: Artificial (other)
     australian: Australische Sprachen
     basque: Baskisch
     bengali: Bengalisch
     bosnian: Bosnisch
     bulgarian: Bulgarisch
     catalan: Katalanisch
-    celtic_other: Keltisch (andere)
+    celtic_other: Celtic (other)
     chinese: Chinesisch
-    creoles_pidgins_other: Kreolisch und Kauderwelsch (andere)
+    creoles_pidgins_other: Creoles and Pidgins (other)
     croatian: Kroatisch
     czech: Tschechisch
     danish: Dänisch
@@ -76,7 +76,7 @@ de:
     latvian: Lettisch
     lithuanian: Litauisch
     low_german: Niederdeutsch
-    lower_sorbian: Sorbisch, Niedersorbisch
+    lower_sorbian: 'Sorbian: Lower Sorbian'
     luxembourgish: Luxemburgisch
     macedonian: Mazedonisch
     maori: Māori
@@ -105,7 +105,7 @@ de:
     slovak: Slowakisch
     slovenian: Slowenisch
     sorbian: Sorbisch
-    south_american: Südamerikanische Indianer (andere)
+    south_american: South American Indian (other)
     spanish: Spanisch
     swedish: Schwedisch
     swiss_german: Schweizerdeutsch
@@ -116,7 +116,7 @@ de:
     tsimshian: Tsimshian
     turkish: Türkisch
     ukrainian: Ukrainisch
-    upper_sorbian: Sorbisch, Obersorbisch
+    upper_sorbian: 'Sorbian: Upper Sorbian'
     vietnamese: Vietnamesisch
     welsh: Walisisch
     west_frisian: Westfriesisch
@@ -271,7 +271,7 @@ de:
     associated_institution: Beziehung Körperschaft
     associated_name: Zugehöriger Name
     associated_name_lit: Behandelte Person
-    associated_place: Zugehöriger Ort
+    associated_place: Associated place
     attribution_qualifier: Zuschreibungsvermerk
     authentication_code: Individualsierung
     author: Autor
@@ -676,7 +676,7 @@ de:
     performer: Interpret
     performer_note: Bemerkungen zu den Aufführungen
     person: Person
-    person_name: Personenname
+    person_name: Person name
     personal_name: Personenname
     personal_names: Personen
     photoreproductive_process: Blaupause
@@ -708,17 +708,17 @@ de:
     publisher: Verleger
     publisher_copyist: Schreiber, Verleger, Verlag
     publisher_number: Verlagsnummer
-    publisher_plate_number: Verlags- oder Plattennummer
+    publisher_plate_number: Plate or publisher number
     publishing_printing_production: Abschrift oder Impressum
     qualifying_information: Qualifizierende Informationen
     range_dates: Datierungsbereich
-    real_world_object_uri: Real-World-Objekt-URI
+    real_world_object_uri: Real world object URI
     record_actions: Titel veröffentlichen
-    record_audit: RECORD AUDIT
+    record_audit: Record audit
     record_origin: Herkunft
     record_status: RECORD STATUS
     reference_instruction_phrase: Referenzanweisungsphrase im Unterfeld $i
-    reference_record_id: REFERENCE RECORD ID
+    reference_record_id: Reference record ID
     references: Literatur
     references_and_notes: Literatur und Bemerkungen
     region_active: Wirkungsregion
@@ -728,7 +728,7 @@ de:
     related_place: Ort
     related_resources: Links
     related_source: Verwandte Quelle
-    related_titles: Verlinkungen
+    related_titles: Related titles
     related_to: Verwandt mit
     related_work: zugehörige Werke
     relation: Bedeutung
@@ -780,12 +780,12 @@ de:
     standard_watermarks: Wasserzeichen
     standardized_title: Einordnungstitel
     standardized_titles_printed_music: Einordnungstitel für Musikdrucke
-    standardized_titles_subject_headings: Einordnungstitel - Schlagworte
+    standardized_titles_subject_headings: Standardized titles—Subject headings
     start_period: Beginn der Periode
     street_address: Strasse
     strings: Streichinstrumente
     subheading: Unterteilung nach der Form
-    subheading_general: Allgemeine Unterteilung
+    subheading_general: Subheading general subdivision
     subject_access_fields: Schlagworteintragungen
     subject_heading: Schlagworteintragung
     subject_headings: Schlagworte
