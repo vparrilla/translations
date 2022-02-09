@@ -1,7 +1,7 @@
 en:
   general:
     created_at: "Created on"
-    e_mail: Email
+    e_mail: E-mail
     editor_help: Editor help
     faq: Frequently asked questions
     female: Female
@@ -13,8 +13,8 @@ en:
     rism: RISM
     rism_best_practices: RISM best practices
     rism_instrument_abbreviations: RISM instrument abbreviations (continued)
-    rism_series: RISM series
-    rism_series_a_b_references: RISM series A/I and B reference
+    rism_series: RISM Series
+    rism_series_a_b_references: RISM Series A/I and B reference
     rism_series_number: RISM series number
     rule_type: Rule type
     scope_printed_music_rism: Scope of printed music in RISM
@@ -38,16 +38,16 @@ en:
     arabic: Arabic
     aragonese: Aragonese
     armenian: Armenian
-    artificial: Artificial (other)
+    artificial: Artificial (Other)
     australian: Australian languages
     basque: Basque
     bengali: Bengali
     bosnian: Bosnian
     bulgarian: Bulgarian
     catalan: Catalan
-    celtic_other: Celtic (other)
+    celtic_other: Celtic (Other)
     chinese: Chinese
-    creoles_pidgins_other: Creoles and Pidgins (other)
+    creoles_pidgins_other: Creoles and Pidgins (Other)
     croatian: Croatian
     czech: Czech
     danish: Danish
@@ -76,7 +76,7 @@ en:
     latvian: Latvian
     lithuanian: Lithuanian
     low_german: Low German
-    lower_sorbian: 'Sorbian: Lower Sorbian'
+    lower_sorbian: Sorbian, Lower Sorbian
     luxembourgish: Luxembourgish
     macedonian: Macedonian
     maori: Maori
@@ -105,7 +105,7 @@ en:
     slovak: Slovak
     slovenian: Slovenian
     sorbian: Sorbian
-    south_american: South American Indian (other)
+    south_american: South American Indian (Other)
     spanish: Spanish
     swedish: Swedish
     swiss_german: Swiss German
@@ -116,7 +116,7 @@ en:
     tsimshian: Tsimshian
     turkish: Turkish
     ukrainian: Ukrainian
-    upper_sorbian: 'Sorbian: Upper Sorbian'
+    upper_sorbian: Sorbian, Upper Sorbian
     vietnamese: Vietnamese
     welsh: Welsh
     west_frisian: West Frisian
@@ -271,7 +271,7 @@ en:
     associated_institution: Associated institution
     associated_name: Associated name
     associated_name_lit: Associated name
-    associated_place: Associated place
+    associated_place: Associated Place
     attribution_qualifier: Attribution qualifier
     authentication_code: Authentication code
     author: Author
@@ -679,7 +679,7 @@ en:
     performer: Performer
     performer_note: Performer note
     person: Person
-    person_name: Person name
+    person_name: Person Name
     personal_name: Personal name
     personal_names: Personal names
     photoreproductive_process: Photoreproductive process (bluprint)
@@ -711,17 +711,17 @@ en:
     publisher: Publisher
     publisher_copyist: Publisher, copyist
     publisher_number: Publisher Number
-    publisher_plate_number: Plate or publisher number
+    publisher_plate_number: Publisher or Plate number
     publishing_printing_production: Publishing, printing and production information
     qualifying_information: Qualifying information
     range_dates: Range of dates
-    real_world_object_uri: Real world object URI
+    real_world_object_uri: Real World Object URI
     record_actions: Record actions
-    record_audit: Record audit
+    record_audit: RECORD AUDIT
     record_origin: Record origin
     record_status: Record status
     reference_instruction_phrase: Reference instruction phrase in subfield $i
-    reference_record_id: Reference record ID
+    reference_record_id: REFERENCE RECORD ID
     references: References
     references_and_notes: References and notes
     region_active: Region active
@@ -731,7 +731,7 @@ en:
     related_place: Related place
     related_resources: Related resources
     related_source: Related source
-    related_titles: Related titles
+    related_titles: Related Titles
     related_to: Related to
     related_work: Related work
     relation: Relation
@@ -783,12 +783,12 @@ en:
     standard_watermarks: Standard watermarks
     standardized_title: Standardized title
     standardized_titles_printed_music: Standardized titles for printed music
-    standardized_titles_subject_headings: Standardized titles—Subject headings
+    standardized_titles_subject_headings: Standardized titles - Subject headings
     start_period: Start period
     street_address: Street address
     strings: Strings
     subheading: Subheading
-    subheading_general: Subheading general subdivision
+    subheading_general: Subheading General subdivision
     subject_access_fields: Subject access fields
     subject_heading: Subject heading
     subject_headings: Subject headings
