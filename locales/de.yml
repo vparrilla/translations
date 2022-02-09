@@ -1,7 +1,7 @@
 de:
   general:
     created_at: "Erstellungsdatum"
-    e_mail: Email
+    e_mail: E-Mail
     editor_help: Editor Hilfe
     faq: Häufig gestellte Fragen
     female: Weiblich
@@ -13,8 +13,8 @@ de:
     rism: RISM
     rism_best_practices: RISM BEST PRACTISES
     rism_instrument_abbreviations: Stimmen- und Instrumentenbezeichnungen tabellarisch (Fortsetzung)
-    rism_series: RISM series
-    rism_series_a_b_references: RISM series A/I and B reference
+    rism_series: RISM-Serien
+    rism_series_a_b_references: Querverweise zu RISM A/I und RISM B
     rism_series_number: RISM-Seriennummer
     rule_type: Regelwerk
     scope_printed_music_rism: Umfang der Dokumentation von Musikdrucke in RISM
@@ -38,16 +38,16 @@ de:
     arabic: Arabisch
     aragonese: Aragonesisch
     armenian: Armenisch
-    artificial: Artificial (other)
+    artificial: Kunstsprache (andere)
     australian: Australische Sprachen
     basque: Baskisch
     bengali: Bengalisch
     bosnian: Bosnisch
     bulgarian: Bulgarisch
     catalan: Katalanisch
-    celtic_other: Celtic (other)
+    celtic_other: Keltisch (andere)
     chinese: Chinesisch
-    creoles_pidgins_other: Creoles and Pidgins (other)
+    creoles_pidgins_other: Kreolisch und Kauderwelsch (andere)
     croatian: Kroatisch
     czech: Tschechisch
     danish: Dänisch
@@ -76,7 +76,7 @@ de:
     latvian: Lettisch
     lithuanian: Litauisch
     low_german: Niederdeutsch
-    lower_sorbian: 'Sorbian: Lower Sorbian'
+    lower_sorbian: 'Sorbisch, Niedersorbisch'
     luxembourgish: Luxemburgisch
     macedonian: Mazedonisch
     maori: Māori
@@ -105,7 +105,7 @@ de:
     slovak: Slowakisch
     slovenian: Slowenisch
     sorbian: Sorbisch
-    south_american: South American Indian (other)
+    south_american: Südamerikanische Indianer (andere)
     spanish: Spanisch
     swedish: Schwedisch
     swiss_german: Schweizerdeutsch
@@ -116,7 +116,7 @@ de:
     tsimshian: Tsimshian
     turkish: Türkisch
     ukrainian: Ukrainisch
-    upper_sorbian: 'Sorbian: Upper Sorbian'
+    upper_sorbian: 'Sorbisch, Obersorbisch'
     vietnamese: Vietnamesisch
     welsh: Walisisch
     west_frisian: Westfriesisch
