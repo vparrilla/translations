@@ -714,7 +714,7 @@ de:
     range_dates: Datierungsbereich
     real_world_object_uri: Real-World-Objekt-URI
     record_actions: Titel veröffentlichen
-    record_audit: Record audit
+    record_audit: Datensatzprüfung
     record_origin: Herkunft
     record_status: RECORD STATUS
     reference_instruction_phrase: Referenzanweisungsphrase im Unterfeld $i
