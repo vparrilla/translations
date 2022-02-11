@@ -718,7 +718,7 @@ de:
     record_origin: Herkunft
     record_status: RECORD STATUS
     reference_instruction_phrase: Referenzanweisungsphrase im Unterfeld $i
-    reference_record_id: Reference record ID
+    reference_record_id: Referenzdatensatz ID
     references: Literatur
     references_and_notes: Literatur und Bemerkungen
     region_active: Wirkungsregion
