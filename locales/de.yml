@@ -76,7 +76,7 @@ de:
     latvian: Lettisch
     lithuanian: Litauisch
     low_german: Niederdeutsch
-    lower_sorbian: Sorbisch, Niedersorbisch
+    lower_sorbian: 'Sorbisch, Niedersorbisch'
     luxembourgish: Luxemburgisch
     macedonian: Mazedonisch
     maori: Māori
@@ -116,7 +116,7 @@ de:
     tsimshian: Tsimshian
     turkish: Türkisch
     ukrainian: Ukrainisch
-    upper_sorbian: Sorbisch, Obersorbisch
+    upper_sorbian: 'Sorbisch, Obersorbisch'
     vietnamese: Vietnamesisch
     welsh: Walisisch
     west_frisian: Westfriesisch
@@ -714,11 +714,11 @@ de:
     range_dates: Datierungsbereich
     real_world_object_uri: Real-World-Objekt-URI
     record_actions: Titel veröffentlichen
-    record_audit: RECORD AUDIT
+    record_audit: Datensatzprüfung
     record_origin: Herkunft
     record_status: RECORD STATUS
     reference_instruction_phrase: Referenzanweisungsphrase im Unterfeld $i
-    reference_record_id: REFERENCE RECORD ID
+    reference_record_id: Referenzdatensatz ID
     references: Literatur
     references_and_notes: Literatur und Bemerkungen
     region_active: Wirkungsregion

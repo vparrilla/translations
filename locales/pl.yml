@@ -1,7 +1,7 @@
 pl:
   general:
     created_at: "Data utworzenia"
-    e_mail: E-mail
+    e_mail: Email
     editor_help: Pomoc do edycji
     faq: Odpowiedzi na częste pytania
     female: Kobieta
@@ -76,7 +76,7 @@ pl:
     latvian: Łotewski
     lithuanian: Litewski
     low_german: Dolnoniemiecki
-    lower_sorbian: Dolnołużycki
+    lower_sorbian: 'Dolnołużycki'
     luxembourgish: Luksemburski
     macedonian: Macedoński
     maori: Maoryski
@@ -116,7 +116,7 @@ pl:
     tsimshian: Tsimshiański
     turkish: Turecki
     ukrainian: Ukraiński
-    upper_sorbian: Gbórnołużycki
+    upper_sorbian: 'Gbórnołużycki'
     vietnamese: Wietnamska
     welsh: Walijski
     west_frisian: Zchodniofryzyjski
@@ -440,10 +440,10 @@ pl:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Faksymile
-    family_name: Family name
+    family_name: Nazwisko rodowe
     father_of: Ojciec …
     field_link: Link do pola i kolejny numer
-    field_of_activity: Field of activity
+    field_of_activity: Obszar działalności
     figured_bass_scores: Bas cyfrowany w partyturze i / lub w innych częściach
     fijian: Fidżyjski
     fingerprint_identifier: Identyfikator odcisku palca
@@ -714,11 +714,11 @@ pl:
     range_dates: Zakres dat
     real_world_object_uri: Identyfikator URI obiektu świata rzeczywistego
     record_actions: Działania na rekordzie
-    record_audit: RECORD AUDIT
+    record_audit: Record audit
     record_origin: Pochodzenie rekordu
     record_status: Status rekordu
     reference_instruction_phrase: Referencyjna fraza instrukcji w podpolu $i
-    reference_record_id: Referncyjny identyfikator RISM
+    reference_record_id: Referncyjny identyfikator
     references: Odniesienia
     references_and_notes: Odniesienia i uwagi
     region_active: Region aktywności artystycznej
@@ -884,7 +884,7 @@ pl:
     ERR_021_CHORD_NOTE_AFTER: Aby zaznaczyć akord, po „^” musi nastąpić nuta.
     ERR_022_BEAM_MENSURAL: Belkowanie nie może być stosowane w notacji menzuralnej.
     ERR_023_BEAM_NESTED: Nie rozpoczynaj nowego belkowania „{”, przed zamknięciem poprzedniego „}”.
-    ERR_024_BEAM_CLOSING: 'An extra ''}'' to close a beam is present. Delete it or indicate where the beam starts with ''{''.'
+    ERR_024_BEAM_CLOSING: 'Jest dodatkowe „}” zamykające belowanie. Usuń je lub wskaż, gdzie belka zaczyna się za pomocą „{”.'
     ERR_025_BEAM_OPEN: Zamknij belkę za pomocą „}” przed końcem taktu.
     ERR_026_GRACE_NESTED: Zamknij appoggiaturę za pomocą „r” przed rozpoczęciem nowej.
     ERR_027_GRACE_CLOSING: Jest „r” zamykające apoggiaturę. Usuń je lub dodaj „qq”, aby wskazać, gdzie się zaczyna.

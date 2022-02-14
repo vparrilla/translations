@@ -76,7 +76,7 @@ pt:
     latvian: Letão
     lithuanian: Lituano
     low_german: Baixo alemão
-    lower_sorbian: Sorábio, Baixo Sorábio
+    lower_sorbian: 'Sorábio, Baixo Sorábio'
     luxembourgish: Luxemburguês
     macedonian: Macedônio
     maori: Maori
@@ -116,7 +116,7 @@ pt:
     tsimshian: Tsimshian
     turkish: Turco
     ukrainian: Ucraniano
-    upper_sorbian: Sorábio, Alto Sorábio
+    upper_sorbian: 'Sorábio, Alto Sorábio'
     vietnamese: Vietnamita
     welsh: Galês
     west_frisian: Frisão ocidental
@@ -440,10 +440,10 @@ pt:
     f_plus_4: F+4
     f_plus_5: F+5
     facsimile: Facsímile
-    family_name: Family name
+    family_name: Sobrenome
     father_of: Pai de
     field_link: Ligação de campo e número de sequência
-    field_of_activity: Field of activity
+    field_of_activity: Campo de actividade
     figured_bass_scores: Baixo cifrado
     fijian: Fijianas
     fingerprint_identifier: Identificador de impressão
@@ -676,7 +676,7 @@ pt:
     performer: Intérprete
     performer_note: Performer note
     person: Pessoa
-    person_name: Person Name
+    person_name: Person name
     personal_name: Personal name
     personal_names: Nomes de pessoas
     photoreproductive_process: Processo foto-reprodutivo
@@ -708,17 +708,17 @@ pt:
     publisher: Casa editora
     publisher_copyist: Editor, copista
     publisher_number: Número da editora
-    publisher_plate_number: Número da editora ou de chapa
+    publisher_plate_number: Plate or publisher number
     publishing_printing_production: Informação de publicação, impressão e produção
     qualifying_information: Informação sobre qualificação
     range_dates: Faixa de datas
     real_world_object_uri: Objecto do Mundo Real URI
     record_actions: Ações do registro
-    record_audit: RECORD AUDIT
+    record_audit: Record audit
     record_origin: Origem do registro
     record_status: Estado do registro
     reference_instruction_phrase: Frase de instrução de referência no subcampo $i
-    reference_record_id: REFERENCE RECORD ID
+    reference_record_id: Reference record ID
     references: Referências
     references_and_notes: Notas e referências
     region_active: Region active
@@ -728,7 +728,7 @@ pt:
     related_place: Local relacionado
     related_resources: Related resources
     related_source: Fonte relacionada
-    related_titles: Related Titles
+    related_titles: Related titles
     related_to: Related to
     related_work: Related work
     relation: Relation
@@ -785,7 +785,7 @@ pt:
     street_address: Street address
     strings: Cordas
     subheading: Subdivisão de forma
-    subheading_general: Subheading General subdivision
+    subheading_general: Subheading general subdivision
     subject_access_fields: Campos de acesso por assunto
     subject_heading: Assunto
     subject_headings: Cabeçalhos de assunto

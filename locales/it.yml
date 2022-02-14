@@ -76,7 +76,7 @@ it:
     latvian: Lettone
     lithuanian: Lituano
     low_german: Basso sassone
-    lower_sorbian: Sorabo inferiore
+    lower_sorbian: 'Sorabo inferiore'
     luxembourgish: Lussemburghese
     macedonian: Macedone
     maori: Māori
@@ -116,7 +116,7 @@ it:
     tsimshian: Tsimshian
     turkish: Turco
     ukrainian: Ucraino
-    upper_sorbian: Sorabo superiore
+    upper_sorbian: 'Sorabo superiore'
     vietnamese: Vietnamita
     welsh: Gallese
     west_frisian: Frisone occidentale
@@ -714,11 +714,11 @@ it:
     range_dates: Ambito di datazione
     real_world_object_uri: Oggetto URI
     record_actions: Azioni per la scheda
-    record_audit: RECORD AUDIT
+    record_audit: Controllo del record
     record_origin: Origine della scheda
     record_status: Stato della scheda
     reference_instruction_phrase: Frase di istruzioni di riferimento nel sottocampo $i
-    reference_record_id: Numero identificativo della scheda di riferimento
+    reference_record_id: ID di riferimento per il record
     references: Bibliografia
     references_and_notes: Bibliografia e note
     region_active: Regione di attività
