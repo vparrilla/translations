@@ -718,7 +718,7 @@ pl:
     record_origin: Pochodzenie rekordu
     record_status: Status rekordu
     reference_instruction_phrase: Referencyjna fraza instrukcji w podpolu $i
-    reference_record_id: Reference record ID
+    reference_record_id: Referncyjny identyfikator
     references: Odniesienia
     references_and_notes: Odniesienia i uwagi
     region_active: Region aktywności artystycznej
