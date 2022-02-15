@@ -862,8 +862,6 @@ de:
     keysig: "Akzidentien"
     timesig: "Metrum"
     ERR_001_EMPTY: Geben Sie einen verschlüsselten Incipit ein.
-    ERR_002_JSON_PARSE: "Kann die JSON-Eingabe nicht analysieren."
-    ERR_003_JSON_KEY: "Kein 'Daten' Schlüssel in der JSON-Eingabe."
     ERR_004_KEY_SPACE: Dem Wechsel der Tonart muss ein Leerzeichen folgen.
     ERR_005_CLEF_SPACE: Dem Wechsel des Notenschlüssels muss ein Leerzeichen folgen.
     ERR_006_TIMESIG_SPACE: Dem Taktartwechsel muss ein Leerzeichen folgen.
@@ -901,7 +899,6 @@ de:
     ERR_038_TIE_OPEN: Einem Haltebogen '+' muss eine Note vorangestellt werden.
     ERR_039_TIE_NO_NOTE: Einem Haltebogen '+' muss eine Note vorangestellt werden.
     ERR_040_HIERARCHY_INVALID: Die Reihenfolge der Elemente kann nicht interpretiert werden (%{value}).
-    ERR_041_NESTING_INVALID: "Ungültiges Schachteln der öffnenden und schließenden Tags '%{value}'"
     ERR_042_CLEF_INCOMPLETE: Der Wechsel des Notenschlüssels ist nicht korrekt.
     ERR_043_CLEF_INVALID_2ND: Das zweite Zeichen im Notenschlüssel muss entweder '+' oder '-' sein.
     ERR_044_CLEF_MENS: Mischen Sie keine Mensural- und Nicht-Mensuralschlüssel.
