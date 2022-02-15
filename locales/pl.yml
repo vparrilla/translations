@@ -857,7 +857,7 @@ pl:
     P60183: "Wstawić"
   verovio:
     position: "Position"
-    warning: "Warning"
+    warning: "Uwaga"
     clef: "Klucz"
     keysig: "Znaki przykluczowe"
     timesig: "Metrum"
