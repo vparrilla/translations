@@ -862,8 +862,6 @@ fr:
     keysig: "Armure"
     timesig: "Indication de mesure"
     ERR_001_EMPTY: Saisir un incipit.
-    ERR_002_JSON_PARSE: "Les données d'entrée en JSON ne peuvent pas être traitées."
-    ERR_003_JSON_KEY: "Il n'y a pas de clé 'data dans les données d'entrée en JSON."
     ERR_004_KEY_SPACE: Un changement d'armure doit être suivi d'un espace.
     ERR_005_CLEF_SPACE: Un changement de clef doit être suivi d'un espace.
     ERR_006_TIMESIG_SPACE: Un changement d'indication de mesure doit être suivi d'un espace.
@@ -901,7 +899,6 @@ fr:
     ERR_038_TIE_OPEN: Une liaison de prolongation codée avec '+' doit être suivie d'une note.
     ERR_039_TIE_NO_NOTE: Une liaison de prolongation codée avec '+' doit être précédée d'une note.
     ERR_040_HIERARCHY_INVALID: L'ordre des éléments ne peut pas être interprété (%{value}).
-    ERR_041_NESTING_INVALID: "Imbrication des balises d'ouverture et de fermeture n'est pas valide '%{value}'"
     ERR_042_CLEF_INCOMPLETE: La clef n'est pas codée correctement.
     ERR_043_CLEF_INVALID_2ND: Le deuxième caractère dans le signe de la clef doit être soit '+' soit '-'.
     ERR_044_CLEF_MENS: Ne mélangez pas les clefs mensurales et non mensurales.
