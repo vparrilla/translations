@@ -857,13 +857,11 @@ pl:
     P60183: "Wstawić"
   verovio:
     position: "Position"
-    warning: "Warning"
+    warning: "Uwaga"
     clef: "Klucz"
     keysig: "Znaki przykluczowe"
     timesig: "Metrum"
     ERR_001_EMPTY: Enter an encoded incipit.
-    ERR_002_JSON_PARSE: "Cannot parse the JSON input."
-    ERR_003_JSON_KEY: "No 'data' key in the JSON input."
     ERR_004_KEY_SPACE: Po zmianie znaku przykluczowego należy wprowadzić spację.
     ERR_005_CLEF_SPACE: Po zmianie klucza należy wprowadzić spację.
     ERR_006_TIMESIG_SPACE: Po zmianie metrum należy wprowadzić spację.
@@ -901,7 +899,6 @@ pl:
     ERR_038_TIE_OPEN: Łącznik „+” należy poprzedzić nutą.
     ERR_039_TIE_NO_NOTE: Łącznik „+” należy poprzedzić nutą.
     ERR_040_HIERARCHY_INVALID: Nie można zinterpretować kolejności elementów (%{value}).
-    ERR_041_NESTING_INVALID: "Invalid nesting of opening and closing tags '%{value}'"
     ERR_042_CLEF_INCOMPLETE: Zmiana klucza jest nieprawidłowa.
     ERR_043_CLEF_INVALID_2ND: Drugim znakiem w kluczu musi być „+” lub „-”.
     ERR_044_CLEF_MENS: Nie mieszaj kluczy notacji menzuralnej z kluczami notacji współczesnej.

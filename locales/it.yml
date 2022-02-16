@@ -862,8 +862,6 @@ it:
     keysig: "Armatura di chiave"
     timesig: "Misura"
     ERR_001_EMPTY: Inserisci un incipit codificato.
-    ERR_002_JSON_PARSE: "Impossibile analizzare l'input JSON."
-    ERR_003_JSON_KEY: "Nessuna chiave 'data' nell'input JSON."
     ERR_004_KEY_SPACE: Il cambio di armatura di chiave deve essere seguito da uno spazio.
     ERR_005_CLEF_SPACE: Un cambio di chiave deve essere seguito da uno spazio.
     ERR_006_TIMESIG_SPACE: Il cambio ti tempo deve essere seguito da uno spazio.
@@ -901,7 +899,6 @@ it:
     ERR_038_TIE_OPEN: Una legatura con '+' deve essere seguita da una nota.
     ERR_039_TIE_NO_NOTE: Una legatura con '+' deve essere preceduta da una nota.
     ERR_040_HIERARCHY_INVALID: L'ordine degli elementi non può essere interpretato (%{value}).
-    ERR_041_NESTING_INVALID: "Sequenza non valida dei tag di apertura e chiusura '%{value}'"
     ERR_042_CLEF_INCOMPLETE: La chiave non è nel formato corretto.
     ERR_043_CLEF_INVALID_2ND: Il secondo carattere nel segno della chiave deve essere '+' o '-'.
     ERR_044_CLEF_MENS: Non mischiare chiavi mensurali e non mensurali.

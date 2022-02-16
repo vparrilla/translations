@@ -862,8 +862,6 @@ pt:
     keysig: "Armadura de clave"
     timesig: "Compasso"
     ERR_001_EMPTY: Enter an encoded incipit.
-    ERR_002_JSON_PARSE: "Cannot parse the JSON input."
-    ERR_003_JSON_KEY: "No 'data' key in the JSON input."
     ERR_004_KEY_SPACE: A key signature change must be followed by a space.
     ERR_005_CLEF_SPACE: A clef change must be followed by a space.
     ERR_006_TIMESIG_SPACE: A time signature change must be followed by a space.
@@ -901,7 +899,6 @@ pt:
     ERR_038_TIE_OPEN: A tie using '+' must be followed by a note.
     ERR_039_TIE_NO_NOTE: A tie using '+' must be preceded by a note.
     ERR_040_HIERARCHY_INVALID: The order of elements cannot be interpreted (%{value}).
-    ERR_041_NESTING_INVALID: "Invalid nesting of opening and closing tags '%{value}'"
     ERR_042_CLEF_INCOMPLETE: The clef is not in the correct form.
     ERR_043_CLEF_INVALID_2ND: The second character in the clef sign must be either '+' or '-'.
     ERR_044_CLEF_MENS: Do not mix mensural and non-mensural clefs.
