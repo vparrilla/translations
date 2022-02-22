@@ -494,7 +494,7 @@ es:
     identity: Identidad
     identity_area: Identidad
     iiif_manifest: "IIIF manifest (digitized source)"
-    iiif_manifest_other: "IIIF Manifest (other)"
+    iiif_manifest_other: "IIIF manifest (other)"
     illustrator: Ilustrador
     immediate_parent_body: Padre inmediato
     import: Importación
