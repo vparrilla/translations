@@ -752,7 +752,7 @@ pl:
     series_statement: Pola uwag do serii
     set: Zbiór
     shelfmark: Sygnatura
-    shelfmark_olim: Former shelfmark (olim)
+    shelfmark_olim: Poprzednia sygnatura (olim)
     short_title: Skrócony tytuł
     sigla: Sigla
     siglum: Siglum
@@ -861,7 +861,7 @@ pl:
     clef: "Klucz"
     keysig: "Znaki przykluczowe"
     timesig: "Metrum"
-    ERR_001_EMPTY: Enter an encoded incipit.
+    ERR_001_EMPTY: Wprowadź zakodowany incipit.
     ERR_004_KEY_SPACE: Po zmianie znaku przykluczowego należy wprowadzić spację.
     ERR_005_CLEF_SPACE: Po zmianie klucza należy wprowadzić spację.
     ERR_006_TIMESIG_SPACE: Po zmianie metrum należy wprowadzić spację.
