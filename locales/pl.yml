@@ -493,7 +493,8 @@ pl:
     holdings_location: Pola egzemplarza, lokalizacji itp.
     identity: Tożsamość
     identity_area: Obszar tożsamości
-    iiif_manifest: Manifest IIIF
+    iiif_manifest: "IIIF manifest (digitized source)"
+    iiif_manifest_other: "IIIF Manifest (other)"
     illustrator: Ilustrator
     immediate_parent_body: Natychmiastowy rodzic
     import: Import
