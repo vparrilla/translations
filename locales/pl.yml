@@ -493,8 +493,8 @@ pl:
     holdings_location: Pola egzemplarza, lokalizacji itp.
     identity: Tożsamość
     identity_area: Obszar tożsamości
-    iiif_manifest: "IIIF manifest (digitized source)"
-    iiif_manifest_other: "IIIF Manifest (other)"
+    iiif_manifest: "Manifest IIIF (źródło zdigitalizowane)"
+    iiif_manifest_other: "IIIF manifest (other)"
     illustrator: Ilustrator
     immediate_parent_body: Natychmiastowy rodzic
     import: Import
@@ -715,7 +715,7 @@ pl:
     range_dates: Zakres dat
     real_world_object_uri: Identyfikator URI obiektu świata rzeczywistego
     record_actions: Działania na rekordzie
-    record_audit: Record audit
+    record_audit: Kontrola rekordu
     record_origin: Pochodzenie rekordu
     record_status: Status rekordu
     reference_instruction_phrase: Referencyjna fraza instrukcji w podpolu $i
@@ -916,5 +916,5 @@ pl:
     ERR_055_KEYSIG_CHANGE: Tonację można zmienić tylko raz w takcie.
     ERR_056_TIMESIG_CHANGE: Metrum można zmienić tylko raz w takcie.
     ERR_057_MENSUR_CHANGE: Menzurę można zmienić tylko raz w takcie.
-    ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
+    ERR_058_FERMATA_MREST: "Nawiasy fermaty mogą zawierać tylko jedną nutę lub pauzę '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
