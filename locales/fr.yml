@@ -493,7 +493,8 @@ fr:
     holdings_location: Données sur la collection, le fonds, etc.
     identity: Identité
     identity_area: Identité
-    iiif_manifest: Manifeste IIIF
+    iiif_manifest: "IIIF manifest (digitized source)"
+    iiif_manifest_other: "IIIF Manifest (other)"
     illustrator: Illustrateur
     immediate_parent_body: Corps du parent immédiat
     import: Dates importés
