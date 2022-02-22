@@ -494,7 +494,7 @@ de:
     identity: Identifizierung
     identity_area: Identity area
     iiif_manifest: "IIIF manifest (digitized source)"
-    iiif_manifest_other: "IIIF Manifest (other)"
+    iiif_manifest_other: "IIIF manifest (other)"
     illustrator: Illustrator
     immediate_parent_body: Unmittelbarer Elternteil
     import: Fremddateneinspielung
