@@ -919,7 +919,7 @@ de:
     ERR_058_FERMATA_MREST: "Die Klammern einer Fermate dürfen nur eine einzige Note oder Pause '%{value}' enthalten"
     ERR_059_DOUBLE_DOTS_MENS: "Doppelpunktierte Noten sind ungültig in der Mensuralnotation."
   testingForCrowdinWorkshop:
-    apple: apple
-    pear: pear
+    apple: Apfel
+    pear: Birne
     table: table
     chair: chair
