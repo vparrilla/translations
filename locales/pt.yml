@@ -288,6 +288,7 @@ pt:
     basso_continuo: Contínuo
     bf_major: Si bemol maior
     bf_minor: Si bemol menor
+    bibliography: Bibliography
     bibliographic_reference: Referência bibliográfica
     binder: Ficheiro
     binding_note: Nota de encadernação
@@ -312,6 +313,7 @@ pt:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
+    catalog: Catalog
     catalog_opus_number: Número de catalogo/Número de Opus
     catalog_works: Catálogo de obras
     cataloging_agency: Agência catalogadora
@@ -337,6 +339,7 @@ pt:
     coded_date: Data codificada
     coded_instrumentation: Instrumentação codificada
     collaborator: Collaborator
+    collective_catalog: Collective catalog
     colophon: Colofão
     common_clefs: Claves comuns
     compiler: Compiler
@@ -415,6 +418,7 @@ pt:
     editor: Editor
     ef_major: Mi bemol maior
     ef_minor: Mi bemol menor
+    encyclopedia: Encyclopedia
     end_period: Período final
     engraver: Gravador
     engraving: Gravação
@@ -610,6 +614,7 @@ pt:
     multiple_copies: Múltiplos exemplares em uma instituição
     multiple_single_dates: Datas múltiplas
     museum: Museu
+    music_edition: Music edition
     music_incipit: Incipit musical
     musical_composition: Composição musical
     name: Nome
@@ -802,6 +807,7 @@ pt:
     terms_voices_instruments: Termos para vozes e instrumentos
     text_author: Autor literário
     text_incipit: Incipit literário
+    thematic_catalog: Thematic catalog
     third_fourth_group: Terceiro/Quarto grupo
     time_signature: Compasso
     title: Title
