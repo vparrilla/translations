@@ -447,7 +447,7 @@ es:
     family_name: Apellido
     father_of: Padre de
     field_link: Enlace de campo y número de secuencia
-    field_of_activity: Campo de actividad
+    field_of_activity: Profesión
     figured_bass_scores: Bajo cifrado
     fijian: Fijiano
     fingerprint_identifier: Identificador tipográfico
@@ -925,7 +925,7 @@ es:
     ERR_058_FERMATA_MREST: "Los paréntesis de una fermata solo deben contener una nota o descanso '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Las notas de doble punto no son válidas con notación mensural."
   testingForCrowdinWorkshop:
-    apple: apple
-    pear: pear
-    table: table
-    chair: chair
+    apple: manzana
+    pear: pera
+    table: tabla
+    chair: presidente
