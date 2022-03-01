@@ -339,7 +339,7 @@ pl:
     coded_date: Znormalizowana data
     coded_instrumentation: Standaryzowany zapis instrumentacji
     collaborator: Współtwórca
-    collective_catalog: Collective catalog
+    collective_catalog: Katalog zbiorczy
     colophon: Kolofon
     common_clefs: Klucze współczesne
     compiler: Kompilator
@@ -863,7 +863,7 @@ pl:
     P60194: "Wstawić do"
     P60183: "Wstawić"
   verovio:
-    position: "Position"
+    position: "Pozycja"
     warning: "Uwaga"
     clef: "Klucz"
     keysig: "Znaki przykluczowe"
