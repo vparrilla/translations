@@ -288,7 +288,7 @@ fr:
     basso_continuo: Basso continuo
     bf_major: Si♭ majeur
     bf_minor: Si♭ mineur
-    bibliography: Bibliography
+    bibliography: Bibliographie
     bibliographic_reference: Référence bibliographique
     binder: Relieur
     binding_note: Reliure
@@ -313,7 +313,7 @@ fr:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
-    catalog: Catalog
+    catalog: Catalogue
     catalog_opus_number: No. de catalogue thématique/Opus
     catalog_works: Catalogue des oeuvres
     cataloging_agency: Agence de catalogation
@@ -339,7 +339,7 @@ fr:
     coded_date: Date et lieu d'un événement
     coded_instrumentation: Instrumentation codée
     collaborator: Collaborateur
-    collective_catalog: Collective catalog
+    collective_catalog: Catalogue collectif
     colophon: Colophon
     common_clefs: Clés communes
     compiler: Compilateur
@@ -418,7 +418,7 @@ fr:
     editor: Editeur
     ef_major: Mi♭ majeur
     ef_minor: Mi♭ mineur
-    encyclopedia: Encyclopedia
+    encyclopedia: Encyclopédie
     end_period: Fin de la période
     engraver: Graveur
     engraving: Gravure
@@ -614,7 +614,7 @@ fr:
     multiple_copies: Exemplaire multiples
     multiple_single_dates: Dates uniques multiples
     museum: Musée
-    music_edition: Music edition
+    music_edition: Édition musicale
     music_incipit: Incipit musical
     musical_composition: Composition musicale
     name: Nom
@@ -807,7 +807,7 @@ fr:
     terms_voices_instruments: Abréviations RISM pour les instruments
     text_author: Parolier
     text_incipit: Incipit du texte
-    thematic_catalog: Thematic catalog
+    thematic_catalog: Catalogue thématique
     third_fourth_group: Troisième/quatrième groupe de caractères
     time_signature: Indication de mesure
     title: Titre
@@ -925,7 +925,7 @@ fr:
     ERR_058_FERMATA_MREST: "Les parenthèses d'un point d'orgue ne doivent contenir qu'une seule note ou un seul silence '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Les notes doubles pointées ne sont pas valides en notation mensurale."
   testingForCrowdinWorkshop:
-    apple: apple
-    pear: pear
-    table: table
-    chair: chair
+    apple: pomme
+    pear: poire
+    table: tableau
+    chair: chaise
