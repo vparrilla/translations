@@ -925,7 +925,7 @@ es:
     ERR_058_FERMATA_MREST: "Los paréntesis de una fermata solo deben contener una nota o descanso '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Las notas de doble punto no son válidas con notación mensural."
   testingForCrowdinWorkshop:
-    apple: manzana
-    pear: pera
-    table: tabla
-    chair: silla
+    apple: apple
+    pear: pear
+    table: table
+    chair: chair
