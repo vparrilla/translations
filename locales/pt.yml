@@ -924,8 +924,3 @@ pt:
     ERR_057_MENSUR_CHANGE: The mensuration cannot be changed more than once in a measure.
     ERR_058_FERMATA_MREST: "The parentheses of a fermata must only contain a single note or rest '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Double-dotted notes are invalid with mensural notation."
-  testingForCrowdinWorkshop:
-    apple: apple
-    pear: pear
-    table: table
-    chair: chair
