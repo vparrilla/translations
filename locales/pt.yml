@@ -483,14 +483,14 @@ pt:
     general_note_institution: Nota geral
     general_note_personal: Nota geral
     geographic_name: Nome geográfico
-    geographic_subdivision: Geographic subdivision
+    geographic_subdivision: Repartição geográfica
     gf_major: Sol bemol maior
     gf_minor: Sol bemol menor
     gs_major: Sol sustenido maior
     gs_minor: Sol sustenido menor
     heading: Cabeçalho
-    heading_composer_name: Heading - composer name
-    heading_personal_name: Heading - Personal name
+    heading_composer_name: Título - nome do compositor
+    heading_personal_name: Título - Nome de pessoa
     heading_personal_name1: Título-Nome de pessoa
     help_transposing_instruments: Ajuda para instrumentos transpositores
     history_institution: História da instituição
@@ -506,8 +506,8 @@ pt:
     incipit: Incipit
     incipit_number: Número de incipit
     incipits: Incipit
-    index_terms: Index terms
-    information_found: Information found
+    index_terms: Indexadores
+    information_found: Informação encontrada
     initial: Inicial
     initial_entry: Entrada inicial
     initials: Iniciais
@@ -515,7 +515,7 @@ pt:
     inserts: Inserções
     institution: Instituição
     institutions: Instituições
-    instrumentalist: Instrumentalist
+    instrumentalist: Instrumentalista
     internal_note: Nota interna
     introduction: Introdução
     invalid_standard_number: Número ou código padrão cancelado/invalido
@@ -527,7 +527,7 @@ pt:
     items_in_source: Itens nesta fonte
     japanese: Japonês
     key: Tonalidade
-    key_or_mode: Key or mode
+    key_or_mode: Tonalidade, modo
     key_signature: Armadura de clave
     keyboards: Teclados
     keys: Tonalidades
@@ -550,29 +550,29 @@ pt:
     life_dates: Datas de nascimento e morte
     link_type: Tipo de Link
     linkage: Ligação
-    linking_entry_fields: Linking entry fields
+    linking_entry_fields: Notas sobre as conexões
     literature: Literatura
-    lithograph: Lithograph
+    lithograph: Litógrafo
     lithographer: Litógrafo
     lithography: Litografia
     liturgical_festival: Festa litúrgica
     liturgical_festivals: Festas litúrgicas
     local_id_number: Número local
     local_note_field: Campo de nota local
-    local_notes_field: Local notes field
+    local_notes_field: Campo de nota local
     local_number: Número local
     location: Local
     location_and_address: Local e endereço
     location_insertion: Localização da inserção
-    location_on_source: Locations on the source
+    location_on_source: Lugar sobre a la fonte
     location_performance: Local de performance
     location_printer: Local de impressão
     longitude: Longitude
     lyricist: Letrista
     main_entry_fields: Campos de entrada principal
-    married_name: Married name
-    married_to: Married to
-    married_with: Married with
+    married_name: Nome casado
+    married_to: Casado/a
+    married_with: Casado/a
     material_description: Descrição de material
     material_examined: Material examinado
     material_held: Material existente
@@ -607,7 +607,7 @@ pt:
     mode_9t: 'Modo: 9º tom (Eólio)'
     mode_9tt: 'Modo: 9º tom (Eólio), transposta'
     modifying_agency: Agência de modificação
-    monogram: Monogram
+    monogram: Monograma
     mother_of: Mãe de
     movement_number: Número de movimento
     multiple: Múltiplos
@@ -618,16 +618,16 @@ pt:
     music_incipit: Incipit musical
     musical_composition: Composição musical
     name: Nome
-    name_family: Name of family
+    name_family: Nome da família
     name_printer: Nome do impressor
     name_variant: Variante de nome
     name_variants: Variantes de nome
     named_dramatic_roles: Papéis dramáticos identificados
     narrower_term: Termo mais estreito
     nationality: Nacionalidade
-    nickname: Nickname
-    no_linguistic_content: No linguistic content
-    non_migrated_bound: Non-migrated bound with value from 563
+    nickname: Apelido
+    no_linguistic_content: Sem conteúdo linguístico
+    non_migrated_bound: Valor não migrado do campo 563 (Encadernado com)
     not_applicable: Não aplicável
     note: Nota
     note_external_resource: Nota sobre recurso externo
@@ -636,7 +636,7 @@ pt:
     now_in: Agora em
     number: Número
     number_page: Número/página
-    number_part_section: Number of part/section of a work
+    number_part_section: Número de parte/seção de um trabalho
     number_volume_part: Número de volume/parte
     numbers_code_fields: Números e campos de código
     octoechos1: 'Octoechos 1: Ēchos prōtos (Primeiro modo bizantino)'
@@ -650,24 +650,24 @@ pt:
     online_finding_aids: Instrumentos de pesquisa on-line
     opera_houses_concert_halls: Teatros de ópera e salas de concerto
     opus_number: Número de opus
-    opus_thematic_index_number: Opus/Thematic index number
-    order_name: Order Name
+    opus_thematic_index_number: Número de índice Opus/Temático
+    order_name: Nome da Ordem
     origin: Origem
-    original_cataloging_agency: Original cataloging agency
+    original_cataloging_agency: Agência original de catálogo
     other: Outro(a) [oth]
     other_associated_place: Outro local associado
     other_designation: Outra designação
-    other_form: Other form
+    other_form: Ortografia alternativa
     other_form_of_name: Outra forma do nome
-    other_function: Other function
+    other_function: Outras funções
     other_help: Outra ajuda
     other_instruments: Outros instrumentos
-    other_life_dates: Other life dates
+    other_life_dates: Outras datas de vida
     other_physical_details: Outros detalhes físicos
-    other_searchform: Other Searchform
+    other_searchform: Outra forma de investigação
     other_shelfmark: Outro código
     other_standard_identifier: Outro identificador padronizado
-    other_variant: Other variant
+    other_variant: Outra variante
     papermaker: Fabricante de papel
     parallel_form: Forma paralela do nome
     parent_record: Registro principal
@@ -677,40 +677,40 @@ pt:
     people: Pessoas
     people_institutions: Pessoas e instituições
     percussion: Percussão
-    performance: Performance
-    performances: Performances
+    performance: Executores
+    performances: Realizações
     performer: Intérprete
-    performer_note: Performer note
+    performer_note: Nota sobre a execução
     person: Pessoa
     person_name: Person name
-    personal_name: Personal name
+    personal_name: Nomes de pessoas
     personal_names: Nomes de pessoas
     photoreproductive_process: Processo foto-reprodutivo
     physical_description: Descrição física
-    physical_description_fields: Physical description, etc. fields
+    physical_description_fields: Campos de descrição física, etc
     place: Local
-    place_active: Place active
-    place_activity: Place of activity
-    place_birth: Place of birth
-    place_death: Place of death
+    place_active: Local ativo
+    place_activity: Campo de actividade
+    place_birth: Local de nascimento
+    place_death: Local de morte
     place_of_residence: Local de residência/sede
-    place_origin: Place of origin
-    place_publication: Place of publication
+    place_origin: Local de origem
+    place_publication: Local
     places: Locais
     plate_number: Número de chapa
     plucked_instruments: Cordas dedilhadas
-    postal_code: Postal code
-    postal_place: Postal place
+    postal_code: Código postal
+    postal_place: Local postal
     preceding_entry: Registro precedente
     printer: Impressor(a)
     printing_technique: Técnica de impressão
-    production: Production
-    production_personnel: Production personnel
-    profession_or_function: Profession or function
+    production: Produção
+    production_personnel: Pessoal da produção
+    profession_or_function: Profissão ou função
     provenance: Proveniência
     provenance_notes: Nota de proveniência
-    pseudonym: Pseudonym
-    public_note: Public note
+    pseudonym: Pseudónimo
+    public_note: Nota pública
     publisher: Casa editora
     publisher_copyist: Editor, copista
     publisher_number: Número da editora
