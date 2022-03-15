@@ -759,7 +759,7 @@ en:
     series: Series
     series_added_entry: Series added entry fields
     series_statement: Series statement fields
-    material_group: Material group
+    set: Set
     shelfmark: Shelfmark
     shelfmark_olim: Former shelfmark (olim)
     short_title: Short title
