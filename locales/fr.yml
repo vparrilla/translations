@@ -57,10 +57,12 @@ fr:
     english: Anglais
     estonian: Estonien
     ethiopic: Éthiopien
+    fijian: Fidjien
     finnish: Finlandais
     french: Français
     french_middle: Français, Moyen (env. 1300-1600)
     french_old: Français, ancien (ca. 842-1300)
+    friulan: Friulan
     gallician: Galician
     german: Allemand
     german_old_high: Allemand, ancien haut (vers 750-1050)
@@ -73,6 +75,7 @@ fr:
     insari_sami: Inari Sami
     irish: Irlandais
     italian: Italien
+    japanese: Japonais
     korean: Coréen
     latin: Latin
     latvian: Letton
@@ -458,7 +461,6 @@ fr:
     format_extent: Type de source, extension
     former_owner: Propriétaire précédent
     fragments: Fragments
-    friulano: Frioulan
     fs_major: Fa♯ majeur
     fs_minor: Fa♯ mineur
     full: Complète
