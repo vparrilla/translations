@@ -937,7 +937,7 @@ es:
     ERR_062_LIGATURE_NOTE_AFTER: To indicate a ligature, a '+' must be followed by a note.
     ERR_063_LIGATURE_PITCH: Una ligadura no puede tener dos notas consecutivas en el mismo tono.
     ERR_064_LIGATURE_DURATION: La duración de una ligadura no puede ser mas corta que una semibreve.
-    ERR_065_MREST_INVALID_MEASURE: A measure with a measure rest cannot include anything else.
+    ERR_065_MREST_INVALID_MEASURE: Un compás con un compás de silencio no puede incluir algo más.
   testingForCrowdinWorkshop:
     apple: manzana
     pear: pera
