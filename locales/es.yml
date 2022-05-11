@@ -932,11 +932,11 @@ es:
     ERR_057_MENSUR_CHANGE: La armadura de clave no puede ser modificada más de una vez en un compás.
     ERR_058_FERMATA_MREST: "Los paréntesis de una fermata solo deben contener una nota o descanso '%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Las notas de doble punto no son válidas con notación mensural."
-    ERR_060_CLEF_MISSING: A clef is required.
-    ERR_061_LIGATURE_NOTE_BEFORE: To indicate a ligature, a '+' must be preceded by a note.
+    ERR_060_CLEF_MISSING: Se necesita una clave
+    ERR_061_LIGATURE_NOTE_BEFORE: Para indicar una ligadura, el signo "+" debe preceder por una nota.
     ERR_062_LIGATURE_NOTE_AFTER: To indicate a ligature, a '+' must be followed by a note.
-    ERR_063_LIGATURE_PITCH: A ligature cannot have two consecutive notes with the same pitch.
-    ERR_064_LIGATURE_DURATION: The duration in a ligature cannot be shorter than a semibreve.
+    ERR_063_LIGATURE_PITCH: Una ligadura no puede tener dos notas consecutivas en el mismo tono.
+    ERR_064_LIGATURE_DURATION: La duración de una ligadura no puede ser mas corta que una semibreve.
     ERR_065_MREST_INVALID_MEASURE: A measure with a measure rest cannot include anything else.
   testingForCrowdinWorkshop:
     apple: manzana
