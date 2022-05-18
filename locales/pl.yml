@@ -913,6 +913,7 @@ pl:
     ERR_038_TIE_OPEN: Łącznik „+” należy poprzedzić nutą.
     ERR_039_TIE_NO_NOTE: Łącznik „+” należy poprzedzić nutą.
     ERR_040_HIERARCHY_INVALID: Nie można zinterpretować kolejności elementów (%{value}).
+    ERR_041_NESTING_INVALID: The nesting of opening and closing tags for '%{value}' is invalid.
     ERR_042_CLEF_INCOMPLETE: Zmiana klucza jest nieprawidłowa.
     ERR_043_CLEF_INVALID_2ND: Drugim znakiem w kluczu musi być „+” lub „-”.
     ERR_044_CLEF_MENS: Nie mieszaj kluczy notacji menzuralnej z kluczami notacji współczesnej.
@@ -931,6 +932,12 @@ pl:
     ERR_057_MENSUR_CHANGE: Menzurę można zmienić tylko raz w takcie.
     ERR_058_FERMATA_MREST: "Nawiasy fermaty mogą zawierać tylko jedną nutę lub pauzę'%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Nuty z podwójnymi kropkami w notacji menzuralnej są nieprawidłowe."
+    ERR_060_CLEF_MISSING: A clef is required.
+    ERR_061_LIGATURE_NOTE_BEFORE: To indicate a ligature, a '+' must be preceded by a note.
+    ERR_062_LIGATURE_NOTE_AFTER: To indicate a ligature, a '+' must be followed by a note.
+    ERR_063_LIGATURE_PITCH: A ligature cannot have two consecutive notes with the same pitch.
+    ERR_064_LIGATURE_DURATION: The duration in a ligature cannot be shorter than a semibreve.
+    ERR_065_MREST_INVALID_MEASURE: A measure with a measure rest cannot include anything else.
   testingForCrowdinWorkshop:
     apple: jabłko
     pear: gruszka
