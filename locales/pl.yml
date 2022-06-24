@@ -913,7 +913,7 @@ pl:
     ERR_038_TIE_OPEN: Łącznik „+” należy poprzedzić nutą.
     ERR_039_TIE_NO_NOTE: Łącznik „+” należy poprzedzić nutą.
     ERR_040_HIERARCHY_INVALID: Nie można zinterpretować kolejności elementów (%{value}).
-    ERR_041_NESTING_INVALID: "With '%{value}' the inner group must be closed before the outer group."
+    ERR_041_NESTING_INVALID: "Zamknij nawias grupy wewnętrznej za pomocą '%{value}' przed zamknięciem nawiasów grupy zewnętrznej."
     ERR_042_CLEF_INCOMPLETE: Zmiana klucza jest nieprawidłowa.
     ERR_043_CLEF_INVALID_2ND: Drugim znakiem w kluczu musi być „+” lub „-”.
     ERR_044_CLEF_MENS: Nie mieszaj kluczy notacji menzuralnej z kluczami notacji współczesnej.
