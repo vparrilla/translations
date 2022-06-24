@@ -933,7 +933,7 @@ pl:
     ERR_058_FERMATA_MREST: "Nawiasy fermaty mogą zawierać tylko jedną nutę lub pauzę'%{value}'"
     ERR_059_DOUBLE_DOTS_MENS: "Nuty z podwójnymi kropkami w notacji menzuralnej są nieprawidłowe."
     ERR_060_CLEF_MISSING: Brakuje klucza.
-    ERR_061_LIGATURE_NOTE_BEFORE: To indicate a ligature, a '+' must be preceded by a note.
+    ERR_061_LIGATURE_NOTE_BEFORE: Dla oznaczenia ligatury przed nutą następuje znak „+”.
     ERR_062_LIGATURE_NOTE_AFTER: Dla oznaczenia ligatury po nucie następuje znak „+”.
     ERR_063_LIGATURE_PITCH: Ligatura nie może składać się z dwóch następujących po sobie nut o takiej samej wysokości.
     ERR_064_LIGATURE_DURATION: Czas trwania ligatury nie może być krótszy niż semibrevis.
