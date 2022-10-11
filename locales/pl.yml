@@ -971,11 +971,11 @@ pl:
     result_types: "Result Types"
     source_relationships: "Source relationships"
     holding_institutions: "Holding institutions"
-    digital_facsimiles: "Digital facsimiles"
-    publication_details: "Publication details"
-    biographical_details: "Biographical details"
-    role_and_profession: "Role and profession"
-    composer_composition: "Composer and composition"
+    digital_facsimiles: "Cyfrowe faksymile"
+    publication_details: "Szczegóły publikacji"
+    biographical_details: "Szczegóły bibliograficzne"
+    role_and_profession: "Funkcja i zawód"
+    composer_composition: "Kompozytor i kompozycja"
   testingForCrowdinWorkshop:
     apple: jabłko
     pear: gruszka
