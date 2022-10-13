@@ -976,6 +976,7 @@ es:
     biographical_details: "Detalles biográficos"
     role_and_profession: "Función y profesión"
     composer_composition: "Compositor y composición"
+    full_record: "Full Record"
   testingForCrowdinWorkshop:
     apple: manzana
     pear: pera
