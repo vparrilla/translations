@@ -1,10 +1,10 @@
 ca:
   general:
-    created_at: "Created on"
+    created_at: "Creat el"
     e_mail: Email
-    editor_help: Editor help
-    faq: Frequently asked questions
-    female: Female
+    editor_help: Ajuda per l'editor
+    faq: Preguntes freqüents
+    female: Dona
     how_do_i: How do I ... Tips & Tricks
     index_marc_fields: Index of MARC fields
     male: Male
