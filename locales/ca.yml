@@ -5,14 +5,14 @@ ca:
     editor_help: Ajuda per l'editor
     faq: Preguntes freqüents
     female: Dona
-    how_do_i: How do I ... Tips & Tricks
-    index_marc_fields: Index of MARC fields
-    male: Male
-    marc_tag_index: MARC tag index
+    how_do_i: Com podria? Suggeriments i pistes
+    index_marc_fields: Índex dels camps MARC
+    male: Home
+    marc_tag_index: Índex de les etiquetes MARC
     'no': 'No'
     rism: RISM
-    rism_best_practices: RISM best practices
-    rism_instrument_abbreviations: RISM instrument abbreviations (continued)
+    rism_best_practices: Bones pràctiques al RISM
+    rism_instrument_abbreviations: Abreviatures d'instruments usades al RISM (continuació)
     rism_series: RISM series
     rism_series_a_b_references: RISM series A/I and B reference
     rism_series_number: RISM series number
