@@ -70,55 +70,55 @@ ca:
     germanic: Germànic
     greek_ancient: Grec antic (fins el 1453)
     greek_modern: Grec modern (1453-)
-    hebrew: Hebrew
-    hungarian: Hungarian
-    icelandic: Icelandic
+    hebrew: Hebreu
+    hungarian: Hongarès
+    icelandic: Islandès
     insari_sami: Inari Sami
-    irish: Irish
-    italian: Italian
+    irish: Irlandès
+    italian: Italià
     japanese: Japanese
-    korean: Korean
-    latin: Latin
-    latvian: Latvian
-    lithuanian: Lithuanian
-    low_german: Low German
+    korean: Coreà
+    latin: Llatí
+    latvian: Letó
+    lithuanian: Lituà
+    low_german: Baix alemany
     lower_sorbian: 'Sorbian: Lower Sorbian'
-    luxembourgish: Luxembourgish
-    macedonian: Macedonian
+    luxembourgish: Luxemburguès
+    macedonian: Macedònic
     maori: Maori
-    middle_english: Middle English
+    middle_english: Anglès mitjà
     middle_high_german: Middle High German
-    mongolian: Mongolian
-    neapolitan: Neapolitan
-    north_frisian: North Frisian
-    norwegian: Norwegian
-    occitan: Occitan
+    mongolian: Mongol
+    neapolitan: Napolità
+    north_frisian: Frisó septentrional
+    norwegian: Noruec
+    occitan: Occità
     oirat: Oirat
-    old_church_slavonic: Old Church Slavonic
-    persian: Persian
-    polish: Polish
-    portugese: Portuguese
-    romani: Romani
-    romanian: Romanian
-    romansh: Romansh
-    russian: Russian
-    sanskrit: Sanskrit
+    old_church_slavonic: Eslau eclesiàstic antic
+    persian: Persa
+    polish: Polonès
+    portugese: Portuguès
+    romani: Romaní
+    romanian: Romanès
+    romansh: Romanx
+    russian: Rus
+    sanskrit: Sànscrit
     scots: Scots
-    serbian: Serbian
-    sichuan_yi: Sichuan Yi
-    sicilian: Sicilian
-    slavic: Slavic
-    slovak: Slovak
-    slovenian: Slovenian
-    sorbian: Sorbian
+    serbian: Serbi
+    sichuan_yi: Sichuanès (mandarí)
+    sicilian: Sicilià
+    slavic: Eslau
+    slovak: Eslovac
+    slovenian: Eslovè
+    sorbian: Sòrab
     south_american: South American Indian (other)
-    spanish: Spanish
-    swedish: Swedish
-    swiss_german: Swiss German
-    tagalog: Tagalog
-    tartar: Tatar
-    thai: Thai
-    tibetan: Tibetan
+    spanish: Castellà
+    swedish: Suec
+    swiss_german: Alemany suís
+    tagalog: Tagal
+    tartar: Tàtar
+    thai: Tailandès
+    tibetan: Tibetà
     tsimshian: Tsimshian
     turkish: Turc
     ukrainian: Ucraïnès
@@ -245,20 +245,20 @@ ca:
     access_restrictions: Restriccions d'accés
     accession_number: Número d'accés
     acronym: Acrònim
-    added_entry_name: Added entry name
-    additional_author: Additional author
-    additional_bibliographic_information: Additional bibliographic information
-    additional_biographical_information: Additional biographical information
+    added_entry_name: Entrada addicional pel nom
+    additional_author: Autor addicional
+    additional_bibliographic_information: Informació bibliogràfica addicional
+    additional_biographical_information: Informació biogràfica addicional
     additional_choir_voice: Additional choir voice
-    additional_codes: Additional codes following the standard number or code
-    additional_institution: Additional institution
-    additional_personal_name: Additional personal name
-    additional_personal_name_lit: Additional personal name
-    additional_solo_voice: Additional solo voice
-    additional_title: Additional title
-    additional_title_lit: Additional title
-    administration: Administration
-    af_major: A♭ major
+    additional_codes: Codis addicionals a partir del número o codi estàndard
+    additional_institution: Institució addicional
+    additional_personal_name: Nom personal addicional
+    additional_personal_name_lit: Nom personal addicional
+    additional_solo_voice: Veu solista addicional
+    additional_title: Títol addicional
+    additional_title_lit: Títol addicional
+    administration: Adminstració
+    af_major: La bemoll major
     af_minor: A♭ minor
     aide: Aide
     aids: Aids
