@@ -87,7 +87,7 @@ ca:
     macedonian: Macedònic
     maori: Maori
     middle_english: Anglès mitjà
-    middle_high_german: Middle High German
+    middle_high_german: Alemany culte medieval
     mongolian: Mongol
     neapolitan: Napolità
     north_frisian: Frisó septentrional
@@ -178,64 +178,64 @@ ca:
     hong_kong: Hong Kong
     hungary: Hongria
     iceland: Islàndia
-    india: India
-    indonesia: Indonesia
-    iran: Iran, Islamic Republic of
+    india: Índia
+    indonesia: Indonèsia
+    iran: Iran, República Islàmica de
     iraq: Iraq
-    ireland: Ireland
+    ireland: Irlanda
     israel: Israel
-    italy: Italy
-    italy_trentino_alto_adige: 'Italy: Trentino-Alto Adige'
-    japan: Japan
-    korea: Korea, Republic of
-    latvia: Latvia
-    lithuania: Lithuania
+    italy: Itàlia
+    italy_trentino_alto_adige: 'Itàlia: Trentino-Alto Adige'
+    japan: Japó
+    korea: Corea del Sud
+    latvia: Letònia
+    lithuania: Lituània
     lebanon: Lebanon
-    luxembourg: Luxembourg
+    luxembourg: Luxemburg
     malta: Malta
-    mexico: Mexico
-    moldavia: Moldavia
-    monaco: Monaco
+    mexico: Mèxic
+    moldavia: Moldàvia
+    monaco: Mònaco
     montenegro: Montenegro
-    netherlands: Netherlands
-    new_zealand: New Zealand
+    netherlands: Països Baixos
+    new_zealand: Nova Zelanda
     nicaragua: Nicaragua
     north_macedonia: North Macedonia
-    northern_ireland: Northern Ireland
-    norway: Norway
+    northern_ireland: Irlanda del Nord
+    norway: Noruega
     pakistan: Pakistan
-    papua_new_guinea: Papua New Guinea
-    paraguay: Paraguay
-    peru: Peru
-    philippines: Philippines
-    poland: Poland
+    papua_new_guinea: Papua Nova Guinea
+    paraguay: Paraguai
+    peru: Perú
+    philippines: Filipines
+    poland: Polònia
     portugal: Portugal
     puerto_rico: Puerto Rico
     romania: Romania
-    russian_federation: Russian Federation
-    saudi_arabia: Saudi Arabia
-    serbia: Serbia
-    slovakia: Slovakia
-    slovenia: Slovenia
-    south_africa: South Africa
-    spain: Spain
-    sweden: Sweden
-    switzerland: Switzerland
-    switzerland_vaud: 'Switzerland: Vaud'
-    syrian_arab_republic: Syrian Arab Republic
-    taiwan: Taiwan (Province of China)
+    russian_federation: Federació Russa
+    saudi_arabia: Aràbia Saudita
+    serbia: Sèrbia
+    slovakia: Eslovàquia
+    slovenia: Eslovènia
+    south_africa: Sud-àfrica
+    spain: Espanya
+    sweden: Suècia
+    switzerland: Suïssa
+    switzerland_vaud: 'Suïssa: cantó de Vaud'
+    syrian_arab_republic: Síria
+    taiwan: Taiwan (província de Xina)
     tajikistan: Tajikistan
-    trinidad_tobego: Trinidad and Tobago
-    turkey: Turkey
-    uk: United Kingdom
-    ukraine: Ukraine
-    uruguay: Uruguay
-    usa: United States of America
+    trinidad_tobego: Trinitat i Tobago
+    turkey: Turquia
+    uk: Regne Unit
+    ukraine: Ucraïna
+    uruguay: Uruguai
+    usa: Estats Units d'Amèrica
     uzbekistan: Uzbekistan
     #holy_see provided for backwards compatibility
     holy_see: Vatican City
     vatican: Vatican City
-    venezuela: Venezuela, Bolivarian Republic of
+    venezuela: Veneçuela
     vietnam: Vietnam
   records:
     a_major: La major
