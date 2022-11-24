@@ -15,21 +15,21 @@ ca:
     rism_instrument_abbreviations: Abreviatures d'instruments usades al RISM (continuació)
     rism_series: RISM series
     rism_series_a_b_references: RISM series A/I and B reference
-    rism_series_number: RISM series number
-    rule_type: Rule type
-    scope_printed_music_rism: Scope of printed music in RISM
-    searching: Searching
-    source_citation: Source citation
+    rism_series_number: Número RISM
+    rule_type: Tipus de regla
+    scope_printed_music_rism: Abast de la música impresa al RISM
+    searching: Cerca
+    source_citation: Citació de la font
     status: Status
-    undetermined: Undetermined
-    ungrouped_fields: Ungrouped fields
-    unknown_fields: Unknown fields
-    unused: UNUSED - WILL BE REMOVED
-    updated_at: Last modification
+    undetermined: Indeterminat
+    ungrouped_fields: Camps no agrupats
+    unknown_fields: Camps desconeguts
+    unused: EN DESÚS - SERÀ ELIMINAT
+    updated_at: Darrera modificació
     uri: URI
     url: URL
-    using_muscat: Using Muscat
-    validity: Validity
+    using_muscat: Guia de Muscat
+    validity: Validesa
     when_to_input_new_record: When to input a new record (printed music)
     workflow: Workflow
     'yes': 'Yes'
