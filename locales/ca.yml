@@ -30,46 +30,46 @@ ca:
     url: URL
     using_muscat: Guia de Muscat
     validity: Validesa
-    when_to_input_new_record: When to input a new record (printed music)
-    workflow: Workflow
-    'yes': 'Yes'
+    when_to_input_new_record: Quan crear un nou registro (música impresa)
+    workflow: Fluxe de treball
+    'yes': 'Sí'
   languages:
     albanian: Albanian
     afrikaans: Afrikaans
-    arabic: Arabic
-    aragonese: Aragonese
-    armenian: Armenian
+    arabic: Àrab
+    aragonese: Aragonès
+    armenian: Armeni
     artificial: Artificial (other)
-    australian: Australian languages
-    basque: Basque
-    bengali: Bengali
-    bosnian: Bosnian
-    bulgarian: Bulgarian
-    catalan: Catalan
+    australian: Llengües australianes
+    basque: Basc
+    bengali: Bengalí
+    bosnian: Bosnià
+    bulgarian: Búlgar
+    catalan: Català
     celtic_other: Celtic (other)
-    chinese: Chinese
+    chinese: Xinès
     cree: Cree
     creoles_pidgins_other: Creoles and Pidgins (other)
-    croatian: Croatian
-    czech: Czech
+    croatian: Croat
+    czech: Txec
     dakota: Dakota
-    danish: Danish
-    dutch: Dutch
-    english: English
-    estonian: Estonian
-    ethiopic: Ethiopic
+    danish: Danès
+    dutch: Holandès
+    english: Anglès
+    estonian: Estonià
+    ethiopic: Etiòpic
     fijian: Fijian
-    finnish: Finnish
-    french: French
-    french_middle: French, Middle (ca. 1300-1600)
-    french_old: French, Old (ca. 842-1300)
+    finnish: Finès
+    french: Francès
+    french_middle: Francès mitjà (ca. 1300-1600)
+    french_old: Francès antic (ca. 842-1300)
     friulian: Friulian
-    gallician: Galician
-    german: German
-    german_old_high: German, Old High (ca. 750-1050)
-    germanic: Germanic
-    greek_ancient: Greek, Ancient (to 1453)
-    greek_modern: Greek, Modern (1453-)
+    gallician: Gallec
+    german: Alemany
+    german_old_high: Alemany culte antic (aprox. 750-1050)
+    germanic: Germànic
+    greek_ancient: Grec antic (fins el 1453)
+    greek_modern: Grec modern (1453-)
     hebrew: Hebrew
     hungarian: Hungarian
     icelandic: Icelandic
@@ -120,64 +120,64 @@ ca:
     thai: Thai
     tibetan: Tibetan
     tsimshian: Tsimshian
-    turkish: Turkish
-    ukrainian: Ukrainian
+    turkish: Turc
+    ukrainian: Ucraïnès
     upper_sorbian: 'Sorbian: Upper Sorbian'
-    vietnamese: Vietnamese
-    welsh: Welsh
-    west_frisian: West Frisian
-    yiddish: Yiddish
+    vietnamese: Vietnamita
+    welsh: Gal·lès
+    west_frisian: Frisó occidental
+    yiddish: Ídix
   places:
     afghanistan: Afghanistan
     albania: Albania
-    algeria: Algeria
+    algeria: Algèria
     andorra: Andorra
     argentina: Argentina
-    armenia: Armenia
-    australia: Australia
-    austria: Austria
-    austria_carinthia: 'Austria: Carinthia'
-    austria_lower_austria: 'Austria: Lower Austria'
-    austria_salzburg: 'Austria: Salzburg'
-    austria_styria: 'Austria: Styria'
-    austria_tyrol: 'Austria: Tyrol'
-    austria_upper_austria: 'Austria: Upper Austria'
-    austria_vienna: 'Austria: Vienna'
+    armenia: Armènia
+    australia: Austràlia
+    austria: Àustria
+    austria_carinthia: 'Àustria: Caríntia'
+    austria_lower_austria: 'Àustria: Baixa Àustria'
+    austria_salzburg: 'Àustria: Salzburg'
+    austria_styria: 'Àustria: Estíria'
+    austria_tyrol: 'Àustria: Tirol'
+    austria_upper_austria: 'Àustria: Alta Àustria'
+    austria_vienna: 'Àustria: Viena'
     azerbiajan: Azerbaijan
     bangladesh: Bangladesh
     belarus: Belarus
-    belgium: Belgium
-    benin: Benin
+    belgium: Bèlgica
+    benin: Benín
     bolivia: Bolivia
     bosnia_herzegovina: Bosnia and Herzegovina
-    brazil: Brazil
-    bulgaria: Bulgaria
-    cambodia: Cambodia
-    canada: Canada
-    chile: Chile
-    china: China
-    colombia: Colombia
+    brazil: Brasil
+    bulgaria: Bulgària
+    cambodia: Cambodja
+    canada: Canadà
+    chile: Xile
+    china: Xina
+    colombia: Colòmbia
     costa_rica: Costa Rica
-    croatia: Croatia
+    croatia: Croàcia
     cuba: Cuba
-    czech_republic: Czech Republic
-    denmark: Denmark
-    ecuador: Ecuador
-    egypt: Egypt
-    estonia: Estonia
-    finland: Finland
-    france: France
-    georgia: Georgia
-    germany: Germany
-    germany_bavaria: 'Germany: Bavaria'
-    germany_saxony: 'Germany: Saxony'
-    greece: Greece
+    czech_republic: República Txeca
+    denmark: Dinamarca
+    ecuador: Equador
+    egypt: Egipte
+    estonia: Estònia
+    finland: Finlàndia
+    france: França
+    georgia: Geòrgia
+    germany: Alemanya
+    germany_bavaria: 'Alemanya: Baviera'
+    germany_saxony: 'Alemanya: Saxònia'
+    greece: Grècia
     guatemala: Guatemala
     guinea: Guinea
-    honduras: Honduras
+    honduras: Hondures
     hong_kong: Hong Kong
-    hungary: Hungary
-    iceland: Iceland
+    hungary: Hongria
+    iceland: Islàndia
     india: India
     indonesia: Indonesia
     iran: Iran, Islamic Republic of
@@ -238,13 +238,13 @@ ca:
     venezuela: Venezuela, Bolivarian Republic of
     vietnam: Vietnam
   records:
-    a_major: A major
-    a_minor: A minor
-    abbreviations: Abbreviations
-    abbreviations_terminology: Abbreviations and terminology
-    access_restrictions: Access restrictions
-    accession_number: Accession number
-    acronym: Acronym
+    a_major: La major
+    a_minor: La menor
+    abbreviations: Abreviatures
+    abbreviations_terminology: Abreviatures i terminologia
+    access_restrictions: Restriccions d'accés
+    accession_number: Número d'accés
+    acronym: Acrònim
     added_entry_name: Added entry name
     additional_author: Additional author
     additional_bibliographic_information: Additional bibliographic information
