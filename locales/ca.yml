@@ -499,26 +499,26 @@ ca:
     heading_composer_name: Compositor
     heading_personal_name: Nom personal
     heading_personal_name1: Nom personal
-    help_transposing_instruments: Help for transposing instruments
-    history_institution: History of institution
-    holdings_location: Holdings, location, etc. fields
-    identity: Identity
-    identity_area: Identity area
+    help_transposing_instruments: Ajuda pels instruments transpositors
+    history_institution: Història de la institució
+    holdings_location: Camps d'exemplars i fons
+    identity: Identitat
+    identity_area: Identitat
     iiif_manifest: "IIIF manifest (digitized source)"
     iiif_manifest_other: "IIIF manifest (other)"
-    illustrator: Illustrator
-    immediate_parent_body: Immediate parent body
-    import: Import
-    imprint: Imprint
-    incipit: Incipit
-    incipit_number: Incipit number
-    incipits: Incipits
-    index_terms: Index terms
-    information_found: Information found
-    initial: Initial
-    initial_entry: Initial entry
-    initials: Initials
-    insertions: Insertions
+    illustrator: Il·lustrador
+    immediate_parent_body: Institució immediatament superior
+    import: Importar
+    imprint: Peu d'impremta
+    incipit: Incípit musical
+    incipit_number: Número d'incípit
+    incipits: Incípits
+    index_terms: Termes d'indexació
+    information_found: Informació trobada
+    initial: Inicial
+    initial_entry: Entrada inicial
+    initials: Inicials
+    insertions: Insercions
     inserts: Inserts
     institution: Institution
     institutions: Institutions
