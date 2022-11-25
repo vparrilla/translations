@@ -321,37 +321,37 @@ ca:
     c_plus_4: C+4
     c_plus_5: C+5
     catalog: Catalog
-    catalog_opus_number: Catalog number/Opus number
-    catalog_works: Catalog of works
-    cataloging_agency: Cataloging agency
-    cataloging_collection_convoluta: Cataloging collection and convoluta
-    cataloging_collections: Cataloging collections
-    cataloging_forms: Cataloging forms
-    cataloging_language: Cataloging language
-    cataloging_level: Cataloging level
-    cataloging_musical_sources: Cataloging musical sources
-    cataloging_source: Cataloging source
-    category: Category
+    catalog_opus_number: Número de catàleg/Número d'opus
+    catalog_works: Catàleg d'obres
+    cataloging_agency: Agència catalogadora
+    cataloging_collection_convoluta: Catalogació de reculls i volums compostos
+    cataloging_collections: Catalogació de reculls
+    cataloging_forms: Formularis de catalogació
+    cataloging_language: Llengua de catalogació
+    cataloging_level: Nivell de catalogació
+    cataloging_musical_sources: Catalogació de fonts musicals
+    cataloging_source: Font de la catalogació
+    category: Categoria
     censor: Censor
-    cf_major: C♭ major
-    cf_minor: C♭ minor
-    child_of: Child of
-    choir_voice: Choir voice
-    choreographer: Choreographer
-    chronological_subdivision: Chronological subdivision
-    chronological_term: Chronological term
-    city: City
-    clef: Clef
-    co_composer: Co-composer
-    coded_date: Coded date
-    coded_instrumentation: Coded instrumentation
-    collaborator: Collaborator
+    cf_major: Do♭ major
+    cf_minor: Do♭ menor
+    child_of: Fill(a) de
+    choir_voice: Veu de cor
+    choreographer: Coreògraf
+    chronological_subdivision: Subdivisió cronològica
+    chronological_term: Terme cronològic
+    city: Ciutat
+    clef: Clau
+    co_composer: Co-compositor
+    coded_date: Data codificada
+    coded_instrumentation: Intrumentació codificada
+    collaborator: Col·laborador
     collective_catalog: Collective catalog
-    colophon: Colophon
-    common_clefs: Common clefs
-    compiler: Compiler
-    composer: Composer
-    composer_author: Composer/Author
+    colophon: Colofó
+    common_clefs: Claus comunes
+    compiler: Compilador
+    composer: Compositor
+    composer_author: Compositor/Autor
     composer_cross_reference: Composer cross-reference
     computer_printout: Computer printout
     conceptor: Conceptor
