@@ -249,7 +249,7 @@ ca:
     additional_author: Autor addicional
     additional_bibliographic_information: Informació bibliogràfica addicional
     additional_biographical_information: Informació biogràfica addicional
-    additional_choir_voice: Additional choir voice
+    additional_choir_voice: Veu de cor addicional
     additional_codes: Codis addicionals a partir del número o codi estàndard
     additional_institution: Institució addicional
     additional_personal_name: Nom personal addicional
@@ -262,17 +262,17 @@ ca:
     af_minor: La bemoll menor
     aide: Ajuda
     aids: Assistència
-    alleged: Alleged
-    alternate_spelling: Alternate spelling
-    archive: Archive
-    arrangement: Arrangement
-    arrangement_statement: Arrangement statement
-    arranger: Arranger
-    artist: Artist
-    artistic_production: Artistic production
-    as_major: A♯ major
-    as_minor: A♯ minor
-    ascertained: Ascertained
+    alleged: Suposat
+    alternate_spelling: Ortografia alternativa
+    archive: Arxiu
+    arrangement: Arranjament
+    arrangement_statement: Menció d'arranjament
+    arranger: Arranjador
+    artist: Artista
+    artistic_production: Producció artística
+    as_major: La♯ major
+    as_minor: La♯ menor
+    ascertained: Certificada
     assignee: Assignee
     associated_country: Associated country
     associated_institution: Associated institution
