@@ -273,43 +273,43 @@ ca:
     as_major: La♯ major
     as_minor: La♯ menor
     ascertained: Certificada
-    assignee: Assignee
-    associated_country: Associated country
-    associated_institution: Associated institution
-    associated_name: Associated name
-    associated_name_lit: Associated name
+    assignee: Assignatari
+    associated_country: País associat
+    associated_institution: Institució associada
+    associated_name: Nom associat
+    associated_name_lit: Nom associat
     associated_place: Associated place
-    attribution_qualifier: Attribution qualifier
-    authentication_code: Authentication code
-    author: Author
-    author_editor: Author/Editor
-    authorities: Authorities
-    authority_agency: Authority agency
-    authority_record_control_number: Authority record control number or standard number
-    authority_reference: Authority reference
-    autography: Autography
-    b_major: B major
-    b_minor: B minor
-    baptismal_name: Baptismal name
-    basic_functions: Basic functions
-    basso_continuo: Basso continuo
-    bf_major: B♭ major
-    bf_minor: B♭ minor
+    attribution_qualifier: Qualificador d'atribució
+    authentication_code: Codi d'autenticació
+    author: Autor
+    author_editor: Autor/editor
+    authorities: Autoritats
+    authority_agency: Agència d'autoritat
+    authority_record_control_number: Codi del registre d'autoritat o identificador estàndard
+    authority_reference: Referència d'autoritat
+    autography: Autografia
+    b_major: Si major
+    b_minor: Si menor
+    baptismal_name: Nom baptismal
+    basic_functions: Funcions bàsiques
+    basso_continuo: Baix continu
+    bf_major: Si♭ major
+    bf_minor: Si♭ minor
     bibliography: Bibliography
-    bibliographic_reference: Bibliographic reference
-    binder: Binder
-    binding_note: Binding note
-    birth_name: Birth name
-    book_format: Book format
-    bookseller: Bookseller
-    bound_with: Bound with
-    brass_instruments: Brass instruments
-    brief: Brief
-    broader_term: Broader term
-    brother_of: Brother of
-    byname: Byname
-    c_major: C major
-    c_minor: C minor
+    bibliographic_reference: Referència bibliogràfica
+    binder: Enquadernador
+    binding_note: Nota d'enquadernació
+    birth_name: Data de naixement
+    book_format: Format de llibre
+    bookseller: Llibreter
+    bound_with: Enquadernat amb
+    brass_instruments: Vent-metall
+    brief: Breu
+    broader_term: Terme genèric
+    brother_of: Germà de
+    byname: Renom
+    c_major: Do major
+    c_minor: Do menor
     c_minus_1: C-1
     c_minus_2: C-2
     c_minus_3: C-3
@@ -365,56 +365,56 @@ ca:
     content_type: Content type
     contents_note: Contents note
     contributor: Contributor
-    control_fields: Control fields
-    control_number_identifier: Control number identifier
-    control_subfield: Control subfield
-    copy_examined: Copy examined for cataloging
-    copyist: Copyist
-    copyright_holder: Copyright holder
+    control_fields: Camps de control
+    control_number_identifier: Identificador de número de control
+    control_subfield: Subcamp de control
+    copy_examined: Còpia examinada per a la catalogació
+    copyist: Copista
+    copyright_holder: Propietari dels drets d'autor
     costume_designer: Costume designer
-    countries_places: Countries and Places
-    country: Country
-    country_active: Country active
-    country_activity: Country of activity
-    country_code: Country code
-    country_of_publication: Country of publication
-    county_province: County or province
-    creation_production_note: Creation/production note
-    cs_major: C♯ major
-    cs_minor: C♯ minor
-    d_major: D major
-    d_minor: D minor
+    countries_places: Països i llocs
+    country: País
+    country_active: País d'activitat
+    country_activity: País d'activitat
+    country_code: Codi de país
+    country_of_publication: País de publicació
+    county_province: Estat o província
+    creation_production_note: Nota sobre la creació/produció
+    cs_major: Do♯ major
+    cs_minor: Do♯ menor
+    d_major: Re major
+    d_minor: Re menor
     dancer: Dancer
-    date: Date
-    date_of_acquisition: Date of acquisition
-    date_of_creation: Date of creation
-    date_time_last_transaction: Date and time of last transaction
-    date_type: Date type
+    date: Data
+    date_of_acquisition: Data d'adquisició
+    date_of_creation: Data de creació
+    date_time_last_transaction: Data i hora de l'última transacció
+    date_type: Tipus de data
     dates: Dates
-    dedicatee: Dedicatee
-    department: Department
-    depositor: Depositor
-    description: Description
-    description_area: Description area
-    description_summary: Description summary
-    designer: Designer
-    df_major: D♭ major
-    df_minor: D♭ minor
-    digital_objects: Digital objects
-    digitized_music: Digitized music
-    digitized_source: Digitized source
+    dedicatee: Dedicatario
+    department: Departament
+    depositor: Dipositant
+    description: Descripció
+    description_area: Descripció
+    description_summary: Breu descripció
+    designer: Dissenyador
+    df_major: Re♭ major
+    df_minor: Re♭ menor
+    digital_objects: Objectes digitals
+    digitized_music: Música digitalitzada
+    digitized_source: Font digitalitzada
     dimensions: Dimensions
-    diplomatic_title: Diplomatic title
-    dissertation_note: Dissertation note
-    distribution: Distribution
-    distributor: Distributor
-    documentation_center: Documentation center
-    donor: Donor
-    doubtful: Doubtful
-    dramatic_roles_original: Dramatic role named, original spelling
-    dramatic_roles_standardized: Dramatic role named, standardized
-    ds_major: D♯ major
-    ds_minor: D♯ minor
+    diplomatic_title: Títol diplomàtic
+    dissertation_note: Nota de tesi
+    distribution: Distribució
+    distributor: Distribuïdor
+    documentation_center: Centre de documentació
+    donor: Donant
+    doubtful: Dubtós
+    dramatic_roles_original: Noms originals dels personatges
+    dramatic_roles_standardized: Noms normalitzats dels personatges
+    ds_major: Re♯ major
+    ds_minor: Re♯ menor
     dubious: Dubious
     e_major: E major
     e_minor: E minor
@@ -464,10 +464,10 @@ ca:
     format_extent: Format, extent
     former_owner: Former owner
     fragments: Fragments
-    fs_major: F♯ major
-    fs_minor: F♯ minor
-    full: Full
-    function: Function
+    fs_major: Fa♯ major
+    fs_minor: Fa♯ menor
+    full: Complet
+    function: Funció
     further_information: Further information
     g_major: G major
     g_minor: G minor
