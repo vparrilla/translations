@@ -415,46 +415,46 @@ ca:
     dramatic_roles_standardized: Noms normalitzats dels personatges
     ds_major: Re♯ major
     ds_minor: Re♯ menor
-    dubious: Dubious
-    e_major: E major
-    e_minor: E minor
-    earlier_heading: Earlier heading
-    ecclesiastical_modes: Ecclesiastical modes
-    edition: Edition
+    dubious: Dubtós
+    e_major: Mi major
+    e_minor: Mi menor
+    earlier_heading: Encapçalament anterior
+    ecclesiastical_modes: Modes eclesiàstics
+    edition: Edició
     edition_imprint_fields: Edition, imprint, etc. fields
-    edition_statement: Edition statement
+    edition_statement: Edició
     editor: Editor
-    ef_major: E♭ major
-    ef_minor: E♭ minor
+    ef_major: Mi♭ major
+    ef_minor: Mi♭ menor
     encyclopedia: Encyclopedia
-    end_period: End period
-    engraver: Engraver
-    engraving: Engraving
-    event_organizer: Event organizer
-    event_place: Event place
-    excerpts: Excerpts
+    end_period: Període final
+    engraver: Gravador
+    engraving: Gravat
+    event_organizer: Organitzador
+    event_place: Lloc de l'esdeveniment
+    excerpts: Extractes
     exemplars: Exemplars
-    extent: Extent
-    extent_parts: Extent (parts)
-    external_resource: External resource
-    external_resource_uri: External resource URI
-    external_resource_url: External resource URL
-    f_major: F major
-    f_minor: F minor
+    extent: Extensió
+    extent_parts: Extensió (particel·les)
+    external_resource: Recurs extern
+    external_resource_uri: URI del recurs extern
+    external_resource_url: URL del recurs extern
+    f_major: Fa major
+    f_minor: Fa menor
     f_minus_1: F-1
     f_minus_2: F-2
     f_minus_3: F-3
-    f_minus_4_bass: F-4 (bass clef)
+    f_minus_4_bass: F-4 (clau de baix)
     f_minus_5: F-5
     f_plus_1: F+1
     f_plus_2: F+2
     f_plus_3: F+3
     f_plus_4: F+4
     f_plus_5: F+5
-    facsimile: Facsimile
+    facsimile: Facsímil
     family_name: Family name
-    father_of: Father of
-    field_link: Field link and sequence number
+    father_of: Pare de
+    field_link: Enllaç de camp i número de seqüència
     field_of_activity: Field of activity
     figured_bass_scores: Figured bass in scores and/or other parts
     fijian: Fijian
