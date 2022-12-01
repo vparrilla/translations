@@ -58,7 +58,7 @@ ca:
     english: Anglès
     estonian: Estonià
     ethiopic: Etiòpic
-    fijian: Fijian
+    fijian: Fijià
     finnish: Finès
     french: Francès
     french_middle: Francès mitjà (ca. 1300-1600)
@@ -76,7 +76,7 @@ ca:
     insari_sami: Inari Sami
     irish: Irlandès
     italian: Italià
-    japanese: Japanese
+    japanese: Japonès
     korean: Coreà
     latin: Llatí
     latvian: Letó
@@ -457,12 +457,12 @@ ca:
     field_link: Enllaç de camp i número de seqüència
     field_of_activity: Field of activity
     figured_bass_scores: Figured bass in scores and/or other parts
-    fijian: Fijian
+    fijian: Fijià
     fingerprint_identifier: Fingerprint identifier
-    first_second_group: First/second group
-    form_subdivision: Form subdivision
-    format_extent: Format, extent
-    former_owner: Former owner
+    first_second_group: Primer/segon grup
+    form_subdivision: Subdivisió de forma
+    format_extent: Format, extensió
+    former_owner: Propietari anterior
     fragments: Fragments
     fs_major: Fa♯ major
     fs_minor: Fa♯ menor
@@ -519,23 +519,23 @@ ca:
     initial_entry: Entrada inicial
     initials: Inicials
     insertions: Insercions
-    inserts: Inserts
-    institution: Institution
-    institutions: Institutions
-    instrumentalist: Instrumentalist
-    internal_note: Internal note
-    introduction: Introduction
-    invalid_standard_number: Canceled/invalid standard number or code
+    inserts: Insercions
+    institution: Institució
+    institutions: Institucions
+    instrumentalist: Instrumentista
+    internal_note: Nota interna
+    introduction: Introducció
+    invalid_standard_number: Número o codi estàndard cancel·lat/invàlid
     isbn: ISBN
     ismn: ISMN
     issn: ISSN
-    item_in_collection: Item in this collection
-    item_part_of: Item part of
-    items_in_source: Items in this source
-    japanese: Japanese
-    key: Key
-    key_or_mode: Key or mode
-    key_signature: Key signature
+    item_in_collection: Contingut de la col·lecció
+    item_part_of: Forma part de
+    items_in_source: Contingut de la col·lecció
+    japanese: Japonès
+    key: Tonalitat
+    key_or_mode: Tonalitat o mode
+    key_signature: Armadura de clau
     keyboards: Keyboards
     keys: Keys
     language_code: Language code
