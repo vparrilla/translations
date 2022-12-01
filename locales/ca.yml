@@ -536,28 +536,28 @@ ca:
     key: Tonalitat
     key_or_mode: Tonalitat o mode
     key_signature: Armadura de clau
-    keyboards: Keyboards
-    keys: Keys
-    language_code: Language code
-    language_codes: Language codes
-    language_libretto: Language of libretto
-    language_note: Language note
-    language_of_cataloging: Language of cataloging
-    language_original_text: Language of original text
-    language_text: Language of text
-    later_heading: Later heading
-    latitude: Latitude
+    keyboards: Teclats
+    keys: Tonalitats
+    language_code: Codi d'idioma
+    language_codes: Codis d'idioma
+    language_libretto: Llengua del llibret
+    language_note: Nota de llengua
+    language_of_cataloging: Idioma de catalogació
+    language_original_text: Idioma del text original
+    language_text: Llengua del text
+    later_heading: Encapçalament posterior
+    latitude: Latitud
     leader: Leader
-    library: Library
-    library_information: Library information
-    library_information_relations: Library information and relations
-    library_siglum: Library siglum
-    librettist: Librettist
-    licensee: Licensee
-    life_dates: Life dates
-    link_type: Link type
-    linkage: Linkage
-    linking_entry_fields: Linking entry fields
+    library: Biblioteca
+    library_information: Informació de la biblioteca
+    library_information_relations: Informació de la biblioteca i relacions
+    library_siglum: Sigla de la biblioteca
+    librettist: Llibretista
+    licensee: Titular de la llicència
+    life_dates: Anys
+    link_type: Tipus d'enllaç
+    linkage: Enllaços
+    linking_entry_fields: Camps d'enllaços a les entrades
     literature: Literature
     lithograph: Lithograph
     lithographer: Lithographer
@@ -613,26 +613,26 @@ ca:
     mode_8tt: 'Mode: 8tt – Hypomixolydian, transposed'
     mode_9t: 'Mode: 9t – Aeolian'
     mode_9tt: 'Mode: 9tt – Aeolian, transposed'
-    modifying_agency: Modifying agency
-    monogram: Monogram
-    mother_of: Mother of
-    movement_number: Movement number
-    multiple: Multiple
-    multiple_copies: Multiple copies
-    multiple_single_dates: Multiple single dates
-    museum: Museum
+    modifying_agency: Organisme de la modificació
+    monogram: Monograma
+    mother_of: Mare de
+    movement_number: Número de moviment
+    multiple: Múltiple
+    multiple_copies: Múltiples còpies
+    multiple_single_dates: Dates múltiples
+    museum: Museu
     music_edition: Music edition
-    music_incipit: Music incipit
-    musical_composition: Musical composition
-    name: Name
-    name_family: Name of family
-    name_printer: Name of printer
-    name_variant: Name variant
-    name_variants: Name variants
-    named_dramatic_roles: Named dramatic role
-    narrower_term: Narrower term
-    nationality: Nationality
-    nickname: Nickname
+    music_incipit: Incípit musical
+    musical_composition: Composició musical
+    name: Nom
+    name_family: Cognom
+    name_printer: Impressor
+    name_variant: Variant del nom
+    name_variants: Variants del nom
+    named_dramatic_roles: Noms dels personatges
+    narrower_term: Terme específic
+    nationality: Nacionalitat
+    nickname: Pseudònim
     no_linguistic_content: No linguistic content
     non_migrated_bound: Non-migrated bound with value from 563
     not_applicable: Not applicable
