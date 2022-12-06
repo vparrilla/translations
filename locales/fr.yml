@@ -394,6 +394,7 @@ fr:
     dedicatee: Dédicataire
     department: Section
     depositor: Dépositeur
+    deprecated_fields: Obsolete fields (do not use)
     description: Description
     description_area: Description
     description_summary: Description brève
@@ -760,6 +761,7 @@ fr:
     scoring_in_movement: Instrumentation du mouvement
     scoring_summary: Instrumentation
     scribe: Copiste / scribe
+    secondary_catalog_works: Secondary catalog of works
     secondary_literature: Références
     series: Série
     series_added_entry: Champs de collection
