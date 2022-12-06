@@ -394,7 +394,7 @@ es:
     dedicatee: Dedicatario(a)
     department: Departamento
     depositor: Depositante
-    deprecated_fields: Obsolete fields (do not use)
+    deprecated_fields: Campos obsoletos (no usar)
     description: Decripción
     description_area: Descripción
     description_summary: Descripción sumaria
@@ -761,7 +761,7 @@ es:
     scoring_in_movement: Plantilla/orgánico del movimiento
     scoring_summary: Resumen de Plantilla/Orgánico
     scribe: Copista
-    secondary_catalog_works: Secondary catalog of works
+    secondary_catalog_works: Catálogo secundario de obras
     secondary_literature: Bibliografía secundaria
     series: Serie
     series_added_entry: Entradas adicionales de la serie
