@@ -394,6 +394,7 @@ de:
     dedicatee: Widmungsträger
     department: Abteilung
     depositor: Depositor
+    deprecated_fields: Obsolete fields (do not use)
     description: Beschreibung
     description_area: Beschreibung
     description_summary: Zusammenfassende Beschreibung
@@ -760,6 +761,7 @@ de:
     scoring_in_movement: Besetzung Satz
     scoring_summary: Besetzungshinweis
     scribe: Schreiber
+    secondary_catalog_works: Secondary catalog of works
     secondary_literature: Sekundärliteratur
     series: Serie
     series_added_entry: Nebeneintragungen Gesamttitel
