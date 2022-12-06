@@ -394,6 +394,7 @@ pt:
     dedicatee: Dedicatário(a)
     department: Departamento
     depositor: Depositante
+    deprecated_fields: Obsolete fields (do not use)
     description: Descrição
     description_area: Descrição
     description_summary: Síntese da descrição
@@ -760,6 +761,7 @@ pt:
     scoring_in_movement: Formação instrumental no movimento
     scoring_summary: Sintese da formação instrumental
     scribe: Copista
+    secondary_catalog_works: Secondary catalog of works
     secondary_literature: Literatura secundária
     series: Séries
     series_added_entry: Informação secundária sobre título superordenado
