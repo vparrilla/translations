@@ -394,6 +394,7 @@ it:
     dedicatee: Dedicatario
     department: Dipartimento
     depositor: Depositante
+    deprecated_fields: Obsolete fields (do not use)
     description: Descrizione
     description_area: Descrizione
     description_summary: Descrizione sommaria
@@ -760,6 +761,7 @@ it:
     scoring_in_movement: Organico del movimento
     scoring_summary: Organico sintetico
     scribe: Copista
+    secondary_catalog_works: Secondary catalog of works
     secondary_literature: Bibliografia
     series: Serie
     series_added_entry: Notizia secondaria sul titolo sovraordinato
