@@ -394,7 +394,7 @@ ca:
     dedicatee: Dedicatario
     department: Departament
     depositor: Dipositant
-    deprecated_fields: Obsolete fields (do not use)
+    deprecated_fields: Camps obsolets (no els utilitzeu)
     description: Descripció
     description_area: Descripció
     description_summary: Breu descripció
@@ -761,7 +761,7 @@ ca:
     scoring_in_movement: Scoring in movement
     scoring_summary: Scoring summary
     scribe: Scribe
-    secondary_catalog_works: Secondary catalog of works
+    secondary_catalog_works: Catàleg secundari d'obres
     secondary_literature: Secondary literature
     series: Series
     series_added_entry: Series added entry fields
