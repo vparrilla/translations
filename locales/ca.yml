@@ -394,7 +394,7 @@ ca:
     dedicatee: Dedicatario
     department: Departament
     depositor: Dipositant
-    deprecated_fields: Obsolete fields (do not use)
+    deprecated_fields: Camps obsolets (no els utilitzeu)
     description: Descripció
     description_area: Descripció
     description_summary: Breu descripció
@@ -457,7 +457,7 @@ ca:
     father_of: Pare de
     field_link: Enllaç de camp i número de seqüència
     field_of_activity: Field of activity
-    figured_bass_scores: Figured bass in scores and/or other parts
+    figured_bass_scores: Baix xifrat
     fijian: Fijià
     fingerprint_identifier: Identificador de l'empremta
     first_second_group: Primer/segon grup
@@ -562,15 +562,15 @@ ca:
     literature: Literatura
     lithograph: Litografia
     lithographer: Litògraf
-    lithography: Lithography
-    liturgical_festival: Liturgical festival
-    liturgical_festivals: Liturgical festivals
-    local_id_number: Local ID no.
-    local_note_field: Local note field
-    local_notes_field: Local notes field
-    local_number: Local number
-    location: Location
-    location_and_address: Location and address
+    lithography: Litografia
+    liturgical_festival: Festivitat litúrgica
+    liturgical_festivals: Festivitats litúrgiques
+    local_id_number: Número local
+    local_note_field: Nota local
+    local_notes_field: Notes locals
+    local_number: Número local
+    location: Lloc
+    location_and_address: Lloc i adreça
     location_insertion: Location of insertion
     location_on_source: Locations on the source
     location_performance: Location of performance
@@ -761,7 +761,7 @@ ca:
     scoring_in_movement: Scoring in movement
     scoring_summary: Scoring summary
     scribe: Scribe
-    secondary_catalog_works: Secondary catalog of works
+    secondary_catalog_works: Catàleg secundari d'obres
     secondary_literature: Secondary literature
     series: Series
     series_added_entry: Series added entry fields
