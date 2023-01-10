@@ -14,7 +14,7 @@ ca:
     rism_best_practices: Bones pràctiques al RISM
     rism_instrument_abbreviations: Abreviatures d'instruments usades al RISM (continuació)
     rism_series: RISM series
-    rism_series_a_b_references: RISM series A/I and B reference
+    rism_series_a_b_references: Referències a les Sèries RISM A/I i B
     rism_series_number: Número RISM
     rule_type: Tipus de regla
     scope_printed_music_rism: Abast de la música impresa al RISM
@@ -129,7 +129,7 @@ ca:
     yiddish: Ídix
   places:
     afghanistan: Afghanistan
-    albania: Albania
+    albania: Albània
     algeria: Algèria
     andorra: Andorra
     argentina: Argentina
@@ -148,7 +148,7 @@ ca:
     belarus: Belarus
     belgium: Bèlgica
     benin: Benín
-    bolivia: Bolivia
+    bolivia: Bolívia
     bosnia_herzegovina: Bosnia and Herzegovina
     brazil: Brasil
     bulgaria: Bulgària
@@ -637,8 +637,8 @@ ca:
     no_linguistic_content: No linguistic content
     non_migrated_bound: Non-migrated bound with value from 563
     not_applicable: Not applicable
-    note: Note
-    note_external_resource: Note about external resource
+    note: Nota
+    note_external_resource: Nota sobre el recurs extern
     note_fields: Note fields
     note_on_performance: Note on performance
     now_in: Now in
