@@ -265,6 +265,7 @@ en:
     aids: Aids
     alleged: Alleged
     alternate_spelling: Alternate spelling
+    alternative_work_title: Alternative work title
     archive: Archive
     arrangement: Arrangement
     arrangement_statement: Arrangement statement
@@ -628,6 +629,7 @@ en:
     musical_composition: Musical composition
     name: Name
     name_family: Name of family
+    name_of_part: Name of part/section of a work
     name_printer: Name of printer
     name_variant: Name variant
     name_variants: Name variants
@@ -857,6 +859,7 @@ en:
     variant_source_title: Variant title on source
     variations: Variations
     verified: Verified
+    version_information: Version, edition, etc., information
     vocalist: Vocalist
     voice_instrument: Voice/instrument
     volume_year_page: Volume, year, page
