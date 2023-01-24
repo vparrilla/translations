@@ -265,6 +265,7 @@ pl:
     aids: Pomoce
     alleged: Rzekomy
     alternate_spelling: Alternatywna pisownia
+    alternative_work_title: Alternative work title
     archive: Archiwum
     arrangement: Aranżacja
     arrangement_statement: Uwaga do aranżacji
@@ -628,6 +629,7 @@ pl:
     musical_composition: Kompozycja muzyczna
     name: Imię i nazwisko
     name_family: Nazwa rodziny
+    name_of_part: Name of part/section of a work
     name_printer: Nazwa drukarni
     name_variant: Alternatywna nazwa osoby
     name_variants: Alternatywne nazwy osoby
@@ -854,6 +856,7 @@ pl:
     variant_source_title: Alternatywny tytuł w źródle
     variations: Wariacje
     verified: Zweryfikowane
+    version_information: Version, edition, etc., information
     vocalist: Wokalista
     voice_instrument: Głos/instrument
     volume_year_page: Wolumen, rok, strona
