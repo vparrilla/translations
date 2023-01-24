@@ -265,6 +265,7 @@ it:
     aids: Assistenza
     alleged: Presunta
     alternate_spelling: Ortografia alternativa
+    alternative_work_title: Alternative work title
     archive: Archivio
     arrangement: Arrangiamento
     arrangement_statement: Arrangiamento
@@ -628,6 +629,7 @@ it:
     musical_composition: Composizione musicale
     name: Nome
     name_family: Nome di famiglia
+    name_of_part: Name of part/section of a work
     name_printer: Stampatore, stamperia
     name_variant: Varianti del nome
     name_variants: Varianti del nome
@@ -854,6 +856,7 @@ it:
     variant_source_title: Varianti del titolo diplomatico
     variations: Variazioni
     verified: Verificata
+    version_information: Version, edition, etc., information
     vocalist: Cantante
     voice_instrument: Voce/strumento
     volume_year_page: Volume, anno, pagina
