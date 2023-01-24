@@ -265,6 +265,7 @@ de:
     aids: Arbeitshilfen
     alleged: Angeblich
     alternate_spelling: Andere Schreibweise
+    alternative_work_title: Alternative work title
     archive: Archiv
     arrangement: Bearbeitung
     arrangement_statement: Bearbeitung
@@ -628,6 +629,7 @@ de:
     musical_composition: Musikalische Komposition
     name: Personenname
     name_family: Familienname
+    name_of_part: Name of part/section of a work
     name_printer: Drucker, Druckerei
     name_variant: Namensvarianten
     name_variants: Namensvarianten
@@ -854,6 +856,7 @@ de:
     variant_source_title: Weiterer diplomatischer Titel
     variations: Variationen
     verified: Gesichert
+    version_information: Version, edition, etc., information
     vocalist: Sänger
     voice_instrument: Besetzung
     volume_year_page: Jahrgang, Seite
