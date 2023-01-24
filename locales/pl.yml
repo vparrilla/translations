@@ -1,7 +1,7 @@
 pl:
   general:
     created_at: "Data utworzenia"
-    e_mail: Email
+    e_mail: E-mail
     editor_help: Pomoc do edycji
     faq: Odpowiedzi na częste pytania
     female: Kobieta
@@ -64,7 +64,7 @@ pl:
     french: Francuski
     french_middle: Średniofrancuski (ok. 1300-1600)
     french_old: Starofrancuski (ok. 842-1300)
-    friulian: Friulijski
+    friulian: Friulski
     gallician: Galicyjski
     german: Niemiecki
     german_old_high: Staro-wysoko-niemiecki (ok. 750-1050)
@@ -114,7 +114,7 @@ pl:
     sorbian: Łużycki
     south_american: Południowoamerykański (inne)
     spanish: Hiszpański
-    swahili: Swahili
+    swahili: Suahili
     swedish: Szwedzki
     swiss_german: Niemiecki szwajcarski
     tagalog: Tagalski
