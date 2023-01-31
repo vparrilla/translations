@@ -256,7 +256,7 @@ es:
     additional_institution: Institución adicional
     additional_personal_name: Nombre personal adicional
     additional_personal_name_lit: Nombre personal adicional
-    additional_printed_material: Additional printed material
+    additional_printed_material: Material impreso adicional
     additional_solo_voice: Voz solista adicional
     additional_title: Título adicional
     additional_title_lit: Título adicional
@@ -291,7 +291,7 @@ es:
     authority_agency: Agencia de autoridad
     authority_record_control_number: Códigos adicionales a continuación del número o código estándar
     authority_reference: Referencia de autoridad
-    autograph_manuscript: Autograph manuscript
+    autograph_manuscript: Manuscrito autográfico
     autography: Autografía
     b_major: Si Mayor
     b_minor: Si menor
@@ -584,8 +584,8 @@ es:
     longitude: Longitud
     lyricist: Letrista
     main_entry_fields: Campos principales
-    manuscript_copy: Manuscript copy
-    manuscript_copy_with_autograph_annotations: Manuscript copy with autograph annotations
+    manuscript_copy: Copia manuscrita
+    manuscript_copy_with_autograph_annotations: Copia manuscrita con anotaciones autográficas
     married_name: Apellido de casada/o
     married_to: casado/a con
     married_with: Casado/a con
@@ -598,7 +598,7 @@ es:
     method_of_acquisition: Método de adquisición
     misattributed: Mal atribuida
     miscellaneous: Varios
-    mixed: Mixed
+    mixed: Mixto
     mode_10t: 'Modo: 10º tono (Hipoeólico)'
     mode_10tt: 'Modo: 10º tono (Hipoeólico), transpuesto'
     mode_11t: 'Modo:  11º tono (Jónico)'
@@ -647,7 +647,7 @@ es:
     no_linguistic_content: Sin contenido lingüístico
     non_migrated_bound: Non-migrated bound with value from 563
     not_applicable: No se aplica
-    notated_music: Notated music
+    notated_music: Música notada
     note: Nota
     note_external_resource: Nota sobre el recurso externo
     note_fields: Campos de notas
@@ -690,7 +690,7 @@ es:
     papermaker: Fabricante de papel
     parallel_form: Forma paralela de nombre
     parent_record: Registro madre
-    partial_autograph: Partial autograph
+    partial_autograph: Autográfico parcial
     parts_held: Particellas conservadas
     parts_held_extent: Particellas conservadas y extensión de las mismas
     patron: Comitente
@@ -720,7 +720,7 @@ es:
     plaine_and_easie: Código Plaine and Easie
     plate_number: Número de plancha
     plucked_instruments: Cuerdas pulsadas
-    possible_autograph_manuscript: Possible autograph manuscript
+    possible_autograph_manuscript: Posible manuscrito autográfico
     postal_code: Código postal
     postal_place: Dirección postal
     preceding_entry: Registro precedente
@@ -850,7 +850,7 @@ es:
     translation: Traducción
     translator: Traductor
     transparency: Transparencia
-    treatise: Treatise
+    treatise: Tratado
     type: Tipo
     type_designer: Fundidor
     type_institution: Tipo de institución
