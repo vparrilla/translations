@@ -359,7 +359,7 @@ it:
     composer_author: Compositore/Autore
     composer_cross_reference: Rimando ad altro compositore
     computer_printout: Stampata da computer
-    composite: Composite
+    composite: Volume composito
     conceptor: Autore della fonte letteraria
     conductor: Direttore d'orchestra
     confused_with: Confuso/confusa con
@@ -709,7 +709,7 @@ it:
     photoreproductive_process: Cianografia
     physical_description: Descrizione fisica
     physical_description_fields: Campi per la descrizione fisica
-    print: Print
+    print: Stampa
     place: Luogo
     place_active: Luogo di attività
     place_activity: Luogo di attività
