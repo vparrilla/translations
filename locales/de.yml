@@ -256,7 +256,7 @@ de:
     additional_institution: Nebeneintragung Körperschaften
     additional_personal_name: Nebeneintragung Personen
     additional_personal_name_lit: Sonstige Person
-    additional_printed_material: Additional printed material
+    additional_printed_material: Zusätzliches gedrucktes Material
     additional_solo_voice: Zusätzliche Solostimme
     additional_title: Alternativer Titel
     additional_title_lit: Zusätzlicher Titel
@@ -291,7 +291,7 @@ de:
     authority_agency: Normdatenagentur
     authority_record_control_number: Zusätzliche Codes nach der Standardnummer oder dem Standardcode
     authority_reference: Normdatenverweise
-    autograph_manuscript: Autograph manuscript
+    autograph_manuscript: Autograph
     autography: Autographie
     b_major: H-Dur
     b_minor: h-Moll
@@ -584,8 +584,8 @@ de:
     longitude: Längengrad
     lyricist: Textdichter
     main_entry_fields: Haupteintragungen
-    manuscript_copy: Manuscript copy
-    manuscript_copy_with_autograph_annotations: Manuscript copy with autograph annotations
+    manuscript_copy: Abschrift
+    manuscript_copy_with_autograph_annotations: Abschrift mit autographen Eintragungen
     married_name: Ehename
     married_to: Verheiratet mit
     married_with: Verheiratet mit
@@ -598,7 +598,7 @@ de:
     method_of_acquisition: Beschaffungsart
     misattributed: Fälschlich
     miscellaneous: Verschiedenes
-    mixed: Mixed
+    mixed: Gemischte Materialien
     mode_10t: 'Mode: 10t – Hypoaeolisch'
     mode_10tt: 'Mode: 10tt – Hypoaeolisch, transponiert'
     mode_11t: 'Mode: 11t – Ionisch'
@@ -690,7 +690,7 @@ de:
     papermaker: Papierhersteller
     parallel_form: Parallele Namensformen
     parent_record: Übergeordneter Eintrag
-    partial_autograph: Partial autograph
+    partial_autograph: Teilautograph
     parts_held: Vorhandene Stimmen
     parts_held_extent: Stimmenmaterial
     patron: Mäzen/Auftraggeber
@@ -720,7 +720,7 @@ de:
     plaine_and_easie: Plaine and Easie Code
     plate_number: Plattennummer
     plucked_instruments: Zupfinstrumente
-    possible_autograph_manuscript: Possible autograph manuscript
+    possible_autograph_manuscript: Fragliches Autograph
     postal_code: Postleitzahl
     postal_place: postalischer Ort
     preceding_entry: Früherer Eintrag
@@ -850,7 +850,7 @@ de:
     translation: Übersetzung
     translator: Übersetzer
     transparency: Transparentfolie
-    treatise: Treatise
+    treatise: Traktat
     type: Typ
     type_designer: Schriftentwerfer
     type_institution: Typ der Körperschaft
