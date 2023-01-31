@@ -256,6 +256,7 @@ fr:
     additional_institution: Nom supplémentaire de la collectivité
     additional_personal_name: Nom supplémentaire de la personne
     additional_personal_name_lit: Nom supplémentaire de la personne
+    additional_printed_material: Additional printed material
     additional_solo_voice: Voix seule additionnelle
     additional_title: Titres uniformes additionnels
     additional_title_lit: Titres uniformes additionnels
@@ -290,6 +291,7 @@ fr:
     authority_agency: Agence d'authorité
     authority_record_control_number: Numéro de contrôle du registre de l'autorité ou de la norme numérique
     authority_reference: Référence d'authorité
+    autograph_manuscript: Autograph manuscript
     autography: Autographie
     b_major: Si majeur
     b_minor: Si mineur
@@ -557,6 +559,7 @@ fr:
     library_information_relations: Bibliothèque et relations
     library_siglum: Sigle de bibliothèque
     librettist: Librettiste
+    libretto: Libretto
     licensee: Licencié
     life_dates: Dates de vie
     link_type: Type de lien
@@ -581,6 +584,8 @@ fr:
     longitude: Longitude
     lyricist: Parolier
     main_entry_fields: Champs principales
+    manuscript_copy: Manuscript copy
+    manuscript_copy_with_autograph_annotations: Manuscript copy with autograph annotations
     married_name: Nom de mariage
     married_to: Marié/e avec
     married_with: Marié/e avec
@@ -593,6 +598,7 @@ fr:
     method_of_acquisition: Méthode d'acquisition
     misattributed: Erroné
     miscellaneous: Divers
+    mixed: Mixed
     mode_10t: 'Mode: 10t – Hypoéolien'
     mode_10tt: 'Mode: 10tt – Hypoéolien, transposé'
     mode_11t: 'Mode: 11t – Ionien'
@@ -641,6 +647,7 @@ fr:
     no_linguistic_content: Sans contenu linguistique
     non_migrated_bound: Non-migrated bound with value from 563
     not_applicable: Non applicable
+    notated_music: Notated music
     note: Note
     note_external_resource: Remarque sur la ressource externe
     note_fields: Champs de note
@@ -683,6 +690,7 @@ fr:
     papermaker: Papetier
     parallel_form: Forme de nom parallèle
     parent_record: Notice principale
+    partial_autograph: Partial autograph
     parts_held: Parties existantes
     parts_held_extent: Parties, extension
     patron: Mécène
@@ -712,6 +720,7 @@ fr:
     plaine_and_easie: Code Plaine and Easie
     plate_number: Numéro de plaque
     plucked_instruments: Instruments à cordes pincées
+    possible_autograph_manuscript: Possible autograph manuscript
     postal_code: Code postal
     postal_place: Endroit postal
     preceding_entry: Notice précédente
@@ -841,6 +850,7 @@ fr:
     translation: Traduction
     translator: Traducteur
     transparency: Transparent
+    treatise: Treatise
     type: Type
     type_designer: Créateur de caractères
     type_institution: Type d'institution
