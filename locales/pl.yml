@@ -267,7 +267,7 @@ pl:
     aids: Pomoce
     alleged: Rzekomy
     alternate_spelling: Alternatywna pisownia
-    alternative_work_title: Alternatywny tytuł pracy
+    alternative_work_title: Alternatywny tytuł dzieła
     archive: Archiwum
     arrangement: Aranżacja
     arrangement_statement: Uwaga do aranżacji
@@ -776,7 +776,7 @@ pl:
     scoring_in_movement: Obsada w części
     scoring_summary: Podsumowanie obsady
     scribe: Kopista
-    secondary_catalog_works: Drugi katalog dzieł
+    secondary_catalog_works: Dodatkowy katalog utworów
     secondary_literature: Literatura pomocnicza
     series: Seria
     series_added_entry: Dodatkowe wpisy tytułów
