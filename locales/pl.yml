@@ -254,7 +254,7 @@ pl:
     additional_choir_voice: Dodatkowy głos chóralny
     additional_codes: Dodatkowe kody zgodne ze standardowym numerem lub kodem
     additional_institution: Dodatkowa instytucja
-    additional_manuscript_material: Additional manuscript material
+    additional_manuscript_material: Dodatkowe źródło rękopiśmienne
     additional_personal_name: Dodatkowa osoba
     additional_personal_name_lit: Dodatkowa osoba
     additional_printed_material: Dodatkowe źródło drukowane
@@ -727,8 +727,8 @@ pl:
     postal_place: Rejon pocztowy
     preceding_entry: Poprzedzający wpis
     print: Druk
-    print_with_autograph_annotations: Print with autograph annotations
-    print_with_non_autograph_annotations: Print with non-autograph annotations
+    print_with_autograph_annotations: Druk z własnoręcznymi adnotacjami autorskimi
+    print_with_non_autograph_annotations: Druk z adnotacjami nieautorskimi
     printer: Drukarnia
     printing_technique: Technika druku
     production: Produkcja
