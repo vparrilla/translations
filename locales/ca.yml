@@ -254,7 +254,7 @@ ca:
     additional_choir_voice: Veu de cor addicional
     additional_codes: Codis addicionals a partir del número o codi estàndard
     additional_institution: Institució addicional
-    additional_manuscript_material: Additional manuscript material
+    additional_manuscript_material: Material manuscrit addicional
     additional_personal_name: Nom personal addicional
     additional_personal_name_lit: Nom personal addicional
     additional_printed_material: Additional printed material
@@ -555,7 +555,7 @@ ca:
     language_text: Llengua del text
     later_heading: Encapçalament posterior
     latitude: Latitud
-    leader: Leader
+    leader: Capçalera
     library: Biblioteca
     library_information: Informació de la biblioteca
     library_information_relations: Informació de la biblioteca i relacions
@@ -579,26 +579,26 @@ ca:
     local_number: Número local
     location: Lloc
     location_and_address: Lloc i adreça
-    location_insertion: Location of insertion
-    location_on_source: Locations on the source
-    location_performance: Location of performance
-    location_printer: Location of printer
+    location_insertion: Ubicació de la inserció
+    location_on_source: Ubicacions a la font
+    location_performance: Lloc de la interpretació
+    location_printer: Lloc de impressió
     longitude: Longitud
-    lyricist: Lyricist
-    main_entry_fields: Main entry fields
+    lyricist: Lletrista
+    main_entry_fields: Camps principals
     manuscript_copy: Manuscript copy
     manuscript_copy_with_autograph_annotations: Manuscript copy with autograph annotations
-    married_name: Married name
-    married_to: Married to
-    married_with: Married with
-    material_description: Material description
-    material_examined: Material examined
-    material_held: Material held
-    material_not_examined: Material not examined
-    media_type: Media type
-    mensural_clefs: Mensural clefs
-    method_of_acquisition: Method of acquisition
-    misattributed: Misattributed
+    married_name: Cognom de casada
+    married_to: Casat/da amb
+    married_with: Casat/da amb
+    material_description: Descripció del material
+    material_examined: Material examinat
+    material_held: Material conservat
+    material_not_examined: Material no examinat
+    media_type: Tipus de suport
+    mensural_clefs: Claus mensurals
+    method_of_acquisition: Mètode d'adquisició
+    misattributed: Atribuïda erròniament
     miscellaneous: Miscellaneous
     mixed: Mixed
     mode_10t: 'Mode: 10t – Hypoaeolian'
@@ -727,8 +727,8 @@ ca:
     postal_place: Postal place
     preceding_entry: Preceding entry
     print: Print
-    print_with_autograph_annotations: Print with autograph annotations
-    print_with_non_autograph_annotations: Print with non-autograph annotations
+    print_with_autograph_annotations: Imprès amb anotacions autògrafes
+    print_with_non_autograph_annotations: Imprès amb anotacions no autògrafes
     printer: Printer
     printing_technique: Printing technique
     production: Production
