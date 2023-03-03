@@ -254,7 +254,7 @@ ca:
     additional_choir_voice: Veu de cor addicional
     additional_codes: Codis addicionals a partir del número o codi estàndard
     additional_institution: Institució addicional
-    additional_manuscript_material: Additional manuscript material
+    additional_manuscript_material: Material manuscrit addicional
     additional_personal_name: Nom personal addicional
     additional_personal_name_lit: Nom personal addicional
     additional_printed_material: Additional printed material
@@ -555,7 +555,7 @@ ca:
     language_text: Llengua del text
     later_heading: Encapçalament posterior
     latitude: Latitud
-    leader: Leader
+    leader: Capçalera
     library: Biblioteca
     library_information: Informació de la biblioteca
     library_information_relations: Informació de la biblioteca i relacions
@@ -579,30 +579,30 @@ ca:
     local_number: Número local
     location: Lloc
     location_and_address: Lloc i adreça
-    location_insertion: Location of insertion
-    location_on_source: Locations on the source
-    location_performance: Location of performance
-    location_printer: Location of printer
+    location_insertion: Ubicació de la inserció
+    location_on_source: Ubicacions a la font
+    location_performance: Lloc de la interpretació
+    location_printer: Lloc de impressió
     longitude: Longitud
-    lyricist: Lyricist
-    main_entry_fields: Main entry fields
+    lyricist: Lletrista
+    main_entry_fields: Camps principals
     manuscript_copy: Manuscript copy
     manuscript_copy_with_autograph_annotations: Manuscript copy with autograph annotations
-    married_name: Married name
-    married_to: Married to
-    married_with: Married with
-    material_description: Material description
-    material_examined: Material examined
-    material_held: Material held
-    material_not_examined: Material not examined
-    media_type: Media type
-    mensural_clefs: Mensural clefs
-    method_of_acquisition: Method of acquisition
-    misattributed: Misattributed
-    miscellaneous: Miscellaneous
+    married_name: Cognom de casada
+    married_to: Casat/da amb
+    married_with: Casat/da amb
+    material_description: Descripció del material
+    material_examined: Material examinat
+    material_held: Material conservat
+    material_not_examined: Material no examinat
+    media_type: Tipus de suport
+    mensural_clefs: Claus mensurals
+    method_of_acquisition: Mètode d'adquisició
+    misattributed: Atribuïda erròniament
+    miscellaneous: Altres
     mixed: Mixed
-    mode_10t: 'Mode: 10t – Hypoaeolian'
-    mode_10tt: 'Mode: 10tt – Hypoaeolian, transposed'
+    mode_10t: 'Mode: 10t - Hipoeòlic'
+    mode_10tt: 'Mode: 10tt - Hipoeòlic. transposat'
     mode_11t: 'Mode: 11t – Ionian'
     mode_11tt: 'Mode: 11tt – Ionian, transposed'
     mode_12t: 'Mode: 12t – Hypoionian'
@@ -646,16 +646,16 @@ ca:
     narrower_term: Terme específic
     nationality: Nacionalitat
     nickname: Pseudònim
-    no_linguistic_content: No linguistic content
+    no_linguistic_content: Sense contingut lingüístic
     non_migrated_bound: Non-migrated bound with value from 563
-    not_applicable: Not applicable
+    not_applicable: No aplicable
     notated_music: Notated music
     note: Nota
     note_external_resource: Nota sobre el recurs extern
-    note_fields: Note fields
-    note_on_performance: Note on performance
-    now_in: Now in
-    number: Number
+    note_fields: Camps de notes
+    note_on_performance: Nota sobre la interpretació
+    now_in: Ara a
+    number: Número
     number_page: Number/page
     number_part_section: Number of part/section of a work
     number_volume_part: Number of volume/part
@@ -684,29 +684,29 @@ ca:
     other_help: Other help
     other_instruments: Other instruments
     other_life_dates: Other life dates
-    other_physical_details: Other physical details
+    other_physical_details: Altres detalls físics
     other_searchform: Other Searchform
-    other_shelfmark: Other shelfmark
-    other_standard_identifier: Other standard identifier
-    other_variant: Other variant
-    papermaker: Papermaker
-    parallel_form: Paralell form of name
-    parent_record: Parent record
+    other_shelfmark: Altra signatura
+    other_standard_identifier: Altre identificador estàndard
+    other_variant: Altra variant
+    papermaker: Fabricant de paper
+    parallel_form: Forma paral·lela del nom
+    parent_record: Registre mare
     partial_autograph: Partial autograph
-    parts_held: Parts held
-    parts_held_extent: Parts held and extent
-    patron: Patron
-    people: People
-    people_institutions: People and institutions
-    percussion: Percussion
-    performance: Performance
-    performances: Performances
-    performer: Performer
-    performer_note: Performer note
-    person: Person
+    parts_held: Parts existents
+    parts_held_extent: Parts existents i extensió
+    patron: Mecenes
+    people: Persones
+    people_institutions: Persones i institucions
+    percussion: Percussió
+    performance: Interpretació
+    performances: Interpretacions
+    performer: Intèrpret
+    performer_note: Nota sobre l'intèrpret
+    person: Persona
     person_name: Person name
-    personal_name: Personal name
-    personal_names: Personal names
+    personal_name: Nom personal
+    personal_names: Noms personals
     photoreproductive_process: Photoreproductive process (bluprint)
     physical_description: Physical description
     physical_description_fields: Physical description, etc. fields
@@ -727,8 +727,8 @@ ca:
     postal_place: Postal place
     preceding_entry: Preceding entry
     print: Print
-    print_with_autograph_annotations: Print with autograph annotations
-    print_with_non_autograph_annotations: Print with non-autograph annotations
+    print_with_autograph_annotations: Imprès amb anotacions autògrafes
+    print_with_non_autograph_annotations: Imprès amb anotacions no autògrafes
     printer: Printer
     printing_technique: Printing technique
     production: Production
