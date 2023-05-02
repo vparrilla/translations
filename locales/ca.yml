@@ -881,6 +881,9 @@ ca:
     woodwinds: Vent-fusta
     work: Obra
     work_number: Número d'obra
+    work_tag: Work revision tag
+    work_tag_note: Tag note
+    work_tag_type: Tag type
     year: Any
     years_birth_death: Anys de naixement i mort
   relations:
