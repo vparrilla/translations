@@ -881,6 +881,9 @@ pt:
     woodwinds: Madeiras
     work: Obra
     work_number: Número de obra
+    work_tag: Work revision tag
+    work_tag_note: Tag note
+    work_tag_type: Tag type
     year: Ano
     years_birth_death: Anos de nascimento e morte
   relations:
