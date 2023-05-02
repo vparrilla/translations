@@ -881,6 +881,9 @@ it:
     woodwinds: Legni
     work: Opera
     work_number: Numero dell'opera
+    work_tag: Work revision tag
+    work_tag_note: Tag note
+    work_tag_type: Tag type
     year: Anno
     years_birth_death: Data di nascita e di morte
   relations:
