@@ -884,6 +884,9 @@ en:
     woodwinds: Woodwinds
     work: Work
     work_number: Work number
+    work_tag: Work revision tag
+    work_tag_note: Tag note
+    work_tag_type: Tag type
     year: Year
     years_birth_death: Years of birth and death
   relations:
