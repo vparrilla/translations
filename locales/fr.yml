@@ -881,6 +881,9 @@ fr:
     woodwinds: Bois
     work: Oeuvre
     work_number: Numéro de l'œuvre
+    work_tag: Work revision tag
+    work_tag_note: Tag note
+    work_tag_type: Tag type
     year: Année
     years_birth_death: Dates de naissance et de mort
   relations:
