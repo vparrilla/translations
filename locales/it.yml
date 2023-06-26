@@ -299,6 +299,7 @@ it:
     baptismal_name: Nome di battesimo
     basic_functions: Funzioni base
     basso_continuo: Basso continuo
+    beginning_or_single_date: Beginning or single date
     bf_major: Si♭ maggiore
     bf_minor: Si♭ minore
     bibliography: Bibliografia
@@ -436,6 +437,7 @@ it:
     ef_major: Mi♭ maggiore
     ef_minor: Mi♭ minore
     encyclopedia: Enciclopedia
+    end: End
     end_period: Fine del periodo
     engraver: Incisore
     engraving: Incisione
@@ -716,6 +718,7 @@ it:
     place_activity: Luogo di attività
     place_birth: Luogo di nascita
     place_death: Luogo di morte
+    place_of_creation: Place of creation
     place_of_residence: Luogo di residenza/sede centrale
     place_origin: Luogo di origine
     place_publication: Luogo
