@@ -299,7 +299,7 @@ pt:
     baptismal_name: Nome baptismal
     basic_functions: Funções básicas
     basso_continuo: Contínuo
-    beginning_or_single_date: Beginning or single date
+    beginning_or_single_date: Data inicial ou única
     bf_major: Si bemol maior
     bf_minor: Si bemol menor
     bibliography: Bibliografia
@@ -437,7 +437,7 @@ pt:
     ef_major: Mi bemol maior
     ef_minor: Mi bemol menor
     encyclopedia: Enciclopédia
-    end: End
+    end: Fim
     end_period: Período final
     engraver: Gravador
     engraving: Gravação
@@ -718,7 +718,7 @@ pt:
     place_activity: Campo de atividade
     place_birth: Local de nascimento
     place_death: Local de morte
-    place_of_creation: Place of creation
+    place_of_creation: Local de criação
     place_of_residence: Local de residência/sede
     place_origin: Local de origem
     place_publication: Local
