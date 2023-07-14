@@ -886,8 +886,8 @@ de:
     work_number: Werknummer
     work_tag: Markierung der Werk-Revision
     work_tag_incipit_needs_revision: Incipit muss überarbeitet werden
-    work_tag_incipit_replace: incipit-replace
-    work_tag_needs_revision: needs-revision
+    work_tag_incipit_replace: Incipit ersetzen
+    work_tag_needs_revision: Überarbeitung notwendig
     work_tag_note: Markierungshinweis
     work_tag_type: Markierungstyp
     year: Jahr
