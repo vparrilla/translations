@@ -774,7 +774,7 @@ pl:
     relationship_designation: Oznaczenie relacji w $i lub $4
     relationship_information: Informacje o relacjach
     religious_name: Imię z wyznania
-    religious_order: Zgromadzenie zakonne
+    religious_order: "Religious order/Title"
     reproduction: Reprodukcja
     research_institute: Instytut badawczy
     retrospective_conversion: Konwersja retrospektywna
