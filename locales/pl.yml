@@ -979,7 +979,7 @@ pl:
     composite: "Klocek introligatorski"
     collection: "Kolekcja"
     item: "Pozycja"
-    single_item: "Single item"
+    single_item: "Pojedynczy rękopis"
     apply_filters: "Zastosuj filtry"
     error_loading_results: "Błąd podczas ładowania wyników"
     global_collection: "Źródła z całego świata"
