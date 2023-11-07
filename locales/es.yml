@@ -328,7 +328,7 @@ es:
     c_plus_4: C+4
     c_plus_5: C+5
     catalog: Catálogo
-    catalog_contribution: Catalog contribution
+    catalog_contribution: Contribución del catálogo
     catalog_opus_number: Catalog number/Opus number
     catalog_works: Catálogo de obras
     cataloging_agency: Agencia catalogadora
@@ -445,7 +445,7 @@ es:
     event_organizer: Organizador del evento
     event_place: Lugar del evento
     excerpts: Extractos
-    exemplar: Exemplar
+    exemplar: Ejemplar
     exemplars: Ejemplares
     extent: Extensión
     extent_parts: Extensión (particellas)
@@ -978,7 +978,7 @@ es:
     manuscript: "Manuscrito"
     printed: "Impreso"
     composite: "Volumen compuesto"
-    collection: "Collection"
+    collection: "Colección"
     item: "Item"
     single_item: "Single item"
     apply_filters: "Aplicar filtros"
