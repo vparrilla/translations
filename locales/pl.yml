@@ -328,6 +328,7 @@ pl:
     c_plus_4: C+4
     c_plus_5: C+5
     catalog: Katalog
+    catalog_contribution: Catalog contribution
     catalog_opus_number: Numer katalogu / numer opus
     catalog_works: Katalog utworów
     cataloging_agency: Jednostka katalogująca
