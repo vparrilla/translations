@@ -328,7 +328,7 @@ de:
     c_plus_4: C+4
     c_plus_5: C+5
     catalog: Katalog
-    catalog_contribution: Catalog contribution
+    catalog_contribution: Katalogbeitrag
     catalog_opus_number: Werkverzeichnis/Opus
     catalog_works: Werkverzeichnis
     cataloging_agency: Katalogisierungsagentur
@@ -978,9 +978,9 @@ de:
     manuscript: "Handschrift"
     printed: "Gedruckt"
     composite: "Konvolut"
-    collection: "Collection"
-    item: "Item"
-    single_item: "Single item"
+    collection: "Sammlung"
+    item: "Eintrag"
+    single_item: "Einzelnes Element"
     apply_filters: "Filter anwenden"
     error_loading_results: "Fehler beim Laden der Ergebnisse"
     global_collection: "Globale Sammlung"
