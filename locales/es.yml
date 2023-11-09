@@ -601,7 +601,7 @@ es:
     material_group: Grupo de material
     material_held: Material conservado
     material_not_examined: Material no examinado
-    material_type: Material type
+    material_type: Tipo de material
     media_type: Tipo de medio físico
     mensural_clefs: Claves mensurales
     method_of_acquisition: Método de adquisición
@@ -980,7 +980,7 @@ es:
     composite: "Volumen compuesto"
     collection: "Colección"
     item: "Item"
-    single_item: "Single item"
+    single_item: "Elemento único"
     apply_filters: "Aplicar filtros"
     error_loading_results: "Error al cargar resultados"
     global_collection: "Colección global"
