@@ -978,7 +978,7 @@ ca:
     manuscript: "Manuscrit"
     printed: "Imprès"
     composite: "Volum compost"
-    collection: "Collection"
+    collection: "Col·lecció"
     item: "Item"
     single_item: "Single item"
     apply_filters: "Aplicar els filtres"
