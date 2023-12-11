@@ -980,7 +980,7 @@ es:
     printed: "Impreso"
     composite: "Volumen compuesto"
     collection: "Colección"
-    item: "Item"
+    item: "Elemento"
     single_item: "Elemento único"
     apply_filters: "Aplicar filtros"
     error_loading_results: "Error al cargar resultados"
