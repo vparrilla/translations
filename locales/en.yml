@@ -403,6 +403,7 @@ en:
     date_time_last_transaction: Date and time of last transaction
     date_type: Date type
     dates: Dates
+    dates_of_publication: Dates of publication
     dedicatee: Dedicatee
     department: Department
     depositor: Depositor
