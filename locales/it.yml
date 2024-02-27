@@ -390,7 +390,7 @@ it:
     country_activity: Paese di attività
     country_code: Codice del Paese
     country_of_publication: Paese
-    county_province: Contea o provincia
+    county_province: County, province, state
     creation_production_note: Nota sulle responsabilità di creazione/produzione
     cs_major: Do♯ maggiore
     cs_minor: Do♯ minore
@@ -403,6 +403,7 @@ it:
     date_time_last_transaction: Data e ora dell'ultima transazione
     date_type: Tipo di datazione
     dates: Date
+    dates_of_publication: Dates of publication
     dedicatee: Dedicatario
     department: Dipartimento
     depositor: Depositante
@@ -532,7 +533,7 @@ it:
     index_terms: Descrittori
     information_found: Riferimento dell'informazione
     initial: Iniziali
-    initial_entry: Prima notizia
+    initial_entry: Initial entry in A/I
     initials: Iniziali
     insertions: Inserimenti
     inserts: Inserimenti
@@ -747,7 +748,7 @@ it:
     production_personnel: Personale alla produzione
     profession_or_function: Professione o funzione
     provenance: Provenienza
-    provenance_notes: Nota di provenienza
+    provenance_notes: Provenance note
     pseudonym: Pseudonimo
     public_note: Nota pubblica
     publisher: Editore
@@ -878,7 +879,7 @@ it:
     typography: Stampa tipografica
     uncategorized: Non categorizzato
     unknown: Sconosciuto
-    unparsed_fingerprint: Impronta non analizzata
+    unparsed_fingerprint: Fingerprint
     variant_ms_title: Varianti del titolo diplomatico
     variant_source_title: Varianti del titolo diplomatico
     variations: Variazioni
