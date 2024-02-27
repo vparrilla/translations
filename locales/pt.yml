@@ -390,7 +390,7 @@ pt:
     country_activity: País de atividade
     country_code: Código de país
     country_of_publication: País da publicação
-    county_province: Pais ou província
+    county_province: County, province, state
     creation_production_note: Nota de produção/criação
     cs_major: Dó sustenido maior
     cs_minor: Dó sustenido menor
@@ -403,6 +403,7 @@ pt:
     date_time_last_transaction: Data e hora da última transação
     date_type: Tipo de data
     dates: Datas
+    dates_of_publication: Dates of publication
     dedicatee: Dedicatário(a)
     department: Departamento
     depositor: Depositante
@@ -532,7 +533,7 @@ pt:
     index_terms: Indexadores
     information_found: Informação encontrada
     initial: Inicial
-    initial_entry: Entrada inicial
+    initial_entry: Initial entry in A/I
     initials: Iniciais
     insertions: Inserções
     inserts: Inserções
@@ -747,7 +748,7 @@ pt:
     production_personnel: Pessoal da produção
     profession_or_function: Profissão ou função
     provenance: Proveniência
-    provenance_notes: Nota de proveniência
+    provenance_notes: Provenance note
     pseudonym: Pseudónimo
     public_note: Nota pública
     publisher: Casa editora
@@ -878,7 +879,7 @@ pt:
     typography: Tipografia
     uncategorized: Sem categoria
     unknown: Desconhecido
-    unparsed_fingerprint: Identificador de impressão não analisado
+    unparsed_fingerprint: Fingerprint
     variant_ms_title: Título variante na fonte
     variant_source_title: Título variante na fonte
     variations: Variações
