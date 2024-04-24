@@ -530,6 +530,7 @@ pt:
     incipit: Incipit
     incipit_number: Número de incipit
     incipits: Incipit
+    includes_holdings_from: Includes holdings from
     index_terms: Indexadores
     information_found: Informação encontrada
     initial: Inicial
