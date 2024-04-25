@@ -530,6 +530,7 @@ pl:
     incipit: Incipit
     incipit_number: Numer incipitu
     incipits: Incipity
+    includes_holdings_from: Includes holdings from
     index_terms: Pojęcia indeksowane
     information_found: Odnaleziona informacja
     initial: Inicjały
