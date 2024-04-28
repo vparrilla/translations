@@ -24,7 +24,7 @@ es:
     undetermined: Indeterminado
     ungrouped_fields: Campos no agrupados
     unknown_fields: Campos desconocidos
-    unused: EN DESUSO - SERÁ REMOVIDO
+    unused: EN DESUSO - SERÁ ELIMINADO
     updated_at: Fecha de modificación
     uri: URI
     url: URL
@@ -357,7 +357,7 @@ es:
     collaborator: Colaborador
     collective_catalog: Catálogo colectivo
     colophon: Colofón
-    contributing_project: Contributing project
+    contributing_project: Proyecto colaborador
     common_clefs: Claves comunes
     compiler: Compilador
     composer: Compositor
@@ -422,7 +422,7 @@ es:
     dissertation_note: Nota de disertación
     distribution: Distribución
     distributor: Distribuidor
-    documentation_center: Documentation center
+    documentation_center: Centro de documentación
     donor: Donante
     doubtful: Dudosa
     dramatic_roles_original: Nombres de personajes, ortografía original
@@ -501,7 +501,7 @@ es:
     g_plus_5: G+5
     gender: Género
     general_abbreviations: Abreviaturas y términos generales
-    general_cataloguing_guidelines: Lineamientos generales para la catalogación
+    general_cataloguing_guidelines: Pautas generales para la catalogación
     general_note: Nota general
     general_note_incipits: Nota general
     general_note_institution: Nota general
@@ -557,7 +557,7 @@ es:
     keyboards: Keyboards
     keys: Tonalidades
     language_code: Código de idioma
-    language_codes: Código de idioma
+    language_codes: Códigos de idioma
     language_libretto: Idioma del libreto
     language_note: Nota de idioma
     language_of_cataloging: Idioma de catalogación
@@ -614,29 +614,29 @@ es:
     miscellaneous: Varios
     mixed: Mixto
     mode_10t: 'Modo: 10º tono (Hipoeólico)'
-    mode_10tt: 'Modo: 10º tono (Hipoeólico), transpuesto'
+    mode_10tt: 'Modo: 10º tono (Hipoeólico), transportado'
     mode_11t: 'Modo:  11º tono (Jónico)'
-    mode_11tt: 'Modo:  11º tono (Jónico), transpuesto'
+    mode_11tt: 'Modo:  11º tono (Jónico), transportado'
     mode_12t: 'Modo:  12º tono (Hipojónico)'
-    mode_12tt: 'Modo:  12º tono (Hipojónico), transpuesto'
+    mode_12tt: 'Modo:  12º tono (Hipojónico), transportado'
     mode_1t: 'Modo: 1º tono (Dórico)'
-    mode_1tt: 'Modo: 1º tono (Dórico), transpuesto'
+    mode_1tt: 'Modo: 1º tono (Dórico), transportado'
     mode_2t: 'Modo: 2º tono (Hipodórico)'
-    mode_2tt: 'Modo: 2º tono (Hipodórico), transpuesto'
+    mode_2tt: 'Modo: 2º tono (Hipodórico), transportado'
     mode_3t: 'Modo: 3º tono (Frigio)'
-    mode_3tt: 'Modo: 3º tono (Frigio), transpuesto'
+    mode_3tt: 'Modo: 3º tono (Frigio), transportado'
     mode_4t: 'Modo: 4º tono (Hipofrigio)'
-    mode_4tt: 'Modo: 4º tono (Hipofrigio), transpuesto'
+    mode_4tt: 'Modo: 4º tono (Hipofrigio), transportado'
     mode_5t: 'Modo: 5º tono (Lidio)'
-    mode_5tt: 'Modo: 5º tono (Lidio), transpuesto'
+    mode_5tt: 'Modo: 5º tono (Lidio), transportado'
     mode_6t: 'Modo: 6º tono (Hipolidio)'
-    mode_6tt: 'Modo: 6º tono (Hipolidio), transpuesto'
+    mode_6tt: 'Modo: 6º tono (Hipolidio), transportado'
     mode_7t: 'Modo: 7º tono (Mixolidio)'
-    mode_7tt: 'Modo: 7º tono (Mixolidio), transpuesto'
+    mode_7tt: 'Modo: 7º tono (Mixolidio), transportado'
     mode_8t: 'Modo: 8º tono (Hipomixolidio)'
-    mode_8tt: 'Modo: 8º tono (Hipomixolidio), transpuesto'
+    mode_8tt: 'Modo: 8º tono (Hipomixolidio), transportado'
     mode_9t: 'Modo: 9º tono (Eólico)'
-    mode_9tt: 'Modo: 9º tono (Eólico), transpuesto'
+    mode_9tt: 'Modo: 9º tono (Eólico), transportado'
     modifying_agency: Agencia de la modificación
     monogram: Monograma
     mother_of: Madre de
@@ -655,12 +655,12 @@ es:
     name_variant: Variantes del nombre
     name_variants: Variantes del nombre
     named_dramatic_roles: Nombres de personajes
-    narrower_term: Término más estrecho
+    narrower_term: Término más restringido
     nationality: Nacionalidad
     nickname: Apodo
     no_linguistic_content: Sin contenido lingüístico
     non_migrated_bound: Non-migrated bound with value from 563
-    not_applicable: No se aplica
+    not_applicable: No procede
     notated_music: Música notada
     note: Nota
     note_external_resource: Nota sobre el recurso externo
@@ -694,7 +694,7 @@ es:
     other_form: Ortografía alternativa
     other_form_of_name: Otra forma del nombre
     other_function: Otra función
-    other_help: Otra Ayuda
+    other_help: Otra ayuda
     other_instruments: Otros instrumentos
     other_life_dates: Otras fechas de vida
     other_physical_details: Otros detalles físicos
@@ -711,7 +711,7 @@ es:
     patron: Comitente
     people: Personas
     people_institutions: Personas e instituciones
-    percussion: Percussion
+    percussion: Percusión
     performance: Interpretación
     performances: Interpretaciones
     performer: Intérprete
@@ -722,13 +722,13 @@ es:
     personal_names: Nombres personales
     photoreproductive_process: Proceso foto reproductivo
     physical_description: Descripción física
-    physical_description_fields: Campos para la descripción Material
+    physical_description_fields: Campos para la descripción material
     place: Lugar
     place_active: Lugar de actividad
     place_activity: Lugar de actividad
     place_birth: Lugar de nacimiento
     place_death: Lugar de fallecimiento
-    place_of_creation: Sitio de creación
+    place_of_creation: Lugar de creación
     place_of_residence: Lugar de residencia/sede
     place_origin: Lugar de origen
     place_publication: Lugar de publicación
@@ -742,7 +742,7 @@ es:
     preceding_entry: Registro precedente
     print: Impresión
     print_with_autograph_annotations: Impresión con anotaciones autógrafas
-    print_with_non_autograph_annotations: Impresión con anotaciones non autógrafas
+    print_with_non_autograph_annotations: Impresión con anotaciones no autógrafas
     printer: Impresor
     printing_technique: Técnica de impresión
     production: Producción
@@ -801,7 +801,7 @@ es:
     shelfmark: Signatura
     shelfmark_olim: Marca antigua (olim)
     short_title: Título breve
-    sigla: Sigla
+    sigla: Siglas
     siglum: Sigla
     single_date: Fecha única
     sister_of: Hermana de
@@ -839,7 +839,7 @@ es:
     subordinate_unit: Unidad subordinada
     succeeding_entry: Entrada siguiente
     summary: Resumen
-    supplementary_material: Material suplementario
+    supplementary_material: Material complementario
     technical_errors: Problemas técnicos
     technical_production: Producción técnica
     temp_val: Temp val
